@@ -1,0 +1,421 @@
+team,give,get,market_ratio,regE,regH,poE,poH,mwE,mwH,sE,sH,themE,themH,note,up,down,robust,they_ok
+LS,Davion Mitchell,Zach LaVine,0.824,-2.702,-2.716,-0.672,-0.438,-0.619,-0.558,-4.719,-4.030,0.148,0.135,,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK",-4.719,True
+LS,Davion Mitchell,Wendell Carter Jr.,1.189,-1.907,-1.200,-0.410,-0.013,-0.459,-0.222,-3.136,-1.239,0.138,0.030,,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-3.136,True
+LS,Davion Mitchell,Duncan Robinson,1.565,-1.172,-1.453,-0.536,-0.302,-0.210,-0.212,-2.778,-2.358,0.048,0.052,,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK, FG%",-2.778,True
+LS,Davion Mitchell,James Harden + Deni Avdija,0.966,2.315,0.431,0.166,0.214,0.694,0.144,2.814,1.073,-0.465,-0.474,I drop Rui Hachimura,"PTS, REB, FT%","STL, FG%, TO",1.073,False
+LS,Davion Mitchell,James Harden + Ausar Thompson,1.284,1.708,0.543,-0.026,0.060,0.473,0.202,1.631,0.724,-0.290,-0.332,I drop Rui Hachimura,"REB, STL, BLK, FT%","3PM, TO",0.724,False
+LS,Davion Mitchell,James Harden + CJ McCollum,1.436,0.897,-1.260,0.171,0.072,0.262,-0.294,1.411,-1.043,-0.394,-0.318,I drop Rui Hachimura,"PTS, REB, 3PM, FT%","STL, FG%",-1.043,False
+LS,Davion Mitchell,James Harden + Ivica Zubac,1.574,0.653,-0.677,-0.137,-0.082,0.146,-0.184,0.242,-0.923,-0.261,-0.278,I drop Rui Hachimura,"REB, FT%","AST, STL, 3PM",-0.923,False
+LS,Davion Mitchell,James Harden + Duncan Robinson,0.812,3.047,0.912,0.070,0.113,0.837,0.330,3.256,1.250,-0.503,-0.420,I drop Rui Hachimura,"PTS, REB, 3PM, FT%","AST, FG%",1.250,False
+LS,Davion Mitchell,James Harden + Collin Murray-Boyles,1.396,0.676,-0.967,-0.191,-0.065,0.188,-0.190,0.102,-1.162,-0.273,-0.250,I drop Rui Hachimura,"REB, FT%","PTS, AST, STL, 3PM",-1.162,False
+LS,Davion Mitchell,James Harden + Tristan da Silva,1.559,0.926,-0.833,-0.277,-0.214,0.288,-0.189,0.096,-1.476,-0.329,-0.298,I drop Rui Hachimura,"PTS, REB, 3PM, FT%","AST, STL, FG%",-1.476,False
+LS,Davion Mitchell,Deni Avdija + Ausar Thompson,1.590,0.014,0.350,-0.028,0.325,0.076,0.159,-0.070,1.325,-0.159,-0.320,I drop Rui Hachimura,"PTS, REB, STL, BLK","3PM, FT%, TO",-0.070,False
+LS,Davion Mitchell,Deni Avdija + Duncan Robinson,0.925,1.335,0.493,0.070,0.379,0.422,0.245,1.545,1.629,-0.380,-0.412,I drop Rui Hachimura,"PTS, REB, 3PM","AST, STL, BLK, TO",1.545,False
+LS,Davion Mitchell,Ausar Thompson + Wendell Carter Jr.,0.974,-1.034,0.252,-0.157,0.563,-0.222,0.221,-1.504,1.941,-0.093,-0.310,I drop Rui Hachimura,"REB, STL, BLK, FG%, TO","AST, 3PM, FT%",-1.504,False
+LS,Davion Mitchell,Ausar Thompson + Duncan Robinson,1.212,0.011,0.212,-0.170,0.444,0.072,0.257,-0.500,1.545,-0.254,-0.362,I drop Rui Hachimura,"REB, STL, TO",AST,-0.500,False
+LS,Davion Mitchell,CJ McCollum + Wendell Carter Jr.,1.058,-1.104,-1.107,0.107,0.650,-0.332,-0.251,-0.784,0.842,-0.213,-0.312,I drop Rui Hachimura,"REB, FT%, TO","AST, STL, 3PM",-0.784,False
+LS,Davion Mitchell,CJ McCollum + Duncan Robinson,1.347,-0.416,-1.506,-0.007,0.243,-0.092,-0.239,-0.437,-0.777,-0.346,-0.316,I drop Rui Hachimura,"PTS, 3PM, FT%, TO","AST, STL, BLK, FG%",-0.777,False
+LS,Davion Mitchell,Ivica Zubac + Wendell Carter Jr.,1.132,-2.084,-1.170,-0.311,0.414,-0.539,-0.181,-3.018,0.071,-0.130,-0.323,I drop Rui Hachimura,"REB, BLK, FG%, FT%, TO","AST, STL, 3PM",-3.018,False
+LS,Davion Mitchell,Ivica Zubac + Duncan Robinson,1.468,-0.163,-0.288,-0.266,0.372,-0.032,0.106,-0.960,0.828,-0.249,-0.317,I drop Rui Hachimura,"REB, FG%, FT%, TO","AST, STL",-0.960,False
+LS,Davion Mitchell,Wendell Carter Jr. + Collin Murray-Boyles,1.037,-1.660,-1.145,-0.290,0.458,-0.392,-0.124,-2.532,0.228,-0.119,-0.253,I drop Rui Hachimura,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-2.532,False
+LS,Davion Mitchell,Wendell Carter Jr. + Tristan da Silva,1.124,-1.536,-0.904,-0.333,0.428,-0.386,-0.165,-2.535,0.379,-0.179,-0.311,I drop Rui Hachimura,"REB, FG%, FT%, TO","AST, STL, 3PM",-2.535,False
+LS,Davion Mitchell,Duncan Robinson + Collin Murray-Boyles,1.311,-0.533,-1.320,-0.351,0.322,-0.067,-0.141,-1.585,-0.353,-0.261,-0.291,I drop Rui Hachimura,"REB, FG%, FT%, TO",AST,-1.585,False
+LS,Davion Mitchell,Duncan Robinson + Tristan da Silva,1.455,-0.662,-1.192,-0.487,0.066,-0.103,-0.143,-2.123,-0.995,-0.311,-0.320,I drop Rui Hachimura,"3PM, FT%, TO","AST, STL, BLK, FG%",-2.123,False
+LS,Davion Mitchell + Kyshawn George,Kyrie Irving,0.885,-0.709,0.222,0.549,0.877,-0.159,-0.024,0.938,2.854,0.056,0.021,I add Collin Gillespie; they drop Tristan da Silva,"REB, STL, FT%, TO","AST, BLK",0.938,True
+LS,Davion Mitchell + Kyshawn George,Ty Jerome,0.907,0.928,1.432,0.962,1.236,0.231,0.212,3.816,5.140,-0.042,-0.088,I add Collin Gillespie; they drop Tristan da Silva,"STL, FT%, TO","AST, BLK",3.816,True
+LS,Davion Mitchell + Kyshawn George,Zach LaVine,1.342,-3.593,-1.412,-0.482,0.135,-0.797,-0.312,-5.039,-1.008,0.201,0.093,I add Collin Gillespie; they drop Tristan da Silva,"STL, FT%, TO","PTS, AST, BLK",-5.039,True
+LS,Davion Mitchell + Kyshawn George,James Harden + Deni Avdija,1.573,0.053,0.321,-0.091,0.018,0.193,0.106,-0.218,0.374,-0.028,-0.127,,"PTS, REB, FT%","STL, BLK, FG%, TO",-0.218,True
+LS,Davion Mitchell + Kyshawn George,James Harden + Zach LaVine,0.901,-1.232,-1.310,-0.386,-0.220,-0.187,-0.277,-2.389,-1.969,0.034,0.010,,"PTS, REB, 3PM, FT%","AST, STL, BLK, FG%, TO",-2.389,True
+LS,Davion Mitchell + Kyshawn George,James Harden + Wendell Carter Jr.,1.136,-0.142,0.754,-0.146,0.242,0.016,0.163,-0.579,1.479,0.019,-0.096,,"REB, FT%, TO","AST, STL, BLK, 3PM",-0.579,True
+LS,Davion Mitchell + Kyshawn George,James Harden + Duncan Robinson,1.322,0.531,0.672,-0.259,-0.045,0.280,0.252,-0.245,0.539,-0.064,-0.064,,"PTS, REB, 3PM, FT%, TO","AST, BLK, FG%",-0.245,False
+LS,Davion Mitchell + Kyshawn George,Deni Avdija + Zach LaVine,0.983,-2.820,-1.324,-0.629,-0.019,-0.570,-0.250,-4.708,-1.381,0.125,-0.028,,"PTS, REB, FT%","AST, STL, BLK",-4.708,True
+LS,Davion Mitchell + Kyshawn George,Deni Avdija + Wendell Carter Jr.,1.268,-1.658,0.562,-0.186,0.494,-0.318,0.178,-2.218,2.043,0.130,-0.116,,"PTS, REB, FG%","AST, STL, 3PM",-2.218,True
+LS,Davion Mitchell + Kyshawn George,Deni Avdija + Duncan Robinson,1.506,-0.951,0.351,-0.225,0.277,-0.078,0.194,-1.625,1.181,0.046,-0.085,,"PTS, REB, 3PM","AST, BLK",-1.625,True
+LS,Davion Mitchell + Kyshawn George,Kyrie Irving + Ausar Thompson,0.803,-0.923,0.384,0.401,0.805,-0.231,0.137,0.282,2.798,0.078,-0.041,,"REB, STL, FG%, FT%, TO","AST, 3PM",0.282,True
+LS,Davion Mitchell + Kyshawn George,Kyrie Irving + CJ McCollum,0.837,-1.819,-1.674,0.434,0.609,-0.509,-0.447,-0.518,0.154,0.016,0.017,,"PTS, FT%, TO","AST, STL, BLK",-0.518,True
+LS,Davion Mitchell + Kyshawn George,Kyrie Irving + Ivica Zubac,0.865,-1.891,-0.906,0.312,0.685,-0.519,-0.225,-0.956,1.148,0.060,-0.028,,"PTS, REB, FG%, FT%, TO","AST, STL, BLK, 3PM",-0.956,True
+LS,Davion Mitchell + Kyshawn George,Kyrie Irving + Collin Murray-Boyles,0.829,-2.041,-1.130,0.226,0.733,-0.524,-0.242,-1.364,1.068,0.045,0.002,,"REB, FG%, FT%, TO","AST, 3PM",-1.364,True
+LS,Davion Mitchell + Kyshawn George,Kyrie Irving + Tristan da Silva,0.862,-1.960,-1.206,0.144,0.499,-0.473,-0.294,-1.529,0.291,0.054,0.022,,"PTS, REB, FT%, TO","AST, STL, BLK",-1.529,True
+LS,Davion Mitchell + Kyshawn George,Ty Jerome + Ausar Thompson,0.822,1.025,2.126,0.815,1.161,0.230,0.515,3.470,5.609,-0.035,-0.161,,"PTS, REB, STL, FG%, FT%, TO","AST, BLK, 3PM",3.470,True
+LS,Davion Mitchell + Kyshawn George,Ty Jerome + CJ McCollum,0.857,-0.088,-0.112,0.834,0.953,-0.065,-0.107,2.415,2.748,-0.099,-0.102,,"PTS, 3PM, FT%, TO","AST, BLK",2.415,False
+LS,Davion Mitchell + Kyshawn George,Ty Jerome + Ivica Zubac,0.886,-0.219,0.761,0.707,1.076,-0.141,0.092,1.902,3.989,-0.026,-0.128,,"PTS, REB, FG%, FT%, TO","AST, STL, BLK, 3PM",1.902,True
+LS,Davion Mitchell + Kyshawn George,Ty Jerome + Collin Murray-Boyles,0.848,-0.056,0.684,0.615,1.078,-0.059,0.161,1.788,3.919,-0.053,-0.110,,"PTS, REB, FG%, FT%, TO","AST, BLK, 3PM",1.788,False
+LS,Davion Mitchell + Kyshawn George,Ty Jerome + Tristan da Silva,0.883,-0.027,0.501,0.533,0.830,-0.022,0.054,1.573,2.991,-0.042,-0.087,,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK",1.573,True
+LS,Davion Mitchell + Kyshawn George,Zach LaVine + Ausar Thompson,1.163,-3.558,-0.819,-0.649,0.140,-0.793,-0.033,-5.505,-0.399,0.237,0.038,,"REB, STL, FG%, TO","AST, BLK, 3PM",-5.505,True
+LS,Davion Mitchell + Kyshawn George,Zach LaVine + CJ McCollum,1.236,-4.460,-3.263,-0.611,-0.163,-1.075,-0.746,-6.293,-3.752,0.186,0.109,,"PTS, 3PM, FT%, TO","REB, AST, STL, BLK",-6.293,True
+LS,Davion Mitchell + Kyshawn George,Zach LaVine + Ivica Zubac,1.296,-4.441,-2.259,-0.702,0.013,-1.045,-0.430,-6.548,-2.218,0.215,0.050,,"REB, FG%, FT%, TO","AST, STL, BLK, 3PM",-6.548,True
+LS,Davion Mitchell + Kyshawn George,Zach LaVine + Duncan Robinson,0.879,-2.598,-1.084,-0.559,0.091,-0.472,-0.063,-4.275,-0.811,0.053,-0.009,,"PTS, 3PM, FT%, TO","AST, STL, BLK",-4.275,True
+LS,Davion Mitchell + Kyshawn George,Zach LaVine + Collin Murray-Boyles,1.218,-4.769,-2.535,-0.763,0.054,-1.102,-0.456,-7.058,-2.373,0.195,0.078,,"REB, FG%, FT%, TO","AST, STL, BLK, 3PM",-7.058,True
+LS,Davion Mitchell + Kyshawn George,Zach LaVine + Tristan da Silva,1.290,-4.692,-2.767,-0.849,-0.186,-1.085,-0.593,-7.240,-3.325,0.197,0.094,,"REB, 3PM, FT%, TO","AST, STL, BLK",-7.240,True
+LS,Davion Mitchell + Kyshawn George,Ausar Thompson + Wendell Carter Jr.,1.585,-3.178,0.113,-0.450,0.447,-0.701,0.178,-4.529,1.455,0.218,-0.060,,"REB, STL, FG%, TO","PTS, AST, 3PM, FT%",-4.529,True
+LS,Davion Mitchell + Kyshawn George,Wendell Carter Jr. + Duncan Robinson,1.100,-1.320,0.847,-0.264,0.652,-0.201,0.356,-2.111,2.802,0.021,-0.135,,"REB, 3PM, FG%, FT%, TO","AST, BLK",-2.111,True
+LS,Davion Mitchell + Jrue Holiday,Zach LaVine,1.154,-2.622,-1.448,-0.356,-0.114,-0.504,-0.209,-3.690,-1.789,0.159,0.093,I add Collin Gillespie; they drop Tristan da Silva,"REB, STL, FT%, TO","AST, BLK",-3.690,True
+LS,Davion Mitchell + Jrue Holiday,James Harden + Deni Avdija,1.353,0.766,-0.014,0.015,-0.203,0.386,0.111,0.812,-0.623,0.004,-0.030,,"PTS, REB, BLK, FT%","STL, FG%, TO",-0.623,True
+LS,Davion Mitchell + Jrue Holiday,James Harden + Wendell Carter Jr.,0.977,0.102,-0.018,-0.059,0.085,0.115,0.078,-0.075,0.236,0.050,-0.019,,"PTS, REB, BLK, FT%","AST, STL, 3PM, FG%",-0.075,True
+LS,Davion Mitchell + Jrue Holiday,James Harden + Duncan Robinson,1.137,0.964,-0.044,-0.293,-0.332,0.412,0.142,0.084,-1.040,-0.061,-0.009,,"PTS, REB, 3PM, FT%","AST, STL, FG%",-1.040,True
+LS,Davion Mitchell + Jrue Holiday,Deni Avdija + Zach LaVine,0.846,-1.868,-1.304,-0.310,-0.039,-0.287,-0.143,-2.799,-1.421,0.133,0.028,,"PTS, REB","AST, STL, BLK, TO",-2.799,True
+LS,Davion Mitchell + Jrue Holiday,Deni Avdija + Wendell Carter Jr.,1.091,-1.391,-0.218,-0.089,0.321,-0.216,0.067,-1.658,0.744,0.173,-0.028,,"PTS, REB, BLK, FG%","AST, STL, 3PM, TO",-1.658,True
+LS,Davion Mitchell + Jrue Holiday,Deni Avdija + Duncan Robinson,1.295,-0.123,0.040,-0.108,0.122,0.185,0.216,-0.448,0.406,0.033,-0.055,,"PTS, REB, 3PM","AST, STL, FG%",-0.448,True
+LS,Davion Mitchell + Jrue Holiday,Zach LaVine + Ausar Thompson,1.001,-3.450,-1.756,-0.698,-0.087,-0.713,-0.171,-5.545,-2.018,0.206,0.053,,"REB, BLK, FG%, TO","AST, 3PM",-5.545,True
+LS,Davion Mitchell + Jrue Holiday,Zach LaVine + CJ McCollum,1.063,-3.546,-3.319,-0.479,-0.235,-0.782,-0.654,-4.984,-4.024,0.180,0.144,,"PTS, 3PM, FT%","AST, STL",-4.984,True
+LS,Davion Mitchell + Jrue Holiday,Zach LaVine + Ivica Zubac,1.115,-3.749,-2.371,-0.757,-0.189,-0.804,-0.361,-6.021,-2.937,0.201,0.078,,"PTS, REB, BLK, FG%, FT%, TO","AST, STL, 3PM",-6.021,True
+LS,Davion Mitchell + Jrue Holiday,Zach LaVine + Collin Murray-Boyles,1.047,-4.229,-3.023,-0.662,-0.075,-0.923,-0.519,-6.215,-3.248,0.181,0.112,,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-6.215,True
+LS,Davion Mitchell + Jrue Holiday,Zach LaVine + Tristan da Silva,1.110,-4.408,-3.522,-0.899,-0.401,-0.968,-0.696,-7.104,-4.725,0.161,0.095,,"REB, 3PM, FT%, TO","AST, STL, BLK",-7.104,True
+LS,Davion Mitchell + Jrue Holiday,Ausar Thompson + Wendell Carter Jr.,1.364,-3.439,-1.093,-0.483,0.232,-0.701,0.008,-4.888,-0.399,0.215,-0.025,,"REB, STL, BLK, FG%, TO","PTS, AST, 3PM, FT%",-4.888,True
+LS,Davion Mitchell + Jrue Holiday,CJ McCollum + Wendell Carter Jr.,1.482,-2.817,-1.790,-0.207,0.252,-0.628,-0.278,-3.438,-1.034,0.171,0.030,,"REB, BLK, FT%, TO","AST, STL, 3PM",-3.438,True
+LS,Davion Mitchell + Jrue Holiday,Ivica Zubac + Wendell Carter Jr.,1.585,-3.808,-1.711,-0.595,0.052,-0.836,-0.211,-5.592,-1.553,0.164,-0.059,,"REB, BLK, FG%, TO","AST, STL, 3PM",-5.592,True
+LS,Davion Mitchell + Jrue Holiday,Wendell Carter Jr. + Duncan Robinson,0.946,-1.617,-0.371,-0.267,0.437,-0.203,0.168,-2.417,0.941,0.006,-0.106,,"REB, 3PM, FG%, TO","AST, STL",-2.417,True
+LS,Davion Mitchell + Jrue Holiday,Wendell Carter Jr. + Collin Murray-Boyles,1.452,-3.909,-2.150,-0.427,0.206,-0.835,-0.299,-5.191,-1.532,0.188,0.040,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-5.191,True
+LS,Davion Mitchell + Jrue Holiday,Wendell Carter Jr. + Tristan da Silva,1.574,-4.025,-2.400,-0.611,0.034,-0.899,-0.442,-5.859,-2.297,0.166,0.007,,"REB, BLK, FT%, TO","PTS, AST, STL, 3PM",-5.859,True
+LS,Davion Mitchell + Rui Hachimura,Zach LaVine,0.851,-0.860,-1.569,-0.181,-0.412,-0.172,-0.355,-1.403,-2.806,0.120,0.196,I add Collin Gillespie; they drop Tristan da Silva,"STL, FT%","AST, BLK",-2.806,True
+LS,Davion Mitchell + Rui Hachimura,Wendell Carter Jr.,1.228,-0.301,-0.540,0.252,0.021,-0.076,-0.143,0.455,-0.478,0.105,0.086,I add Collin Gillespie; they drop Tristan da Silva,"REB, STL, BLK, FT%, TO","PTS, AST, 3PM",-0.478,True
+LS,Davion Mitchell + Rui Hachimura,James Harden + Deni Avdija,0.998,2.022,0.001,0.166,-0.343,0.604,0.073,2.520,-1.029,-0.176,-0.097,,"PTS, REB, AST, FT%","STL, FG%, TO",-1.029,False
+LS,Davion Mitchell + Rui Hachimura,James Harden + Ausar Thompson,1.327,1.545,-0.269,-0.026,-0.583,0.422,0.001,1.468,-2.019,-0.016,0.044,,"REB, AST, STL, BLK, FT%","PTS, 3PM, FG%, TO",-2.019,True
+LS,Davion Mitchell + Rui Hachimura,James Harden + CJ McCollum,1.483,0.610,-2.377,0.171,-0.601,0.174,-0.564,1.124,-4.180,-0.077,0.099,,"AST, FT%","STL, FG%, TO",-4.180,True
+LS,Davion Mitchell + Rui Hachimura,James Harden + Duncan Robinson,0.839,2.788,-0.029,0.070,-0.484,0.763,0.085,2.997,-1.481,-0.197,-0.017,,"PTS, 3PM, FT%","FG%, TO",-1.481,True
+LS,Davion Mitchell + Rui Hachimura,James Harden + Collin Murray-Boyles,1.442,0.503,-1.822,-0.191,-0.724,0.133,-0.410,-0.071,-3.993,-0.002,0.117,,"REB, BLK, FT%","PTS, AST, 3PM, FG%, TO",-3.993,True
+LS,Davion Mitchell + Rui Hachimura,Deni Avdija + Wendell Carter Jr.,0.805,0.268,-0.038,0.093,-0.034,0.084,-0.006,0.547,-0.140,0.037,-0.035,,"PTS, REB, BLK","AST, STL, 3PM, TO",-0.140,True
+LS,Davion Mitchell + Rui Hachimura,Deni Avdija + Duncan Robinson,0.955,1.101,-0.298,0.070,-0.193,0.351,-0.001,1.311,-0.876,-0.074,-0.012,,"PTS, REB, 3PM","AST, STL, BLK, FG%, TO",-0.876,True
+LS,Davion Mitchell + Rui Hachimura,Zach LaVine + Ivica Zubac,0.823,-1.980,-2.582,-0.469,-0.566,-0.499,-0.595,-3.388,-4.280,0.149,0.162,,"REB, FG%, FT%","AST, STL, 3PM",-4.280,True
+LS,Davion Mitchell + Rui Hachimura,Zach LaVine + Tristan da Silva,0.819,-2.404,-3.796,-0.611,-0.802,-0.583,-0.921,-4.237,-6.202,0.124,0.203,,"3PM, FT%, TO","AST, STL, BLK, FG%",-6.202,True
+LS,Davion Mitchell + Rui Hachimura,Ausar Thompson + Wendell Carter Jr.,1.006,-1.120,-0.918,-0.157,-0.108,-0.249,-0.136,-1.590,-1.242,0.150,0.051,,"REB, STL, BLK, FG%, TO","PTS, AST, 3PM",-1.590,True
+LS,Davion Mitchell + Rui Hachimura,Ausar Thompson + Duncan Robinson,1.252,-0.189,-0.987,-0.170,-0.207,0.010,-0.111,-0.700,-1.609,0.029,0.040,,"REB, STL, BLK, TO","PTS, AST",-1.609,True
+LS,Davion Mitchell + Rui Hachimura,CJ McCollum + Wendell Carter Jr.,1.093,-1.311,-2.229,0.107,-0.087,-0.396,-0.566,-0.992,-2.490,0.079,0.089,,"REB, BLK, FT%, TO","PTS, AST, STL, 3PM",-2.490,True
+LS,Davion Mitchell + Rui Hachimura,CJ McCollum + Duncan Robinson,1.391,-0.683,-2.741,-0.007,-0.413,-0.168,-0.634,-0.703,-3.979,-0.016,0.123,,"3PM, FT%, TO","REB, AST, STL, BLK, FG%",-3.979,True
+LS,Davion Mitchell + Rui Hachimura,Ivica Zubac + Wendell Carter Jr.,1.169,-2.156,-2.152,-0.311,-0.235,-0.564,-0.496,-3.090,-2.858,0.079,-0.011,,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-3.090,True
+LS,Davion Mitchell + Rui Hachimura,Ivica Zubac + Duncan Robinson,1.516,-0.394,-1.342,-0.266,-0.316,-0.101,-0.274,-1.191,-2.292,0.046,0.085,,"REB, BLK, FG%, FT%, TO","PTS, AST, STL",-2.292,True
+LS,Davion Mitchell + Rui Hachimura,Wendell Carter Jr. + Collin Murray-Boyles,1.071,-1.766,-2.080,-0.290,-0.211,-0.426,-0.447,-2.637,-2.712,0.124,0.104,,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-2.712,True
+LS,Davion Mitchell + Rui Hachimura,Wendell Carter Jr. + Tristan da Silva,1.161,-1.726,-2.284,-0.333,-0.309,-0.446,-0.555,-2.725,-3.211,0.106,0.086,,"REB, BLK, FT%, TO","PTS, AST, STL, 3PM",-3.211,True
+LS,Davion Mitchell + Rui Hachimura,Duncan Robinson + Collin Murray-Boyles,1.355,-0.768,-2.073,-0.351,-0.369,-0.137,-0.392,-1.820,-3.179,0.026,0.109,,"REB, BLK, FG%, FT%, TO","PTS, AST",-3.179,True
+LS,Davion Mitchell + Rui Hachimura,Duncan Robinson + Tristan da Silva,1.503,-0.907,-2.501,-0.487,-0.633,-0.174,-0.548,-2.368,-4.401,0.022,0.125,,"3PM, FT%, TO","AST, STL, BLK, FG%",-4.401,True
+LS,Davion Mitchell + Brandin Podziemski,Kyrie Irving,0.893,-1.037,-1.223,0.005,-0.230,-0.249,-0.320,-1.022,-1.914,0.109,0.138,I add Collin Gillespie; they drop Tristan da Silva,"STL, FT%, TO","REB, AST",-1.914,True
+LS,Davion Mitchell + Brandin Podziemski,Ty Jerome,0.916,0.674,0.219,0.389,0.123,0.174,0.003,1.841,0.589,0.045,0.066,I add Collin Gillespie; they drop Tristan da Silva,"STL, FT%, TO","REB, AST, BLK",0.589,True
+LS,Davion Mitchell + Brandin Podziemski,Zach LaVine,1.355,-3.899,-2.931,-0.892,-0.732,-0.889,-0.627,-6.574,-5.127,0.228,0.178,I add Collin Gillespie; they drop Tristan da Silva,"FT%, TO","PTS, REB, AST, STL, BLK",-6.574,True
+LS,Davion Mitchell + Brandin Podziemski,James Harden + Deni Avdija,1.588,-0.554,-1.119,-0.743,-0.974,0.021,-0.195,-2.784,-4.041,0.059,0.045,,"PTS, REB, FT%","STL, FG%, TO",-4.041,True
+LS,Davion Mitchell + Brandin Podziemski,James Harden + Zach LaVine,0.910,-1.900,-2.804,-1.014,-1.163,-0.374,-0.619,-4.942,-6.292,0.130,0.169,,"PTS, 3PM, FT%","AST, STL, BLK, FG%, TO",-6.292,True
+LS,Davion Mitchell + Brandin Podziemski,James Harden + Wendell Carter Jr.,1.147,-0.941,-0.862,-0.737,-0.656,-0.192,-0.171,-3.153,-2.829,0.132,0.077,,"REB, BLK, FT%","AST, STL, 3PM, FG%, TO",-3.153,True
+LS,Davion Mitchell + Brandin Podziemski,James Harden + Duncan Robinson,1.335,-0.134,-1.262,-0.997,-1.105,0.106,-0.198,-3.126,-4.577,0.034,0.099,,"PTS, 3PM, FT%","AST, STL, BLK, FG%",-4.577,True
+LS,Davion Mitchell + Brandin Podziemski,Deni Avdija + Zach LaVine,0.993,-3.470,-2.887,-1.060,-0.771,-0.743,-0.582,-6.649,-5.199,0.173,0.094,,"PTS, REB, FT%","AST, STL, TO",-6.649,True
+LS,Davion Mitchell + Brandin Podziemski,Deni Avdija + Wendell Carter Jr.,1.281,-2.706,-1.353,-0.787,-0.364,-0.601,-0.248,-5.067,-2.444,0.188,0.009,,"PTS, REB, BLK, FG%","AST, STL, 3PM, TO",-5.067,True
+LS,Davion Mitchell + Brandin Podziemski,Deni Avdija + Duncan Robinson,1.520,-1.715,-1.331,-0.850,-0.575,-0.276,-0.185,-4.266,-3.056,0.075,0.012,,"PTS, REB, 3PM","AST, STL, FG%, TO",-4.266,True
+LS,Davion Mitchell + Brandin Podziemski,Kyrie Irving + Ausar Thompson,0.811,-1.528,-1.400,-0.324,-0.249,-0.375,-0.254,-2.500,-2.148,0.146,0.094,,"REB, STL, BLK, FG%, FT%, TO","PTS, AST, 3PM",-2.500,True
+LS,Davion Mitchell + Brandin Podziemski,Kyrie Irving + CJ McCollum,0.845,-2.255,-3.440,-0.136,-0.354,-0.594,-0.866,-2.664,-4.503,0.131,0.192,,"PTS, FT%, TO","REB, AST, STL, FG%",-4.503,True
+LS,Davion Mitchell + Brandin Podziemski,Kyrie Irving + Ivica Zubac,0.873,-2.363,-2.387,-0.406,-0.348,-0.621,-0.568,-3.580,-3.432,0.141,0.098,,"REB, BLK, FG%, FT%, TO","AST, STL, 3PM",-3.580,True
+LS,Davion Mitchell + Brandin Podziemski,Kyrie Irving + Collin Murray-Boyles,0.837,-2.544,-2.918,-0.335,-0.242,-0.645,-0.651,-3.548,-3.642,0.127,0.149,,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-3.642,True
+LS,Davion Mitchell + Brandin Podziemski,Kyrie Irving + Tristan da Silva,0.870,-2.727,-3.285,-0.419,-0.427,-0.668,-0.780,-3.985,-4.565,0.112,0.140,,"FT%, TO","AST, STL, FG%",-4.565,True
+LS,Davion Mitchell + Brandin Podziemski,Ty Jerome + Ausar Thompson,0.830,0.380,0.347,0.066,0.097,0.070,0.134,0.577,0.638,0.066,0.006,,"REB, STL, BLK, FG%, FT%","AST, 3PM",0.577,True
+LS,Davion Mitchell + Brandin Podziemski,Ty Jerome + CJ McCollum,0.866,-0.480,-1.800,0.239,-0.006,-0.131,-0.451,0.236,-1.819,0.021,0.080,,"PTS, 3PM, FT%","REB, AST, STL, BLK, FG%",-1.819,True
+LS,Davion Mitchell + Brandin Podziemski,Ty Jerome + Ivica Zubac,0.895,-0.326,-0.413,-0.043,0.024,-0.123,-0.089,-0.454,-0.342,0.068,0.018,,"REB, FG%, FT%, TO","AST, STL, 3PM",-0.454,True
+LS,Davion Mitchell + Brandin Podziemski,Ty Jerome + Collin Murray-Boyles,0.857,-0.700,-1.187,0.026,0.122,-0.215,-0.256,-0.622,-0.823,0.052,0.057,,"REB, FG%, FT%, TO","AST, STL, 3PM",-0.823,True
+LS,Davion Mitchell + Brandin Podziemski,Ty Jerome + Tristan da Silva,0.892,-0.761,-1.509,-0.058,-0.100,-0.189,-0.367,-0.934,-1.809,0.049,0.067,,"3PM, FT%, TO","AST, STL, BLK, FG%",-1.809,True
+LS,Davion Mitchell + Brandin Podziemski,Zach LaVine + Ausar Thompson,1.175,-4.453,-2.987,-1.242,-0.686,-1.040,-0.548,-8.179,-5.046,0.264,0.133,,"REB, BLK, FG%","PTS, AST, 3PM",-8.179,True
+LS,Davion Mitchell + Brandin Podziemski,Zach LaVine + CJ McCollum,1.248,-4.958,-4.958,-1.036,-0.928,-1.199,-1.144,-8.065,-7.743,0.285,0.262,,"PTS, FT%","REB, AST, STL, BLK",-8.065,True
+LS,Davion Mitchell + Brandin Podziemski,Zach LaVine + Ivica Zubac,1.309,-4.966,-3.666,-1.281,-0.831,-1.180,-0.738,-8.810,-6.159,0.272,0.165,,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-8.810,True
+LS,Davion Mitchell + Brandin Podziemski,Zach LaVine + Wendell Carter Jr.,0.800,-4.044,-2.518,-0.963,-0.302,-0.930,-0.444,-6.933,-3.425,0.175,0.060,,"REB, FG%, FT%, TO","AST, STL, 3PM",-6.933,True
+LS,Davion Mitchell + Brandin Podziemski,Zach LaVine + Duncan Robinson,0.888,-3.494,-3.194,-1.124,-0.696,-0.739,-0.588,-6.866,-5.283,0.087,0.083,,"PTS, 3PM, FT%, TO","REB, AST, STL, BLK",-6.866,True
+LS,Davion Mitchell + Brandin Podziemski,Zach LaVine + Collin Murray-Boyles,1.230,-5.642,-4.701,-1.328,-0.884,-1.354,-1.002,-9.626,-7.352,0.256,0.206,,"BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-9.626,True
+LS,Davion Mitchell + Brandin Podziemski,Zach LaVine + Tristan da Silva,1.303,-5.791,-5.086,-1.419,-1.034,-1.391,-1.167,-10.047,-8.187,0.230,0.182,,"3PM, FT%, TO","PTS, REB, AST, STL, BLK",-10.047,True
+LS,Davion Mitchell + Brandin Podziemski,Wendell Carter Jr. + Duncan Robinson,1.111,-2.311,-1.097,-0.789,-0.125,-0.460,-0.070,-4.679,-1.473,0.078,-0.013,,"REB, FG%, FT%, TO","AST, STL",-4.679,True
+LS,Davion Mitchell + Payton Pritchard,Zach LaVine,1.031,-3.524,-3.338,-0.706,-0.522,-0.797,-0.736,-5.641,-4.904,0.209,0.221,I add Collin Gillespie; they drop Tristan da Silva,"REB, STL, FT%","PTS, AST, BLK",-5.641,True
+LS,Davion Mitchell + Payton Pritchard,Wendell Carter Jr.,1.488,-2.836,-2.218,-0.252,-0.182,-0.616,-0.469,-3.593,-2.765,0.206,0.131,I add Collin Gillespie; they drop Tristan da Silva,"REB, STL, BLK, TO","PTS, AST, 3PM",-3.593,True
+LS,Davion Mitchell + Payton Pritchard,James Harden + Deni Avdija,1.208,-0.455,-1.977,-0.345,-0.805,0.006,-0.418,-1.490,-4.391,0.047,0.066,,"PTS, REB, BLK","STL, 3PM, FG%, TO",-4.391,True
+LS,Davion Mitchell + Payton Pritchard,James Harden + Wendell Carter Jr.,0.873,-0.755,-1.784,-0.364,-0.542,-0.150,-0.395,-1.847,-3.411,0.095,0.099,,"REB, BLK, FT%","PTS, AST, STL, 3PM, FG%, TO",-3.411,True
+LS,Davion Mitchell + Payton Pritchard,James Harden + Duncan Robinson,1.016,0.357,-1.478,-0.453,-0.684,0.216,-0.220,-1.002,-3.529,-0.008,0.107,,"PTS, REB, 3PM, FT%","AST, FG%, TO",-3.529,True
+LS,Davion Mitchell + Payton Pritchard,Deni Avdija + Wendell Carter Jr.,0.975,-2.442,-1.965,-0.408,-0.279,-0.547,-0.409,-3.666,-2.803,0.199,0.072,,"PTS, REB, BLK, FG%","AST, STL, 3PM, TO",-3.666,True
+LS,Davion Mitchell + Payton Pritchard,Deni Avdija + Duncan Robinson,1.157,-1.293,-1.726,-0.428,-0.346,-0.193,-0.275,-2.578,-2.765,0.075,0.058,,"PTS, REB","AST, STL, FG%, TO",-2.765,True
+LS,Davion Mitchell + Payton Pritchard,Zach LaVine + Ausar Thompson,0.894,-4.005,-3.244,-0.863,-0.531,-0.903,-0.584,-6.593,-4.838,0.261,0.180,,"REB, STL, BLK, FG%","PTS, AST, 3PM",-6.593,True
+LS,Davion Mitchell + Payton Pritchard,Zach LaVine + CJ McCollum,0.950,-4.330,-4.844,-0.834,-0.812,-1.039,-1.116,-6.832,-7.281,0.237,0.272,,"PTS, FT%","AST, STL",-7.281,True
+LS,Davion Mitchell + Payton Pritchard,Zach LaVine + Ivica Zubac,0.996,-4.600,-4.044,-0.903,-0.663,-1.091,-0.872,-7.309,-6.033,0.253,0.208,,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-7.309,True
+LS,Davion Mitchell + Payton Pritchard,Zach LaVine + Collin Murray-Boyles,0.936,-4.878,-4.645,-0.947,-0.686,-1.141,-0.985,-7.718,-6.703,0.241,0.249,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-7.718,True
+LS,Davion Mitchell + Payton Pritchard,Zach LaVine + Tristan da Silva,0.991,-4.869,-4.817,-1.032,-0.789,-1.137,-1.086,-7.966,-7.183,0.207,0.220,,"REB, FT%, TO","PTS, AST, STL, BLK",-7.966,True
+LS,Davion Mitchell + Payton Pritchard,Ausar Thompson + Wendell Carter Jr.,1.218,-4.017,-2.632,-0.625,-0.266,-0.896,-0.410,-5.892,-3.431,0.266,0.103,,"REB, STL, BLK, FG%, TO","PTS, AST, 3PM, FT%",-5.892,True
+LS,Davion Mitchell + Payton Pritchard,Ausar Thompson + Duncan Robinson,1.517,-2.842,-2.322,-0.652,-0.293,-0.581,-0.325,-4.798,-3.202,0.158,0.086,,"REB, STL, BLK, FG%, TO","PTS, AST, 3PM, FT%",-4.798,True
+LS,Davion Mitchell + Payton Pritchard,CJ McCollum + Wendell Carter Jr.,1.324,-3.623,-3.408,-0.367,-0.244,-0.882,-0.771,-4.724,-4.140,0.209,0.148,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-4.724,True
+LS,Davion Mitchell + Payton Pritchard,Ivica Zubac + Wendell Carter Jr.,1.416,-4.596,-3.427,-0.719,-0.409,-1.090,-0.702,-6.752,-4.654,0.202,0.061,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-6.752,True
+LS,Davion Mitchell + Payton Pritchard,Wendell Carter Jr. + Duncan Robinson,0.846,-1.874,-1.492,-0.383,0.066,-0.321,-0.153,-3.023,-1.294,0.051,0.024,,"REB, BLK, FG%, TO",AST,-3.023,True
+LS,Davion Mitchell + Payton Pritchard,Wendell Carter Jr. + Collin Murray-Boyles,1.297,-4.522,-3.734,-0.679,-0.354,-1.041,-0.750,-6.558,-4.797,0.230,0.160,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-6.558,True
+LS,Davion Mitchell + Payton Pritchard,Wendell Carter Jr. + Tristan da Silva,1.406,-4.480,-3.808,-0.724,-0.404,-1.052,-0.840,-6.652,-5.019,0.205,0.129,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-6.652,True
+LS,Davion Mitchell + Jabari Smith Jr.,Kyrie Irving,1.208,-2.803,-2.443,0.062,0.014,-0.724,-0.761,-2.616,-2.401,0.237,0.237,I add Collin Gillespie; they drop Tristan da Silva,"STL, FT%, TO","PTS, REB, AST, BLK",-2.616,True
+LS,Davion Mitchell + Jabari Smith Jr.,Ty Jerome,1.239,-1.067,-0.794,0.456,0.389,-0.271,-0.376,0.300,0.372,0.123,0.119,I add Collin Gillespie; they drop Tristan da Silva,"STL, FT%","REB, AST, BLK",0.300,True
+LS,Davion Mitchell + Jabari Smith Jr.,James Harden + Kyrie Irving,0.914,-0.733,-1.942,0.202,-0.159,-0.177,-0.557,-0.128,-2.417,0.024,0.114,,FT%,"REB, STL, BLK, FG%, TO",-2.417,True
+LS,Davion Mitchell + Jabari Smith Jr.,James Harden + Ty Jerome,0.931,1.159,-0.221,0.565,0.261,0.321,-0.124,2.853,0.561,-0.134,-0.033,,"PTS, AST, 3PM, FT%","REB, BLK, FG%, TO",0.561,True
+LS,Davion Mitchell + Jabari Smith Jr.,James Harden + Zach LaVine,1.231,-3.272,-3.537,-0.785,-0.873,-0.734,-0.857,-5.626,-6.157,0.183,0.192,,"PTS, 3PM, FT%","REB, AST, STL, BLK, FG%, TO",-6.157,True
+LS,Davion Mitchell + Jabari Smith Jr.,James Harden + Wendell Carter Jr.,1.551,-2.093,-1.190,-0.511,-0.393,-0.523,-0.349,-3.625,-2.369,0.179,0.088,,"REB, FT%","PTS, AST, STL, BLK, 3PM, FG%, TO",-3.625,True
+LS,Davion Mitchell + Jabari Smith Jr.,Deni Avdija + Kyrie Irving,0.974,-2.128,-1.812,0.329,0.287,-0.481,-0.527,-1.141,-0.950,0.097,0.057,,PTS,"AST, STL, BLK, 3PM, FG%, TO",-1.141,True
+LS,Davion Mitchell + Jabari Smith Jr.,Deni Avdija + Ty Jerome,0.994,-0.371,-0.076,0.692,0.699,-0.036,-0.140,1.706,2.021,-0.031,-0.060,,"PTS, AST, FT%","BLK, TO",1.706,True
+LS,Davion Mitchell + Jabari Smith Jr.,Deni Avdija + Zach LaVine,1.343,-4.750,-3.274,-0.807,-0.543,-1.111,-0.817,-7.172,-4.904,0.292,0.165,,PTS,"AST, STL, BLK, TO",-7.172,True
+LS,Davion Mitchell + Jabari Smith Jr.,Kyrie Irving + Ausar Thompson,1.097,-3.176,-2.437,-0.103,-0.050,-0.875,-0.692,-3.486,-2.588,0.247,0.157,,"STL, FG%, FT%","PTS, AST, BLK, 3PM",-3.486,True
+LS,Davion Mitchell + Jabari Smith Jr.,Kyrie Irving + CJ McCollum,1.143,-3.892,-4.336,-0.078,-0.265,-1.062,-1.224,-4.127,-5.132,0.193,0.227,,"FT%, TO","REB, AST, STL, BLK, 3PM, FG%",-5.132,True
+LS,Davion Mitchell + Jabari Smith Jr.,Kyrie Irving + Ivica Zubac,1.181,-3.738,-2.929,-0.191,-0.125,-1.063,-0.880,-4.312,-3.304,0.235,0.165,,"REB, FG%, FT%, TO","AST, STL, BLK, 3PM",-4.312,True
+LS,Davion Mitchell + Jabari Smith Jr.,Kyrie Irving + Wendell Carter Jr.,0.829,-2.867,-1.743,0.277,0.521,-0.850,-0.567,-2.035,-0.180,0.145,0.064,,"REB, FG%, FT%, TO","AST, STL, BLK, 3PM",-2.035,True
+LS,Davion Mitchell + Jabari Smith Jr.,Kyrie Irving + Duncan Robinson,0.897,-2.288,-2.545,0.006,0.013,-0.613,-0.690,-2.269,-2.505,0.087,0.122,,"PTS, 3PM, FT%, TO","REB, AST, BLK, FG%",-2.505,True
+LS,Davion Mitchell + Jabari Smith Jr.,Kyrie Irving + Collin Murray-Boyles,1.132,-4.146,-3.716,-0.147,-0.006,-1.165,-1.044,-4.587,-3.734,0.244,0.224,,"FG%, FT%, TO","PTS, REB, AST, BLK, 3PM",-4.587,True
+LS,Davion Mitchell + Jabari Smith Jr.,Kyrie Irving + Tristan da Silva,1.177,-4.388,-4.274,-0.222,-0.239,-1.195,-1.207,-5.053,-4.991,0.240,0.239,,"FT%, TO","REB, AST, STL, BLK, FG%",-5.053,True
+LS,Davion Mitchell + Jabari Smith Jr.,Ty Jerome + Ausar Thompson,1.122,-1.132,-0.556,0.299,0.323,-0.355,-0.248,-0.235,0.412,0.119,0.038,,"STL, FG%, FT%","AST, BLK, 3PM",-0.235,True
+LS,Davion Mitchell + Jabari Smith Jr.,Ty Jerome + CJ McCollum,1.171,-2.090,-2.663,0.315,0.117,-0.589,-0.810,-1.144,-2.312,0.065,0.104,,"PTS, FT%","REB, AST, BLK, FG%",-2.312,True
+LS,Davion Mitchell + Jabari Smith Jr.,Ty Jerome + Ivica Zubac,1.210,-1.994,-1.198,0.206,0.285,-0.636,-0.486,-1.376,-0.342,0.131,0.057,,"REB, FG%, FT%","AST, STL, BLK, 3PM",-1.376,True
+LS,Davion Mitchell + Jabari Smith Jr.,Ty Jerome + Wendell Carter Jr.,0.843,-0.706,0.231,0.671,0.902,-0.312,-0.111,1.308,2.937,0.035,-0.054,,"PTS, REB, FG%, FT%","AST, BLK, 3PM",1.308,True
+LS,Davion Mitchell + Jabari Smith Jr.,Ty Jerome + Duncan Robinson,0.914,-0.335,-0.771,0.407,0.345,-0.107,-0.265,0.886,0.265,-0.040,-0.007,,"PTS, 3PM, FT%, TO","REB, AST, BLK, FG%",0.265,True
+LS,Davion Mitchell + Jabari Smith Jr.,Ty Jerome + Collin Murray-Boyles,1.159,-2.199,-1.871,0.247,0.385,-0.673,-0.608,-1.457,-0.715,0.130,0.102,,"FG%, FT%, TO","REB, AST, BLK, 3PM",-1.457,True
+LS,Davion Mitchell + Jabari Smith Jr.,Ty Jerome + Tristan da Silva,1.206,-2.370,-2.459,0.173,0.116,-0.665,-0.755,-1.849,-2.112,0.127,0.121,,"FT%, TO","REB, AST, BLK, FG%",-2.112,True
+LS,Davion Mitchell + Jabari Smith Jr.,Zach LaVine + Ausar Thompson,1.589,-5.904,-3.782,-1.050,-0.614,-1.484,-0.911,-9.054,-5.625,0.415,0.247,,"STL, FG%","PTS, AST, BLK, 3PM",-9.054,True
+LS,Davion Mitchell + Jabari Smith Jr.,Zach LaVine + Wendell Carter Jr.,1.082,-5.354,-3.062,-0.823,-0.183,-1.388,-0.785,-7.822,-3.610,0.309,0.151,,"REB, FG%, FT%","AST, STL, BLK, 3PM",-7.822,True
+LS,Davion Mitchell + Jabari Smith Jr.,Zach LaVine + Duncan Robinson,1.200,-5.068,-4.201,-0.949,-0.636,-1.223,-1.003,-7.915,-6.109,0.258,0.215,,"PTS, 3PM, FT%, TO","REB, AST, STL, BLK",-7.915,True
+LS,Davion Mitchell + Jabari Smith Jr.,Wendell Carter Jr. + Duncan Robinson,1.503,-3.453,-1.658,-0.637,0.008,-0.867,-0.414,-5.363,-1.633,0.202,0.062,,"REB, FG%, FT%, TO","AST, BLK",-5.363,True
+LS,Davion Mitchell + Norman Powell,Zach LaVine,0.917,-2.436,-2.662,-0.356,-0.518,-0.600,-0.689,-3.505,-4.217,0.249,0.243,I add Collin Gillespie; they drop Tristan da Silva,"REB, FT%, TO","PTS, AST, BLK",-4.217,True
+LS,Davion Mitchell + Norman Powell,Wendell Carter Jr.,1.323,-2.105,-1.712,-0.102,-0.171,-0.540,-0.486,-2.410,-2.225,0.236,0.154,I add Collin Gillespie; they drop Tristan da Silva,"REB, BLK, FT%, TO","PTS, AST, 3PM",-2.410,True
+LS,Davion Mitchell + Norman Powell,James Harden + Deni Avdija,1.075,0.413,-0.905,-0.209,-0.614,0.236,-0.193,-0.214,-2.746,-0.014,0.004,,"REB, AST, BLK, FT%","STL, 3PM, FG%, TO",-2.746,True
+LS,Davion Mitchell + Norman Powell,James Harden + Ausar Thompson,1.429,-0.110,-0.943,-0.370,-0.727,0.030,-0.201,-1.221,-3.123,0.145,0.126,,"REB, BLK","PTS, 3PM, FG%, TO",-3.123,True
+LS,Davion Mitchell + Norman Powell,James Harden + CJ McCollum,1.598,-0.914,-2.985,-0.181,-0.741,-0.242,-0.794,-1.458,-5.209,0.077,0.171,,"REB, FT%","PTS, STL, 3PM, FG%, TO",-5.209,True
+LS,Davion Mitchell + Norman Powell,James Harden + Duncan Robinson,0.904,1.018,-0.817,-0.288,-0.603,0.294,-0.174,0.153,-2.626,-0.036,0.063,,"REB, 3PM, FT%","AST, STL, FG%",-2.626,True
+LS,Davion Mitchell + Norman Powell,James Harden + Collin Murray-Boyles,1.554,-0.911,-2.365,-0.533,-0.863,-0.237,-0.600,-2.512,-4.953,0.153,0.201,,"REB, BLK, FT%","PTS, AST, STL, 3PM, FG%",-4.953,True
+LS,Davion Mitchell + Norman Powell,Deni Avdija + Wendell Carter Jr.,0.867,-1.870,-1.586,-0.323,-0.251,-0.463,-0.417,-2.840,-2.338,0.184,0.052,,"REB, BLK, FG%","PTS, AST, STL, 3PM, TO",-2.840,True
+LS,Davion Mitchell + Norman Powell,Deni Avdija + Duncan Robinson,1.029,-0.861,-1.417,-0.314,-0.329,-0.143,-0.302,-1.803,-2.403,0.073,0.053,,"PTS, REB","AST, STL",-2.403,True
+LS,Davion Mitchell + Norman Powell,Zach LaVine + CJ McCollum,0.845,-3.632,-4.599,-0.530,-0.666,-0.978,-1.192,-5.223,-6.597,0.238,0.256,,"REB, FT%, TO","PTS, AST, STL, 3PM",-6.597,True
+LS,Davion Mitchell + Norman Powell,Zach LaVine + Ivica Zubac,0.886,-3.973,-3.966,-0.858,-0.741,-1.054,-1.028,-6.548,-6.190,0.283,0.213,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-6.548,True
+LS,Davion Mitchell + Norman Powell,Zach LaVine + Collin Murray-Boyles,0.832,-4.020,-4.165,-0.888,-0.663,-1.026,-0.995,-6.683,-6.153,0.261,0.243,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-6.683,True
+LS,Davion Mitchell + Norman Powell,Zach LaVine + Tristan da Silva,0.882,-4.386,-4.796,-0.974,-0.886,-1.135,-1.216,-7.308,-7.454,0.255,0.247,,"REB, FT%, TO","PTS, AST, STL, BLK",-7.454,True
+LS,Davion Mitchell + Norman Powell,Ausar Thompson + Wendell Carter Jr.,1.083,-3.099,-2.067,-0.530,-0.276,-0.762,-0.417,-4.690,-2.895,0.278,0.113,,"REB, BLK, FG%, TO","PTS, AST, 3PM, FT%",-4.690,True
+LS,Davion Mitchell + Norman Powell,Ausar Thompson + Duncan Robinson,1.349,-2.068,-1.950,-0.524,-0.326,-0.510,-0.384,-3.640,-2.928,0.169,0.091,,"REB, BLK, FG%, TO","PTS, AST, 3PM, FT%",-3.640,True
+LS,Davion Mitchell + Norman Powell,CJ McCollum + Wendell Carter Jr.,1.178,-3.047,-3.346,-0.283,-0.279,-0.883,-0.931,-3.896,-4.182,0.208,0.142,,"REB, BLK, TO","PTS, AST, STL, 3PM",-4.182,True
+LS,Davion Mitchell + Norman Powell,CJ McCollum + Duncan Robinson,1.498,-2.199,-3.291,-0.386,-0.508,-0.610,-0.830,-3.357,-4.813,0.125,0.165,,"REB, 3PM, FT%, TO","PTS, AST, STL, FG%",-4.813,True
+LS,Davion Mitchell + Norman Powell,Ivica Zubac + Wendell Carter Jr.,1.259,-4.133,-3.415,-0.718,-0.477,-1.118,-0.876,-6.288,-4.846,0.218,0.062,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM, FT%",-6.288,True
+LS,Davion Mitchell + Norman Powell,Wendell Carter Jr. + Collin Murray-Boyles,1.154,-3.721,-3.281,-0.655,-0.403,-0.964,-0.786,-5.686,-4.490,0.249,0.165,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM, FT%",-5.686,True
+LS,Davion Mitchell + Norman Powell,Wendell Carter Jr. + Tristan da Silva,1.251,-4.079,-3.823,-0.706,-0.495,-1.093,-1.005,-6.196,-5.309,0.241,0.156,,"REB, BLK, FT%, TO","PTS, AST, STL, 3PM",-6.196,True
+LS,Davion Mitchell + Norman Powell,Duncan Robinson + Collin Murray-Boyles,1.459,-2.807,-3.246,-0.710,-0.487,-0.737,-0.752,-4.938,-4.708,0.158,0.157,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-4.938,True
+76Er,Davion Mitchell,Michael Porter Jr.,1.015,-0.412,-0.793,-0.044,-0.007,0.069,-0.013,-0.543,-0.815,0.081,0.037,,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK, FG%",-0.815,True
+76Er,Davion Mitchell,Anthony Black,1.565,-1.654,-2.491,-0.398,-0.408,-0.370,-0.496,-2.849,-3.715,0.168,0.198,,"REB, STL, BLK, FT%, TO","PTS, AST, 3PM, FG%",-3.715,True
+76Er,Davion Mitchell,Michael Porter Jr. + Desmond Bane,0.803,2.892,1.866,0.605,0.663,0.760,0.574,4.707,3.855,-0.385,-0.458,I drop Rui Hachimura,"PTS, REB, 3PM, FT%","AST, FG%",3.855,False
+76Er,Davion Mitchell,Michael Porter Jr. + Jaime Jaquez Jr.,0.885,0.981,0.400,0.044,0.190,0.341,0.259,1.114,0.971,-0.232,-0.356,I drop Rui Hachimura,"PTS, REB, FT%","AST, STL, BLK",0.971,False
+76Er,Davion Mitchell,Michael Porter Jr. + Isaiah Hartenstein,0.841,0.438,-1.488,0.069,-0.134,0.206,-0.175,0.647,-1.891,-0.230,-0.256,I drop Rui Hachimura,"PTS, REB, FT%, TO","AST, 3PM",-1.891,False
+76Er,Davion Mitchell,Michael Porter Jr. + Jared McCain,0.961,-0.769,-0.863,-0.346,-0.057,-0.035,0.005,-1.805,-1.033,-0.164,-0.281,I drop Rui Hachimura,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK",-1.805,False
+76Er,Davion Mitchell,Michael Porter Jr. + Klay Thompson,0.941,-0.659,-2.037,-0.334,-0.186,0.005,-0.263,-1.660,-2.595,-0.184,-0.240,I drop Rui Hachimura,"PTS, REB, 3PM, FT%, TO","AST, STL, FG%",-2.595,False
+76Er,Davion Mitchell,Michael Porter Jr. + Ja'Kobe Walter,0.935,-0.492,0.242,-0.096,0.422,0.020,0.284,-0.781,1.507,-0.199,-0.377,I drop Rui Hachimura,"PTS, REB, 3PM, FT%, TO","AST, BLK",-0.781,False
+76Er,Davion Mitchell,Desmond Bane + VJ Edgecombe,1.160,3.799,2.150,0.759,0.696,0.914,0.593,6.078,4.237,-0.447,-0.488,I drop Rui Hachimura,"PTS, REB, STL, 3PM, FT%","AST, FG%",4.237,False
+76Er,Davion Mitchell,Desmond Bane + Immanuel Quickley,1.507,2.831,2.229,0.605,0.735,0.678,0.533,4.647,4.434,-0.430,-0.518,I drop Rui Hachimura,"PTS, REB, 3PM, FT%","AST, BLK, FG%",4.434,False
+76Er,Davion Mitchell,Desmond Bane + Andrew Nembhard,1.454,1.844,0.089,0.147,0.122,0.424,-0.043,2.284,0.454,-0.397,-0.382,I drop Rui Hachimura,"PTS, REB, FT%",FG%,0.454,False
+76Er,Davion Mitchell,Desmond Bane + Anthony Black,1.113,1.719,0.147,0.330,0.260,0.365,0.041,2.708,0.928,-0.375,-0.375,I drop Rui Hachimura,"PTS, REB, STL, FT%","AST, FG%, TO",0.928,False
+76Er,Davion Mitchell,Desmond Bane + Moussa Diabate,1.350,0.568,-0.362,0.183,0.257,0.157,0.017,1.117,0.410,-0.225,-0.304,I drop Rui Hachimura,"REB, BLK, FT%","AST, STL, 3PM",0.410,False
+76Er,Davion Mitchell,VJ Edgecombe + Immanuel Quickley,0.993,3.632,2.749,0.837,0.866,0.860,0.743,6.141,5.348,-0.484,-0.562,I drop Rui Hachimura,"PTS, REB, STL, 3PM, FT%, TO","AST, BLK, FG%",5.348,False
+76Er,Davion Mitchell,VJ Edgecombe + Andrew Nembhard,0.970,2.525,0.818,0.398,0.259,0.576,0.255,3.720,1.596,-0.440,-0.419,I drop Rui Hachimura,"PTS, REB, STL, FT%","BLK, FG%",1.596,False
+76Er,Davion Mitchell,VJ Edgecombe + Anthony Black,0.806,2.666,0.911,0.544,0.406,0.647,0.353,4.298,2.128,-0.408,-0.401,I drop Rui Hachimura,"PTS, REB, STL, FT%","AST, FG%, TO",2.128,False
+76Er,Davion Mitchell,VJ Edgecombe + Jaime Jaquez Jr.,1.338,1.725,0.913,0.159,0.225,0.481,0.345,2.201,1.589,-0.281,-0.373,I drop Rui Hachimura,"PTS, REB, STL, FT%","AST, BLK, 3PM, FG%",1.589,False
+76Er,Davion Mitchell,VJ Edgecombe + Isaiah Hartenstein,1.240,0.984,-1.521,0.178,-0.123,0.308,-0.195,1.517,-1.889,-0.250,-0.244,I drop Rui Hachimura,"REB, TO","PTS, AST, 3PM",-1.889,False
+76Er,Davion Mitchell,VJ Edgecombe + Moussa Diabate,0.923,1.131,-0.302,0.395,0.351,0.350,0.128,2.316,0.751,-0.265,-0.329,I drop Rui Hachimura,"REB, STL, BLK, FG%, FT%, TO","PTS, AST, 3PM",0.751,False
+76Er,Davion Mitchell,VJ Edgecombe + Jared McCain,1.520,-0.185,-0.905,-0.246,-0.060,0.043,-0.029,-0.924,-1.086,-0.211,-0.292,I drop Rui Hachimura,"REB, 3PM, FT%, TO","AST, BLK, FG%",-1.086,False
+76Er,Davion Mitchell,VJ Edgecombe + Klay Thompson,1.472,-0.086,-1.907,-0.215,-0.188,0.063,-0.251,-0.730,-2.471,-0.241,-0.256,I drop Rui Hachimura,"REB, 3PM, FT%, TO","AST, STL, FG%",-2.471,False
+76Er,Davion Mitchell,VJ Edgecombe + Ja'Kobe Walter,1.456,-0.166,0.056,0.009,0.408,0.018,0.207,-0.140,1.280,-0.242,-0.389,I drop Rui Hachimura,"REB, STL, FT%, TO","AST, FG%",-0.140,False
+76Er,Davion Mitchell,Immanuel Quickley + Andrew Nembhard,1.202,1.195,0.647,0.227,0.306,0.269,0.145,1.876,1.564,-0.397,-0.447,I drop Rui Hachimura,"PTS, FT%, TO","BLK, FG%",1.564,False
+76Er,Davion Mitchell,Immanuel Quickley + Anthony Black,0.959,1.589,0.823,0.412,0.455,0.353,0.230,2.824,2.189,-0.395,-0.439,I drop Rui Hachimura,"PTS, REB, STL, FT%, TO","AST, FG%",2.189,False
+76Er,Davion Mitchell,Immanuel Quickley + Moussa Diabate,1.130,0.480,-0.092,0.285,0.401,0.141,0.093,1.335,1.110,-0.272,-0.372,I drop Rui Hachimura,"REB, FT%, TO","PTS, AST, 3PM",1.110,False
+76Er,Davion Mitchell,Andrew Nembhard + Anthony Black,0.937,0.570,-1.382,-0.055,-0.181,0.081,-0.371,0.404,-1.925,-0.355,-0.294,I drop Rui Hachimura,"REB, STL, FT%","3PM, FG%, TO",-1.925,False
+76Er,Davion Mitchell,Andrew Nembhard + Isaiah Hartenstein,1.582,-0.819,-3.155,-0.225,-0.563,-0.216,-0.752,-1.493,-4.843,-0.218,-0.146,I drop Rui Hachimura,"REB, FG%, FT%, TO","PTS, AST, STL, BLK, 3PM",-4.843,False
+76Er,Davion Mitchell,Andrew Nembhard + Moussa Diabate,1.100,0.051,-1.700,-0.177,-0.205,-0.021,-0.338,-0.479,-2.315,-0.230,-0.218,I drop Rui Hachimura,"REB, FG%, FT%, TO","PTS, AST, STL, 3PM",-2.315,False
+76Er,Davion Mitchell,Anthony Black + Jaime Jaquez Jr.,1.276,-0.184,-0.827,-0.291,-0.195,-0.036,-0.139,-1.055,-1.411,-0.192,-0.239,I drop Rui Hachimura,"PTS, REB, STL, FT%","AST, 3PM, TO",-1.411,False
+76Er,Davion Mitchell,Anthony Black + Isaiah Hartenstein,1.187,-0.884,-3.032,-0.081,-0.379,-0.199,-0.661,-1.126,-4.168,-0.154,-0.098,I drop Rui Hachimura,"REB, STL, FG%","PTS, AST, 3PM",-4.168,False
+76Er,Davion Mitchell,Anthony Black + Moussa Diabate,0.893,-0.615,-1.699,-0.026,-0.029,-0.119,-0.252,-0.692,-1.786,-0.163,-0.178,I drop Rui Hachimura,"REB, STL, BLK, FG%, TO","PTS, AST, 3PM",-1.786,False
+76Er,Davion Mitchell,Anthony Black + Jared McCain,1.441,-2.103,-2.509,-0.575,-0.340,-0.519,-0.533,-3.827,-3.529,-0.117,-0.164,I drop Rui Hachimura,"REB, STL, FT%","AST, FG%",-3.827,False
+76Er,Davion Mitchell,Anthony Black + Klay Thompson,1.397,-1.750,-3.352,-0.522,-0.469,-0.418,-0.701,-3.316,-4.759,-0.144,-0.122,I drop Rui Hachimura,"3PM, FT%, TO","AST, FG%",-4.759,False
+76Er,Davion Mitchell,Anthony Black + Ja'Kobe Walter,1.383,-1.938,-1.810,-0.420,0.013,-0.492,-0.326,-3.198,-1.772,-0.143,-0.252,I drop Rui Hachimura,"REB, STL, FT%, TO","AST, 3PM, FG%",-3.198,False
+76Er,Davion Mitchell,Jaime Jaquez Jr. + Moussa Diabate,1.597,-1.952,-2.268,-0.465,-0.251,-0.409,-0.396,-3.347,-3.021,-0.032,-0.154,I drop Rui Hachimura,"REB, FG%, TO","PTS, AST, STL, 3PM",-3.347,True
+76Er,Davion Mitchell,Isaiah Hartenstein + Moussa Diabate,1.460,-2.762,-4.609,-0.306,-0.513,-0.591,-0.969,-3.681,-6.148,0.019,-0.004,I drop Rui Hachimura,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-6.148,True
+76Er,Davion Mitchell + Kyshawn George,Donovan Mitchell,0.800,0.674,2.810,0.264,0.586,0.283,0.621,1.467,4.569,0.070,-0.092,I add Collin Gillespie; they drop Jared McCain,"PTS, REB, STL, 3PM, FT%, TO","AST, BLK",1.467,True
+76Er,Davion Mitchell + Kyshawn George,Zion Williamson,1.089,-1.588,-0.033,0.081,0.260,-0.240,0.096,-1.346,0.746,0.244,0.212,I add Collin Gillespie; they drop Jared McCain,"PTS, REB, STL, FG%, TO","AST, BLK, 3PM",-1.346,True
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + Desmond Bane,1.308,0.419,1.465,0.345,0.663,0.311,0.477,1.452,3.454,0.016,-0.122,,"PTS, REB, 3PM, FT%, TO","AST, BLK, FG%",1.452,True
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + VJ Edgecombe,1.025,0.655,1.447,0.342,0.615,0.390,0.539,1.680,3.293,-0.067,-0.199,,"PTS, REB, 3PM, FT%, TO","AST, BLK, FG%",1.680,False
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + Immanuel Quickley,1.172,0.261,1.845,0.352,0.770,0.302,0.591,1.317,4.155,-0.027,-0.194,,"PTS, REB, 3PM, FT%, TO","AST, BLK, FG%",1.317,True
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + Andrew Nembhard,1.152,-0.307,0.045,-0.019,0.201,0.041,0.108,-0.365,0.648,-0.007,-0.067,,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK",-0.365,True
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + Anthony Black,1.003,-0.231,0.324,0.166,0.380,0.122,0.226,0.268,1.464,0.053,-0.037,,"PTS, REB, STL, 3PM, FT%","AST, BLK",0.268,True
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + Jaime Jaquez Jr.,1.441,-2.055,-0.130,-0.266,0.190,-0.259,0.139,-2.852,0.441,0.180,-0.010,,"PTS, REB, FT%, TO","AST, STL, BLK",-2.852,True
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + Isaiah Hartenstein,1.369,-2.390,-2.069,-0.252,-0.134,-0.379,-0.315,-3.147,-2.471,0.137,0.034,,"REB, FG%, FT%, TO","AST, BLK, 3PM",-3.147,True
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + Moussa Diabate,1.110,-1.748,-0.622,0.012,0.376,-0.221,0.066,-1.711,0.505,0.115,-0.063,,"REB, FG%, FT%, TO","AST, 3PM",-1.711,True
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + Jared McCain,1.565,-3.451,-1.348,-0.626,-0.057,-0.607,-0.113,-5.331,-1.519,0.216,0.034,,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK",-5.331,True
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + Klay Thompson,1.533,-3.613,-2.406,-0.624,-0.186,-0.661,-0.364,-5.486,-2.964,0.198,0.082,,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK, FG%",-5.486,True
+76Er,Davion Mitchell + Kyshawn George,Michael Porter Jr. + Ja'Kobe Walter,1.522,-3.149,-0.279,-0.393,0.422,-0.535,0.164,-4.329,0.986,0.200,-0.039,,"PTS, REB, 3PM, FT%, TO","AST, BLK",-4.329,True
+76Er,Davion Mitchell + Kyshawn George,Zion Williamson + Desmond Bane,0.928,0.569,0.513,0.168,0.393,0.226,0.230,1.073,1.692,0.040,0.002,,"PTS, REB, FG%, FT%","AST, BLK, 3PM",1.073,True
+76Er,Davion Mitchell + Kyshawn George,Zion Williamson + Immanuel Quickley,0.858,0.224,1.174,0.233,0.608,0.162,0.426,0.923,2.999,-0.005,-0.072,,"PTS, REB, FG%, TO","AST, BLK, 3PM",0.923,True
+76Er,Davion Mitchell + Kyshawn George,Zion Williamson + Andrew Nembhard,0.847,-0.419,-0.845,-0.248,-0.042,-0.076,-0.109,-1.163,-0.971,0.035,0.079,,"PTS, REB, FG%, TO","AST, BLK, 3PM",-1.163,True
+76Er,Davion Mitchell + Kyshawn George,Zion Williamson + Jaime Jaquez Jr.,0.993,-2.352,-1.165,-0.484,-0.075,-0.408,-0.102,-3.805,-1.390,0.229,0.143,,"PTS, REB, FG%, TO","AST, BLK, 3PM, FT%",-3.805,True
+76Er,Davion Mitchell + Kyshawn George,Zion Williamson + Isaiah Hartenstein,0.959,-2.581,-2.846,-0.344,-0.276,-0.457,-0.487,-3.613,-3.675,0.190,0.196,,"REB, FG%, TO","AST, BLK, 3PM, FT%",-3.675,True
+76Er,Davion Mitchell + Kyshawn George,Zion Williamson + Moussa Diabate,0.824,-2.137,-1.621,-0.263,0.056,-0.336,-0.111,-2.926,-1.453,0.182,0.120,,"REB, FG%, TO","AST, 3PM, FT%",-2.926,True
+76Er,Davion Mitchell + Kyshawn George,Zion Williamson + Jared McCain,1.051,-3.632,-2.118,-0.720,-0.180,-0.731,-0.306,-5.792,-2.658,0.263,0.176,,"PTS, REB, FG%, TO","AST, BLK, 3PM",-5.792,True
+76Er,Davion Mitchell + Kyshawn George,Zion Williamson + Klay Thompson,1.036,-3.512,-2.971,-0.640,-0.276,-0.781,-0.545,-5.432,-3.800,0.249,0.228,,"PTS, REB, FG%, TO","AST, STL, BLK, 3PM, FT%",-5.432,True
+76Er,Davion Mitchell + Kyshawn George,Zion Williamson + Ja'Kobe Walter,1.031,-3.554,-1.230,-0.578,0.199,-0.737,-0.066,-5.288,-0.632,0.250,0.109,,"REB, FG%, TO","AST, BLK, 3PM, FT%",-5.288,True
+76Er,Davion Mitchell + Kyshawn George,VJ Edgecombe + Andrew Nembhard,1.580,-0.321,0.131,0.074,0.259,-0.025,0.108,-0.098,0.909,-0.041,-0.088,,"REB, STL, FT%, TO","AST, BLK, 3PM, FG%",-0.098,True
+76Er,Davion Mitchell + Kyshawn George,VJ Edgecombe + Anthony Black,1.312,-0.281,0.302,0.227,0.406,0.045,0.211,0.399,1.519,0.006,-0.060,,"REB, STL, FT%","AST, 3PM, FG%",0.399,True
+76Er,Davion Mitchell + Kyshawn George,VJ Edgecombe + Moussa Diabate,1.502,-2.277,-1.028,0.032,0.351,-0.396,-0.043,-2.180,0.025,0.124,-0.022,,"REB, FG%, TO","PTS, AST, 3PM",-2.180,True
+76Er,Davion Mitchell + Kyshawn George,Immanuel Quickley + Anthony Black,1.561,-1.251,0.103,0.091,0.455,-0.234,0.078,-0.979,1.469,0.048,-0.059,,"REB, STL, FT%, TO","AST, BLK, FG%",-0.979,True
+76Er,Davion Mitchell + Kyshawn George,Andrew Nembhard + Anthony Black,1.526,-2.156,-2.001,-0.362,-0.181,-0.537,-0.513,-3.243,-2.543,0.094,0.091,,"REB, STL, FT%","AST, BLK, 3PM, FG%",-3.243,True
+76Er,Davion Mitchell + Kyshawn George,Anthony Black + Moussa Diabate,1.454,-3.264,-2.339,-0.328,-0.029,-0.702,-0.409,-4.249,-2.426,0.261,0.156,,"REB, STL, FG%, TO","PTS, AST, 3PM, FT%",-4.249,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr.,1.421,-0.754,0.281,0.179,0.276,0.115,0.306,-0.216,1.109,0.252,0.151,I add Collin Gillespie; they drop Jared McCain,"REB, STL, 3PM, FT%, TO",AST,-0.216,True
+76Er,Davion Mitchell + Jrue Holiday,Zion Williamson,0.937,-1.039,-0.361,0.203,0.150,-0.034,0.161,-0.428,0.089,0.295,0.306,I add Collin Gillespie; they drop Jared McCain,"PTS, REB, STL, FG%, TO","AST, 3PM, FT%",-0.428,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + Desmond Bane,1.125,0.234,0.502,0.460,0.565,0.364,0.371,1.615,2.195,0.063,-0.055,,"PTS, REB, 3PM, FT%","AST, STL, FG%",1.615,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + VJ Edgecombe,0.882,1.235,0.985,0.490,0.507,0.611,0.570,2.704,2.506,0.001,-0.087,,"PTS, REB, 3PM, FT%, TO","AST, FG%",2.506,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + Immanuel Quickley,1.008,0.885,1.331,0.487,0.644,0.491,0.569,2.345,3.263,0.023,-0.094,,"PTS, REB, 3PM, FT%, TO","AST, BLK, FG%",2.345,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + Andrew Nembhard,0.991,0.111,-0.489,-0.053,-0.033,0.206,0.102,-0.047,-0.587,0.048,0.042,,"PTS, REB, 3PM, FT%","AST, STL, BLK",-0.587,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + Anthony Black,0.862,-0.357,-0.737,0.290,0.283,0.189,0.105,0.513,0.111,0.112,0.064,,"PTS, REB, STL, BLK, 3PM","AST, FG%",0.111,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + Jaime Jaquez Jr.,1.239,-1.814,-0.964,-0.329,-0.072,-0.148,0.045,-2.799,-1.179,0.214,0.057,,"PTS, REB, FT%, TO","AST, STL, BLK",-2.799,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + Isaiah Hartenstein,1.178,-2.548,-3.170,-0.009,-0.116,-0.378,-0.490,-2.575,-3.517,0.195,0.135,,"REB, TO","AST, STL, 3PM",-3.517,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + Moussa Diabate,0.955,-2.091,-1.809,-0.014,0.178,-0.233,-0.110,-2.132,-1.276,0.182,0.036,,"REB, BLK, FG%, TO","AST, STL, 3PM",-2.132,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + Jared McCain,1.346,-3.182,-2.105,-0.395,-0.012,-0.494,-0.198,-4.367,-2.141,0.266,0.120,,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK, FG%",-4.367,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + Klay Thompson,1.319,-2.854,-2.698,-0.369,-0.141,-0.382,-0.308,-3.962,-3.121,0.252,0.169,,"PTS, REB, 3PM, FT%, TO","AST, STL, FG%",-3.962,True
+76Er,Davion Mitchell + Jrue Holiday,Michael Porter Jr. + Ja'Kobe Walter,1.309,-2.585,-0.790,-0.259,0.345,-0.332,0.154,-3.361,0.247,0.253,0.052,,"PTS, REB, 3PM, FT%, TO",AST,-3.361,True
+76Er,Davion Mitchell + Jrue Holiday,Zion Williamson + Jaime Jaquez Jr.,0.854,-1.973,-1.824,-0.380,-0.173,-0.234,-0.136,-3.112,-2.344,0.268,0.222,,"PTS, REB, FG%","AST, STL, 3PM, FT%",-3.112,True
+76Er,Davion Mitchell + Jrue Holiday,Zion Williamson + Isaiah Hartenstein,0.825,-2.427,-3.802,-0.241,-0.364,-0.379,-0.655,-3.150,-4.894,0.247,0.304,,"REB, BLK, FG%, TO","AST, 3PM, FT%",-4.894,True
+76Er,Davion Mitchell + Jrue Holiday,Zion Williamson + Jared McCain,0.904,-3.267,-2.746,-0.613,-0.261,-0.591,-0.354,-5.105,-3.529,0.313,0.268,,"PTS, REB, FG%, TO","AST, 3PM, FT%",-5.105,True
+76Er,Davion Mitchell + Jrue Holiday,Zion Williamson + Klay Thompson,0.891,-2.986,-3.403,-0.515,-0.341,-0.539,-0.509,-4.532,-4.427,0.305,0.320,,"PTS, REB, BLK, FG%, TO","AST, STL, 3PM, FT%",-4.532,True
+76Er,Davion Mitchell + Jrue Holiday,Zion Williamson + Ja'Kobe Walter,0.887,-2.936,-1.694,-0.449,0.126,-0.516,-0.074,-4.284,-1.315,0.307,0.212,,"PTS, REB, FG%, TO","AST, 3PM, FT%",-4.284,True
+76Er,Davion Mitchell + Jrue Holiday,Desmond Bane + Anthony Black,1.559,-1.217,-1.595,-0.018,0.008,-0.154,-0.220,-1.272,-1.570,0.126,0.098,,"PTS, REB, STL, BLK, FT%","AST, FG%, TO",-1.570,True
+76Er,Davion Mitchell + Jrue Holiday,VJ Edgecombe + Immanuel Quickley,1.391,0.660,1.045,0.593,0.712,0.357,0.484,2.440,3.181,-0.016,-0.099,,"PTS, REB, STL, FT%, TO","AST, BLK, FG%",2.440,True
+76Er,Davion Mitchell + Jrue Holiday,VJ Edgecombe + Andrew Nembhard,1.359,0.141,-0.648,-0.101,-0.147,0.156,0.048,-0.162,-1.088,0.030,0.050,,"PTS, REB, STL, FT%, TO","AST, BLK, 3PM, FG%",-1.088,True
+76Er,Davion Mitchell + Jrue Holiday,VJ Edgecombe + Anthony Black,1.128,-0.245,-0.809,0.211,0.153,0.143,0.087,0.388,-0.349,0.083,0.073,,"PTS, REB, STL, BLK","AST, 3PM, FG%",-0.349,True
+76Er,Davion Mitchell + Jrue Holiday,VJ Edgecombe + Moussa Diabate,1.292,-1.999,-1.820,-0.124,0.002,-0.277,-0.125,-2.371,-1.814,0.213,0.117,,"REB, BLK, FG%, TO","PTS, AST, 3PM, FT%",-2.371,True
+76Er,Davion Mitchell + Jrue Holiday,Immanuel Quickley + Anthony Black,1.343,-0.773,-0.523,0.222,0.316,-0.046,0.050,-0.106,0.425,0.098,0.049,,"PTS, REB, STL, FT%, TO","AST, FG%",-0.106,True
+76Er,Davion Mitchell + Jrue Holiday,Immanuel Quickley + Moussa Diabate,1.582,-2.441,-1.531,0.028,0.279,-0.445,-0.172,-2.358,-0.693,0.221,0.101,,"REB, BLK, FT%, TO","PTS, AST, STL, 3PM",-2.358,True
+76Er,Davion Mitchell + Jrue Holiday,Andrew Nembhard + Anthony Black,1.313,-1.142,-2.124,-0.403,-0.446,-0.190,-0.358,-2.351,-3.460,0.155,0.219,,"PTS, REB, STL","AST, 3PM, FG%, TO",-3.460,True
+76Er,Davion Mitchell + Jrue Holiday,Andrew Nembhard + Moussa Diabate,1.540,-2.944,-3.068,-0.718,-0.567,-0.653,-0.573,-5.099,-4.770,0.276,0.258,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-5.099,True
+76Er,Davion Mitchell + Jrue Holiday,Anthony Black + Moussa Diabate,1.251,-3.454,-3.377,-0.366,-0.247,-0.698,-0.582,-4.551,-4.116,0.326,0.268,,"REB, STL, BLK, FG%, TO","PTS, AST, 3PM, FT%",-4.551,True
+76Er,Davion Mitchell + Rui Hachimura,Michael Porter Jr.,1.049,1.090,-0.176,0.399,0.105,0.385,0.056,2.286,0.139,0.103,0.188,I add Collin Gillespie; they drop Jared McCain,"REB, STL, 3PM, FT%","AST, FG%",0.139,True
+76Er,Davion Mitchell + Rui Hachimura,Michael Porter Jr. + Desmond Bane,0.830,2.484,0.382,0.605,0.223,0.671,0.176,4.298,1.050,-0.114,-0.033,,"PTS, REB, 3PM, FT%","AST, FG%, TO",1.050,True
+76Er,Davion Mitchell + Rui Hachimura,Michael Porter Jr. + Jaime Jaquez Jr.,0.914,0.488,-1.017,0.044,-0.251,0.229,-0.145,0.620,-1.771,0.040,0.076,,"PTS, REB, FT%","AST, STL, BLK, FG%, TO",-1.771,True
+76Er,Davion Mitchell + Rui Hachimura,Michael Porter Jr. + Isaiah Hartenstein,0.869,-0.147,-3.324,0.069,-0.570,0.069,-0.689,0.061,-5.035,0.052,0.193,,"REB, FT%","AST, STL, 3PM",-5.035,True
+76Er,Davion Mitchell + Rui Hachimura,Michael Porter Jr. + Jared McCain,0.993,-1.270,-2.629,-0.346,-0.533,-0.162,-0.496,-2.306,-4.229,0.121,0.166,,"PTS, REB, 3PM, FT%","AST, STL, BLK, FG%",-4.229,True
+76Er,Davion Mitchell + Rui Hachimura,Michael Porter Jr. + Klay Thompson,0.973,-1.058,-3.374,-0.334,-0.674,-0.100,-0.656,-2.059,-5.396,0.102,0.213,,"REB, 3PM, FT%, TO","AST, STL, FG%",-5.396,True
+76Er,Davion Mitchell + Rui Hachimura,Michael Porter Jr. + Ja'Kobe Walter,0.966,-1.016,-1.647,-0.096,-0.060,-0.111,-0.233,-1.305,-1.826,0.095,0.080,,"REB, 3PM, FT%, TO","AST, BLK, FG%",-1.826,True
+76Er,Davion Mitchell + Rui Hachimura,Desmond Bane + VJ Edgecombe,1.198,3.273,0.720,0.759,0.295,0.804,0.274,5.551,1.606,-0.162,-0.062,,"PTS, REB, STL, 3PM, FT%","AST, FG%, TO",1.606,False
+76Er,Davion Mitchell + Rui Hachimura,Desmond Bane + Immanuel Quickley,1.557,2.320,0.926,0.605,0.359,0.570,0.244,4.136,2.004,-0.142,-0.081,,"PTS, REB, 3PM, FT%","AST, BLK, FG%",2.004,False
+76Er,Davion Mitchell + Rui Hachimura,Desmond Bane + Andrew Nembhard,1.502,1.353,-0.984,0.147,-0.294,0.321,-0.241,1.793,-1.866,-0.090,0.071,,"PTS, REB, FT%","BLK, FG%, TO",-1.866,True
+76Er,Davion Mitchell + Rui Hachimura,Desmond Bane + Anthony Black,1.150,1.224,-1.349,0.330,-0.154,0.259,-0.292,2.212,-1.812,-0.073,0.074,,"PTS, REB, STL, BLK, FT%","AST, FG%, TO",-1.812,True
+76Er,Davion Mitchell + Rui Hachimura,Desmond Bane + Moussa Diabate,1.394,-0.076,-2.133,0.183,-0.155,0.018,-0.457,0.472,-2.597,0.072,0.146,,"REB, BLK, FT%","PTS, AST, STL, 3PM",-2.597,True
+76Er,Davion Mitchell + Rui Hachimura,VJ Edgecombe + Immanuel Quickley,1.026,2.928,0.992,0.837,0.488,0.728,0.356,5.438,2.455,-0.196,-0.122,,"REB, STL, FT%","BLK, FG%",2.455,False
+76Er,Davion Mitchell + Rui Hachimura,VJ Edgecombe + Andrew Nembhard,1.002,1.923,-0.961,0.398,-0.127,0.460,-0.141,3.117,-1.343,-0.142,0.021,,"REB, STL, FT%","BLK, 3PM, FG%",-1.343,True
+76Er,Davion Mitchell + Rui Hachimura,VJ Edgecombe + Anthony Black,0.832,2.049,-0.974,0.544,-0.009,0.521,-0.079,3.682,-1.000,-0.112,0.042,,"REB, STL, BLK, FT%","AST, 3PM, FG%",-1.000,True
+76Er,Davion Mitchell + Rui Hachimura,VJ Edgecombe + Jaime Jaquez Jr.,1.382,1.080,-0.612,0.159,-0.179,0.344,-0.013,1.556,-1.148,0.006,0.058,,"REB, FT%","AST, BLK, 3PM, FG%",-1.148,True
+76Er,Davion Mitchell + Rui Hachimura,VJ Edgecombe + Isaiah Hartenstein,1.281,0.209,-3.233,0.178,-0.512,0.135,-0.643,0.742,-4.769,0.034,0.186,,"REB, STL, BLK, FT%","PTS, AST, 3PM",-4.769,True
+76Er,Davion Mitchell + Rui Hachimura,VJ Edgecombe + Moussa Diabate,0.953,0.372,-2.031,0.395,-0.050,0.177,-0.336,1.556,-2.180,0.034,0.116,,"REB, STL, BLK, FT%, TO","PTS, AST, 3PM",-2.180,True
+76Er,Davion Mitchell + Rui Hachimura,VJ Edgecombe + Jared McCain,1.571,-0.953,-2.535,-0.246,-0.490,-0.131,-0.459,-1.692,-4.005,0.093,0.152,,"REB, STL, FT%","PTS, AST, BLK, FG%",-4.005,True
+76Er,Davion Mitchell + Rui Hachimura,VJ Edgecombe + Klay Thompson,1.520,-0.696,-3.475,-0.215,-0.631,-0.078,-0.660,-1.340,-5.367,0.067,0.195,,"REB, 3PM, FT%, TO","PTS, AST, FG%",-5.367,True
+76Er,Davion Mitchell + Rui Hachimura,VJ Edgecombe + Ja'Kobe Walter,1.504,-0.969,-1.868,0.009,-0.031,-0.157,-0.290,-0.943,-1.962,0.071,0.073,,"REB, STL, FT%, TO","PTS, AST, FG%",-1.962,True
+76Er,Davion Mitchell + Rui Hachimura,Immanuel Quickley + Andrew Nembhard,1.242,0.602,-0.988,0.227,-0.062,0.151,-0.220,1.283,-1.172,-0.089,0.019,,"AST, FT%","BLK, FG%",-1.172,True
+76Er,Davion Mitchell + Rui Hachimura,Immanuel Quickley + Anthony Black,0.991,0.985,-0.981,0.412,0.065,0.230,-0.174,2.219,-0.787,-0.095,0.015,,"REB, STL, FT%","BLK, FG%",-0.787,True
+76Er,Davion Mitchell + Rui Hachimura,Immanuel Quickley + Moussa Diabate,1.167,-0.338,-1.760,0.285,0.039,-0.031,-0.350,0.517,-1.643,0.032,0.085,,"REB, FT%, TO","PTS, AST, STL, 3PM",-1.643,True
+76Er,Davion Mitchell + Rui Hachimura,Andrew Nembhard + Anthony Black,0.968,0.012,-2.988,-0.055,-0.605,-0.030,-0.683,-0.154,-4.803,-0.035,0.177,,"STL, FT%","3PM, FG%, TO",-4.803,True
+76Er,Davion Mitchell + Rui Hachimura,Andrew Nembhard + Moussa Diabate,1.136,-0.651,-3.211,-0.177,-0.606,-0.159,-0.749,-1.181,-5.030,0.090,0.249,,"REB, BLK, FG%, FT%","PTS, AST, STL, 3PM",-5.030,True
+76Er,Davion Mitchell + Rui Hachimura,Anthony Black + Jaime Jaquez Jr.,1.318,-0.778,-2.691,-0.291,-0.612,-0.159,-0.557,-1.650,-4.527,0.117,0.221,,"REB, STL, BLK, FT%","AST, 3PM, FG%, TO",-4.527,True
+76Er,Davion Mitchell + Rui Hachimura,Anthony Black + Isaiah Hartenstein,1.226,-1.598,-5.131,-0.081,-0.782,-0.355,-1.184,-1.840,-7.479,0.138,0.344,,"REB, STL, BLK","PTS, AST, 3PM",-7.479,True
+76Er,Davion Mitchell + Rui Hachimura,Anthony Black + Moussa Diabate,0.922,-1.321,-3.746,-0.026,-0.442,-0.278,-0.823,-1.398,-5.070,0.143,0.275,,"REB, STL, BLK, FG%","PTS, AST, 3PM",-5.070,True
+76Er,Davion Mitchell + Rui Hachimura,Anthony Black + Jared McCain,1.489,-2.802,-4.601,-0.575,-0.791,-0.678,-1.058,-4.526,-6.974,0.194,0.300,,"STL, FT%","PTS, AST, 3PM, FG%",-6.974,True
+76Er,Davion Mitchell + Rui Hachimura,Anthony Black + Klay Thompson,1.443,-2.301,-5.137,-0.522,-0.934,-0.550,-1.157,-3.866,-7.941,0.180,0.357,,"BLK, FT%","PTS, AST, FG%",-7.941,True
+76Er,Davion Mitchell + Rui Hachimura,Anthony Black + Ja'Kobe Walter,1.429,-2.660,-3.816,-0.420,-0.445,-0.654,-0.855,-3.920,-5.151,0.181,0.220,,"REB, STL, BLK, FT%","PTS, AST, 3PM, FG%",-5.151,True
+76Er,Davion Mitchell + Rui Hachimura,Isaiah Hartenstein + Moussa Diabate,1.508,-3.410,-6.320,-0.306,-0.877,-0.772,-1.499,-4.329,-8.951,0.289,0.408,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-8.951,True
+76Er,Davion Mitchell + Brandin Podziemski,Donovan Mitchell,0.808,0.591,1.520,-0.465,-0.372,0.257,0.407,-0.805,0.405,0.203,0.159,I add Collin Gillespie; they drop Jared McCain,"STL, 3PM, FT%",AST,-0.805,True
+76Er,Davion Mitchell + Brandin Podziemski,Zion Williamson,1.100,-2.060,-1.749,-0.507,-0.560,-0.363,-0.242,-3.580,-3.429,0.385,0.436,I add Collin Gillespie; they drop Jared McCain,"REB, STL, FG%, TO","AST, 3PM",-3.580,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + Desmond Bane,1.321,-0.608,-0.662,-0.215,-0.076,0.067,0.037,-1.254,-0.891,0.120,0.062,,"PTS, REB, 3PM, FT%","AST, STL, FG%",-1.254,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + VJ Edgecombe,1.035,0.438,-0.112,-0.168,-0.146,0.344,0.237,-0.068,-0.549,0.073,0.031,,"PTS, REB, 3PM, FT%, TO","AST, FG%",-0.549,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + Immanuel Quickley,1.183,-0.154,0.133,-0.216,-0.036,0.160,0.214,-0.801,0.024,0.101,0.034,,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK, FG%",-0.801,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + Andrew Nembhard,1.163,-0.991,-1.832,-0.768,-0.743,-0.144,-0.313,-3.296,-4.060,0.126,0.169,,"PTS, REB, FT%","AST, STL, BLK, FG%",-4.060,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + Anthony Black,1.012,-1.191,-1.961,-0.394,-0.397,-0.127,-0.267,-2.372,-3.151,0.177,0.187,,"PTS, REB, BLK, FT%","AST, FG%",-3.151,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + Jaime Jaquez Jr.,1.455,-2.836,-2.179,-1.006,-0.753,-0.486,-0.342,-5.852,-4.437,0.280,0.179,,"PTS, REB, FT%","AST, STL",-5.852,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + Isaiah Hartenstein,1.383,-3.450,-4.417,-0.631,-0.759,-0.673,-0.875,-5.343,-6.693,0.268,0.260,,"REB, FT%, TO","PTS, AST, STL, 3PM",-6.693,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + Moussa Diabate,1.121,-2.893,-2.843,-0.627,-0.441,-0.527,-0.441,-4.774,-4.166,0.255,0.159,,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-4.774,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + Jared McCain,1.580,-4.475,-3.547,-1.065,-0.679,-0.882,-0.635,-7.668,-5.583,0.349,0.253,,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK, FG%",-7.668,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + Klay Thompson,1.548,-4.240,-4.243,-1.046,-0.821,-0.802,-0.780,-7.377,-6.704,0.326,0.294,,"REB, 3PM, FT%, TO","AST, STL, FG%",-7.377,True
+76Er,Davion Mitchell + Brandin Podziemski,Michael Porter Jr. + Ja'Kobe Walter,1.537,-3.785,-1.984,-0.919,-0.317,-0.713,-0.220,-6.542,-2.935,0.336,0.186,,"REB, 3PM, FT%, TO","AST, STL",-6.542,True
+76Er,Davion Mitchell + Brandin Podziemski,Zion Williamson + Desmond Bane,0.937,-0.490,-1.629,-0.441,-0.392,-0.023,-0.207,-1.814,-2.803,0.156,0.194,,"PTS, REB, BLK, FG%, FT%","AST, STL, 3PM, TO",-2.803,True
+76Er,Davion Mitchell + Brandin Podziemski,Zion Williamson + Immanuel Quickley,0.866,-0.297,-0.621,-0.376,-0.250,0.025,0.017,-1.426,-1.371,0.130,0.161,,"PTS, REB, FG%, TO","AST, 3PM",-1.426,True
+76Er,Davion Mitchell + Brandin Podziemski,Zion Williamson + Andrew Nembhard,0.855,-1.024,-2.434,-0.886,-0.908,-0.208,-0.436,-3.684,-5.158,0.180,0.324,,"PTS, REB, FG%","AST, STL, 3PM",-5.158,True
+76Er,Davion Mitchell + Brandin Podziemski,Zion Williamson + Jaime Jaquez Jr.,1.003,-3.086,-3.105,-1.109,-0.905,-0.599,-0.540,-6.413,-5.822,0.337,0.336,,"PTS, REB, FG%","AST, STL, 3PM, FT%",-6.413,True
+76Er,Davion Mitchell + Brandin Podziemski,Zion Williamson + Isaiah Hartenstein,0.968,-3.535,-5.187,-0.906,-1.061,-0.718,-1.070,-6.253,-8.370,0.322,0.424,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM, FT%",-8.370,True
+76Er,Davion Mitchell + Brandin Podziemski,Zion Williamson + Moussa Diabate,0.832,-3.178,-3.760,-0.809,-0.682,-0.620,-0.642,-5.605,-5.805,0.321,0.340,,"REB, BLK, FG%, TO","PTS, AST, 3PM, FT%",-5.805,True
+76Er,Davion Mitchell + Brandin Podziemski,Zion Williamson + Jared McCain,1.061,-4.623,-4.306,-1.319,-0.981,-0.999,-0.821,-8.579,-7.248,0.406,0.403,,"PTS, REB, FG%, TO","AST, STL, 3PM",-8.579,True
+76Er,Davion Mitchell + Brandin Podziemski,Zion Williamson + Klay Thompson,1.046,-4.336,-5.022,-1.226,-1.076,-0.957,-0.999,-8.014,-8.251,0.389,0.449,,"PTS, BLK, FG%, TO","AST, STL, 3PM",-8.251,True
+76Er,Davion Mitchell + Brandin Podziemski,Zion Williamson + Ja'Kobe Walter,1.041,-4.186,-3.037,-1.143,-0.591,-0.913,-0.487,-7.615,-4.811,0.391,0.341,,"REB, FG%, TO","AST, 3PM, FT%",-7.615,True
+76Er,Davion Mitchell + Brandin Podziemski,VJ Edgecombe + Andrew Nembhard,1.595,-0.893,-1.966,-0.656,-0.731,-0.152,-0.351,-2.862,-4.160,0.113,0.173,,"REB, FT%, TO","AST, 3PM, FG%",-4.160,True
+76Er,Davion Mitchell + Brandin Podziemski,VJ Edgecombe + Anthony Black,1.324,-0.877,-1.904,-0.323,-0.410,-0.095,-0.253,-1.847,-3.133,0.161,0.203,,"REB, STL, BLK, FT%","AST, 3PM, FG%",-3.133,True
+76Er,Davion Mitchell + Brandin Podziemski,VJ Edgecombe + Moussa Diabate,1.517,-2.610,-2.751,-0.590,-0.504,-0.494,-0.425,-4.379,-4.262,0.297,0.238,,"REB, BLK, FG%, TO","PTS, AST, 3PM",-4.379,True
+76Er,Davion Mitchell + Brandin Podziemski,Immanuel Quickley + Anthony Black,1.577,-1.816,-1.775,-0.489,-0.402,-0.374,-0.323,-3.283,-2.981,0.195,0.199,,"FT%, TO","AST, 3PM, FG%",-3.283,True
+76Er,Davion Mitchell + Brandin Podziemski,Andrew Nembhard + Anthony Black,1.541,-2.330,-3.570,-0.972,-1.054,-0.550,-0.795,-5.247,-6.733,0.237,0.350,,FT%,"REB, AST, 3PM, FG%, TO",-6.733,True
+76Er,Davion Mitchell + Brandin Podziemski,Anthony Black + Moussa Diabate,1.468,-4.268,-4.681,-0.862,-0.758,-0.979,-0.967,-6.853,-6.954,0.409,0.396,,"REB, BLK, FG%, TO","PTS, AST, 3PM",-6.954,True
+76Er,Davion Mitchell + Payton Pritchard,Michael Porter Jr.,1.270,-1.617,-1.658,-0.157,-0.082,-0.178,-0.213,-2.088,-1.905,0.291,0.277,I add Collin Gillespie; they drop Jared McCain,"REB, STL, FT%, TO",AST,-2.088,True
+76Er,Davion Mitchell + Payton Pritchard,Zion Williamson,0.837,-1.622,-2.505,-0.138,-0.376,-0.244,-0.428,-2.035,-3.634,0.349,0.440,I add Collin Gillespie; they drop Jared McCain,"REB, STL, FG%, TO","AST, 3PM, FT%",-3.634,True
+76Er,Davion Mitchell + Payton Pritchard,Michael Porter Jr. + Desmond Bane,1.005,-0.090,-0.848,0.147,0.103,0.204,0.005,0.351,-0.540,0.079,0.062,,"PTS, REB, 3PM, FT%","AST, FG%, TO",-0.540,True
+76Er,Davion Mitchell + Payton Pritchard,Michael Porter Jr. + Immanuel Quickley,0.901,0.341,-0.129,0.152,0.178,0.277,0.163,0.798,0.405,0.062,0.030,,"PTS, REB, 3PM, FT%, TO","AST, BLK, FG%",0.405,True
+76Er,Davion Mitchell + Payton Pritchard,Michael Porter Jr. + Andrew Nembhard,0.885,-0.711,-2.255,-0.249,-0.388,-0.093,-0.403,-1.458,-3.419,0.075,0.157,,"PTS, REB, FT%","AST, STL, BLK, FG%, TO",-3.419,True
+76Er,Davion Mitchell + Payton Pritchard,Michael Porter Jr. + Jaime Jaquez Jr.,1.107,-2.397,-2.594,-0.475,-0.420,-0.359,-0.421,-3.821,-3.855,0.243,0.183,,"PTS, REB","AST, STL, TO",-3.855,True
+76Er,Davion Mitchell + Payton Pritchard,Michael Porter Jr. + Isaiah Hartenstein,1.052,-3.108,-4.890,-0.441,-0.737,-0.580,-1.011,-4.430,-7.100,0.250,0.290,,"REB, BLK, TO","PTS, AST, 3PM",-7.100,True
+76Er,Davion Mitchell + Payton Pritchard,Michael Porter Jr. + Moussa Diabate,0.853,-2.501,-3.400,-0.157,-0.209,-0.410,-0.590,-2.971,-4.026,0.237,0.189,,"REB, BLK, FG%, TO","PTS, AST, 3PM",-4.026,True
+76Er,Davion Mitchell + Payton Pritchard,Michael Porter Jr. + Jared McCain,1.203,-3.893,-3.725,-0.802,-0.583,-0.731,-0.672,-6.300,-5.475,0.305,0.251,,"PTS, REB, FT%, TO","AST, STL, BLK, FG%",-6.300,True
+76Er,Davion Mitchell + Payton Pritchard,Michael Porter Jr. + Klay Thompson,1.178,-3.655,-4.339,-0.768,-0.689,-0.656,-0.805,-5.960,-6.406,0.283,0.293,,"REB, 3PM, FT%, TO","AST, STL, FG%",-6.406,True
+76Er,Davion Mitchell + Payton Pritchard,Michael Porter Jr. + Ja'Kobe Walter,1.170,-3.193,-2.217,-0.537,-0.114,-0.559,-0.271,-4.802,-2.559,0.296,0.185,,"REB, TO","AST, FG%",-4.802,True
+76Er,Davion Mitchell + Payton Pritchard,Zion Williamson + Jared McCain,0.807,-3.934,-4.438,-0.918,-0.757,-0.814,-0.869,-6.687,-6.707,0.367,0.402,,"PTS, REB, FG%, TO","AST, 3PM, FT%",-6.707,True
+76Er,Davion Mitchell + Payton Pritchard,Desmond Bane + VJ Edgecombe,1.451,0.030,-1.158,0.243,0.083,0.136,-0.092,0.758,-0.909,0.058,0.072,,"PTS, REB, STL, BLK, FT%","AST, FG%",-0.909,True
+76Er,Davion Mitchell + Payton Pritchard,Desmond Bane + Anthony Black,1.392,-1.794,-3.262,-0.185,-0.345,-0.371,-0.686,-2.347,-4.298,0.158,0.216,,"PTS, REB, STL, BLK, FT%","AST, FG%, TO",-4.298,True
+76Er,Davion Mitchell + Payton Pritchard,VJ Edgecombe + Immanuel Quickley,1.243,-0.027,-0.613,0.254,0.226,0.116,0.039,0.734,0.064,0.023,0.021,,"REB, STL, FT%, TO","AST, BLK, 3PM, FG%",0.064,True
+76Er,Davion Mitchell + Payton Pritchard,VJ Edgecombe + Andrew Nembhard,1.214,-0.963,-2.710,-0.152,-0.378,-0.184,-0.509,-1.420,-3.844,0.053,0.152,,"REB, STL, FT%","AST, 3PM, FG%",-3.844,True
+76Er,Davion Mitchell + Payton Pritchard,VJ Edgecombe + Anthony Black,1.008,-1.064,-2.727,0.027,-0.233,-0.129,-0.442,-0.982,-3.425,0.117,0.193,,"REB, STL, BLK","AST, 3PM, FG%",-3.425,True
+76Er,Davion Mitchell + Payton Pritchard,VJ Edgecombe + Isaiah Hartenstein,1.551,-3.358,-5.341,-0.391,-0.769,-0.702,-1.147,-4.531,-7.646,0.264,0.320,,"REB, STL, BLK, TO","PTS, AST, 3PM, FT%",-7.646,True
+76Er,Davion Mitchell + Payton Pritchard,VJ Edgecombe + Moussa Diabate,1.154,-2.871,-3.842,-0.137,-0.276,-0.566,-0.716,-3.282,-4.671,0.258,0.243,,"REB, STL, BLK, FG%, TO","PTS, AST, 3PM, FT%",-4.671,True
+76Er,Davion Mitchell + Payton Pritchard,Immanuel Quickley + Andrew Nembhard,1.504,-1.447,-2.062,-0.321,-0.332,-0.307,-0.419,-2.409,-3.059,0.091,0.147,,"REB, FT%, TO","AST, BLK, 3PM, FG%",-3.059,True
+76Er,Davion Mitchell + Payton Pritchard,Immanuel Quickley + Anthony Black,1.200,-1.415,-2.217,-0.116,-0.181,-0.261,-0.395,-1.764,-2.761,0.137,0.174,,"REB, STL, FT%","PTS, AST, 3PM, FG%",-2.761,True
+76Er,Davion Mitchell + Payton Pritchard,Immanuel Quickley + Moussa Diabate,1.414,-2.865,-3.091,-0.265,-0.228,-0.613,-0.606,-3.659,-3.774,0.274,0.235,,"REB, BLK, FG%, TO","PTS, AST, 3PM",-3.774,True
+76Er,Davion Mitchell + Payton Pritchard,Andrew Nembhard + Anthony Black,1.173,-2.193,-4.317,-0.596,-0.836,-0.519,-0.983,-3.980,-6.825,0.166,0.316,,"REB, STL, BLK, FT%","PTS, AST, 3PM, FG%, TO",-6.825,True
+76Er,Davion Mitchell + Payton Pritchard,Andrew Nembhard + Moussa Diabate,1.376,-3.787,-5.125,-0.736,-0.832,-0.917,-1.166,-5.995,-7.621,0.310,0.374,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-7.621,True
+76Er,Davion Mitchell + Payton Pritchard,Anthony Black + Jaime Jaquez Jr.,1.596,-3.709,-4.450,-0.805,-0.841,-0.821,-0.963,-6.124,-6.974,0.348,0.366,,"REB, STL, BLK","PTS, AST, 3PM, TO",-6.974,True
+76Er,Davion Mitchell + Payton Pritchard,Anthony Black + Isaiah Hartenstein,1.485,-4.479,-6.813,-0.601,-1.024,-1.020,-1.594,-6.283,-9.885,0.381,0.488,,"REB, STL, BLK","PTS, AST, 3PM, FT%",-9.885,True
+76Er,Davion Mitchell + Payton Pritchard,Anthony Black + Moussa Diabate,1.117,-3.957,-5.185,-0.509,-0.635,-0.885,-1.107,-5.483,-7.090,0.381,0.407,,"REB, STL, BLK, FG%, TO","PTS, AST, 3PM, FT%",-7.090,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell,1.093,-1.116,0.672,-0.244,-0.121,-0.168,0.103,-1.848,0.309,0.219,0.117,I add Collin Gillespie; they drop Jared McCain,"STL, FT%","REB, AST, BLK, FG%",-1.848,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson,1.488,-3.479,-2.331,-0.285,-0.307,-0.781,-0.553,-4.333,-3.251,0.420,0.430,I add Collin Gillespie; they drop Jared McCain,"STL, FG%, TO","AST, BLK, 3PM, FT%",-4.333,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + Desmond Bane,0.969,0.515,1.364,-0.041,0.177,0.158,0.287,0.394,1.895,-0.051,-0.114,,"PTS, STL, 3PM, FT%","AST, BLK, FG%, TO",0.394,False
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + VJ Edgecombe,0.843,1.462,1.975,0.067,0.178,0.427,0.513,1.664,2.509,-0.120,-0.190,,"PTS, REB, STL, FT%","AST, BLK, FG%, TO",1.664,False
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + Immanuel Quickley,0.912,0.205,1.770,0.071,0.369,0.141,0.415,0.417,2.878,-0.044,-0.161,,"PTS, AST, STL, 3PM, FT%","REB, BLK, FG%",0.417,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + Andrew Nembhard,0.903,-0.720,-0.097,-0.557,-0.441,-0.122,-0.065,-2.390,-1.421,-0.011,-0.035,,"PTS, AST, FT%","REB, BLK, FG%, TO",-2.390,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + Anthony Black,0.832,-0.215,0.118,-0.249,-0.134,-0.041,0.027,-0.963,-0.284,-0.010,-0.031,,"PTS, STL, FT%","AST, BLK, FG%, TO",-0.963,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + Jaime Jaquez Jr.,1.020,-1.269,0.526,-0.824,-0.467,-0.201,0.141,-3.741,-0.876,0.119,-0.007,,"PTS, FT%","AST, BLK, 3PM, TO",-3.741,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + Isaiah Hartenstein,0.993,-1.572,-1.449,-0.423,-0.446,-0.318,-0.317,-2.841,-2.787,0.130,0.105,,"REB, STL, FT%","AST, BLK, 3PM",-2.841,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + Moussa Diabate,0.884,-1.141,0.015,-0.517,-0.228,-0.252,0.013,-2.691,-0.669,0.108,0.003,,"REB, STL, FG%, FT%","AST, BLK, 3PM",-2.691,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + Jared McCain,1.064,-3.382,-1.618,-0.927,-0.511,-0.747,-0.352,-6.162,-3.150,0.239,0.121,,"PTS, 3PM, FT%","REB, AST, BLK, FG%",-6.162,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + Klay Thompson,1.053,-3.388,-2.622,-0.884,-0.677,-0.774,-0.592,-6.040,-4.652,0.202,0.144,,"PTS, 3PM, FT%","REB, AST, BLK, FG%",-6.040,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Donovan Mitchell + Ja'Kobe Walter,1.050,-3.231,-0.777,-0.773,-0.141,-0.746,-0.163,-5.550,-1.201,0.203,0.016,,"PTS, STL, FT%, TO","REB, AST, BLK, FG%",-5.550,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Michael Porter Jr. + Zion Williamson,0.897,-1.208,-1.617,-0.051,-0.044,-0.164,-0.271,-1.362,-1.748,0.152,0.154,,"PTS, REB, FG%","AST, BLK, 3PM, TO",-1.748,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Michael Porter Jr. + VJ Edgecombe,1.400,-0.837,-0.613,0.008,0.051,-0.041,-0.036,-0.812,-0.460,0.059,-0.001,,"PTS, REB, STL, 3PM, FT%","AST, BLK, FG%",-0.812,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Michael Porter Jr. + Andrew Nembhard,1.573,-2.325,-2.325,-0.542,-0.522,-0.487,-0.570,-3.950,-3.890,0.131,0.149,,"PTS, FT%","AST, STL, BLK, FG%, TO",-3.950,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Michael Porter Jr. + Anthony Black,1.369,-2.479,-2.446,-0.215,-0.209,-0.528,-0.552,-3.125,-3.072,0.169,0.162,,"PTS, REB, STL, FT%","AST, BLK, FG%, TO",-3.125,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Michael Porter Jr. + Moussa Diabate,1.516,-3.747,-2.981,-0.485,-0.308,-0.839,-0.645,-5.203,-3.905,0.298,0.199,,"REB, FG%, TO","PTS, AST, BLK, 3PM",-5.203,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + Desmond Bane,1.268,-1.760,-2.016,-0.229,-0.164,-0.424,-0.476,-2.448,-2.508,0.155,0.176,,"PTS, REB, FG%, FT%","AST, BLK, 3PM, TO",-2.508,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + VJ Edgecombe,1.060,-0.832,-1.145,-0.003,0.012,-0.114,-0.146,-0.842,-1.109,0.095,0.126,,"PTS, REB, STL, FG%","AST, BLK, 3PM, FT%",-1.109,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + Immanuel Quickley,1.171,-1.682,-1.047,-0.125,0.063,-0.371,-0.216,-2.055,-0.857,0.137,0.127,,"PTS, STL, FG%, TO","AST, BLK, 3PM",-2.055,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + Andrew Nembhard,1.156,-2.577,-3.051,-0.627,-0.629,-0.614,-0.717,-4.460,-4.937,0.188,0.288,,"PTS, STL, FG%","REB, AST, BLK, 3PM, TO",-4.937,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + Anthony Black,1.042,-2.708,-3.165,-0.463,-0.438,-0.637,-0.704,-4.099,-4.477,0.214,0.298,,"PTS, STL, FG%","AST, BLK, 3PM, FT%, TO",-4.477,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + Jaime Jaquez Jr.,1.356,-4.099,-3.245,-0.873,-0.643,-0.920,-0.698,-6.717,-5.175,0.350,0.321,,"PTS, REB, FG%","AST, BLK, 3PM, FT%, TO",-6.717,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + Isaiah Hartenstein,1.309,-4.410,-5.241,-0.684,-0.817,-1.022,-1.209,-6.461,-7.693,0.349,0.428,,"REB, FG%, TO","PTS, AST, BLK, 3PM, FT%",-7.693,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + Moussa Diabate,1.125,-3.999,-3.782,-0.625,-0.468,-0.939,-0.827,-5.875,-5.186,0.339,0.343,,"REB, FG%, TO","PTS, AST, 3PM, FT%",-5.875,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + Jared McCain,1.435,-5.954,-4.953,-1.132,-0.798,-1.431,-1.143,-9.349,-7.347,0.443,0.416,,"FG%, TO","REB, AST, BLK, 3PM",-9.349,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + Klay Thompson,1.415,-5.571,-5.591,-1.037,-0.912,-1.381,-1.331,-8.682,-8.328,0.412,0.449,,"FG%, TO","REB, AST, STL, BLK, 3PM, FT%",-8.682,True
+76Er,Davion Mitchell + Jabari Smith Jr.,Zion Williamson + Ja'Kobe Walter,1.408,-5.509,-3.755,-0.964,-0.422,-1.351,-0.848,-8.401,-5.021,0.411,0.324,,"STL, FG%, TO","AST, BLK, 3PM, FT%",-8.401,True
+76Er,Davion Mitchell + Norman Powell,Michael Porter Jr.,1.129,-0.476,-0.724,0.200,-0.019,0.033,-0.060,0.125,-0.780,0.179,0.209,I add Collin Gillespie; they drop Jared McCain,"REB, STL, FT%, TO","PTS, AST, FG%",-0.780,True
+76Er,Davion Mitchell + Norman Powell,Michael Porter Jr. + Desmond Bane,0.894,0.811,-0.310,0.252,0.120,0.301,0.023,1.565,0.051,-0.010,-0.011,,"PTS, REB, 3PM, FT%","AST, STL, FG%",0.051,True
+76Er,Davion Mitchell + Norman Powell,Michael Porter Jr. + Immanuel Quickley,0.801,1.209,0.546,0.339,0.257,0.401,0.249,2.226,1.317,-0.069,-0.098,,"REB, 3PM, FT%, TO","AST, STL, BLK, FG%",1.317,False
+76Er,Davion Mitchell + Norman Powell,Michael Porter Jr. + Jaime Jaquez Jr.,0.985,-1.327,-1.688,-0.353,-0.376,-0.185,-0.291,-2.387,-2.816,0.145,0.102,,"REB, FT%, TO","AST, STL",-2.816,True
+76Er,Davion Mitchell + Norman Powell,Michael Porter Jr. + Isaiah Hartenstein,0.936,-2.227,-4.195,-0.187,-0.613,-0.442,-0.903,-2.789,-6.034,0.143,0.181,,"REB, BLK, TO","PTS, AST, STL, 3PM",-6.034,True
+76Er,Davion Mitchell + Norman Powell,Michael Porter Jr. + Jared McCain,1.070,-2.892,-3.064,-0.593,-0.485,-0.564,-0.584,-4.671,-4.518,0.198,0.151,,"REB, 3PM, FT%, TO","PTS, AST, STL, BLK, FG%",-4.671,True
+76Er,Davion Mitchell + Norman Powell,Michael Porter Jr. + Klay Thompson,1.048,-2.813,-3.934,-0.571,-0.637,-0.535,-0.775,-4.527,-5.845,0.201,0.229,,"REB, 3PM, FT%, TO","AST, STL, FG%",-5.845,True
+76Er,Davion Mitchell + Norman Powell,Michael Porter Jr. + Ja'Kobe Walter,1.040,-2.566,-2.020,-0.449,-0.146,-0.488,-0.289,-3.912,-2.459,0.197,0.088,,"REB, FT%, TO","PTS, AST, STL, FG%",-3.912,True
+76Er,Davion Mitchell + Norman Powell,Desmond Bane + VJ Edgecombe,1.291,1.136,-0.341,0.387,0.169,0.309,0.014,2.298,0.166,-0.036,-0.018,,"REB, BLK, FT%","PTS, AST, FG%",0.166,True
+76Er,Davion Mitchell + Norman Powell,Desmond Bane + Anthony Black,1.239,-1.005,-2.756,-0.039,-0.271,-0.280,-0.676,-1.122,-3.569,0.067,0.128,,"REB, BLK, FT%","PTS, AST, 3PM, FG%, TO",-3.569,True
+76Er,Davion Mitchell + Norman Powell,Desmond Bane + Moussa Diabate,1.502,-2.007,-3.181,-0.213,-0.336,-0.468,-0.711,-2.646,-4.190,0.224,0.198,,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-4.190,True
+76Er,Davion Mitchell + Norman Powell,VJ Edgecombe + Immanuel Quickley,1.106,1.108,0.343,0.466,0.367,0.314,0.192,2.506,1.443,-0.072,-0.089,,"REB, FT%, TO","PTS, AST, BLK, 3PM, FG%",1.443,False
+76Er,Davion Mitchell + Norman Powell,VJ Edgecombe + Andrew Nembhard,1.080,0.174,-1.662,0.032,-0.273,0.054,-0.334,0.270,-2.481,-0.033,0.040,,"REB, FT%, TO","PTS, 3PM, FG%",-2.481,True
+76Er,Davion Mitchell + Norman Powell,VJ Edgecombe + Anthony Black,0.896,0.079,-1.733,0.179,-0.127,0.070,-0.264,0.615,-2.113,0.030,0.092,,"REB, STL, BLK","PTS, AST, 3PM, FG%",-2.113,True
+76Er,Davion Mitchell + Norman Powell,VJ Edgecombe + Jaime Jaquez Jr.,1.489,-0.988,-1.390,-0.241,-0.315,-0.158,-0.218,-1.711,-2.336,0.136,0.104,,"REB, TO","PTS, AST, 3PM",-2.336,True
+76Er,Davion Mitchell + Norman Powell,VJ Edgecombe + Isaiah Hartenstein,1.380,-2.012,-4.186,-0.220,-0.682,-0.419,-0.907,-2.671,-6.232,0.179,0.228,,"REB, BLK, TO","PTS, AST, 3PM",-6.232,True
+76Er,Davion Mitchell + Norman Powell,VJ Edgecombe + Moussa Diabate,1.027,-1.552,-2.790,-0.002,-0.241,-0.293,-0.525,-1.557,-3.513,0.177,0.162,,"REB, BLK, FG%, TO","PTS, AST, 3PM, FT%",-3.513,True
+76Er,Davion Mitchell + Norman Powell,Immanuel Quickley + Andrew Nembhard,1.337,-0.930,-1.487,-0.138,-0.205,-0.243,-0.386,-1.343,-2.101,0.006,0.030,,"REB, AST, FT%, TO","PTS, STL, BLK, 3PM, FG%",-2.101,True
+76Er,Davion Mitchell + Norman Powell,Immanuel Quickley + Anthony Black,1.067,-0.632,-1.468,0.048,-0.050,-0.163,-0.308,-0.488,-1.619,0.038,0.056,,"REB, STL, FT%, TO","PTS, AST, 3PM, FG%",-1.619,True
+76Er,Davion Mitchell + Norman Powell,Immanuel Quickley + Moussa Diabate,1.257,-1.836,-2.322,-0.109,-0.162,-0.415,-0.495,-2.162,-2.808,0.173,0.127,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-2.808,True
+76Er,Davion Mitchell + Norman Powell,Andrew Nembhard + Anthony Black,1.043,-1.794,-3.758,-0.414,-0.711,-0.472,-0.920,-3.036,-5.890,0.089,0.209,,"REB, BLK","PTS, AST, 3PM, FG%",-5.890,True
+76Er,Davion Mitchell + Norman Powell,Andrew Nembhard + Moussa Diabate,1.224,-2.531,-4.116,-0.539,-0.768,-0.599,-0.966,-4.148,-6.420,0.205,0.265,,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-6.420,True
+76Er,Davion Mitchell + Norman Powell,Anthony Black + Jaime Jaquez Jr.,1.420,-2.894,-3.704,-0.669,-0.725,-0.685,-0.845,-4.900,-5.880,0.252,0.264,,"REB, BLK","PTS, AST, 3PM, FT%",-5.880,True
+76Er,Davion Mitchell + Norman Powell,Anthony Black + Isaiah Hartenstein,1.320,-3.680,-6.061,-0.447,-0.925,-0.885,-1.455,-5.020,-8.836,0.299,0.396,,"REB, BLK, TO","PTS, AST, 3PM, FT%",-8.836,True
+76Er,Davion Mitchell + Norman Powell,Anthony Black + Moussa Diabate,0.994,-3.019,-4.511,-0.389,-0.597,-0.700,-0.997,-4.187,-6.302,0.302,0.325,,"REB, BLK, FG%, TO","PTS, AST, 3PM, FT%",-6.302,True
+76Er,Davion Mitchell + Norman Powell,Anthony Black + Klay Thompson,1.555,-4.238,-5.830,-0.880,-1.006,-1.051,-1.349,-6.878,-8.847,0.320,0.406,,"REB, BLK, TO","PTS, AST, STL, FG%",-8.847,True
+76Er,Davion Mitchell + Norman Powell,Anthony Black + Ja'Kobe Walter,1.539,-4.372,-4.298,-0.762,-0.531,-1.095,-0.969,-6.658,-5.890,0.322,0.261,,"REB, BLK, TO","PTS, AST, 3PM, FG%, FT%",-6.658,True
