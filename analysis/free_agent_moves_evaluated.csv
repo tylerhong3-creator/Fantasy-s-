@@ -1,0 +1,61 @@
+add,drop,reg_cats,po_cats,mwins,score,cats_up,cats_down,z_total,injury,gp,status,flags
+Collin Gillespie,Rui Hachimura,0.973,0.478,0.261,2.407,"AST, STL, 3PM, FT%","PTS, REB, BLK, FG%, TO",-1.677,ACTIVE,10,FREEAGENT,
+DeMar DeRozan,Rui Hachimura,1.415,0.267,0.266,2.215,"PTS, AST, FT%","REB, 3PM, TO",-3.249,ACTIVE,8,FREEAGENT,
+Cam Spencer,Rui Hachimura,0.420,0.481,0.056,1.862,"AST, FG%, FT%","PTS, REB, STL, BLK, 3PM, TO",-2.029,ACTIVE,10,FREEAGENT,
+Nic Claxton,Rui Hachimura,1.039,0.210,0.253,1.670,"REB, AST, BLK, FG%","PTS, STL, 3PM, FT%, TO",-2.544,ACTIVE,1,FREEAGENT,small sample (1 GP)
+Kris Dunn,Rui Hachimura,0.651,0.305,0.105,1.565,"AST, STL, BLK, FG%, FT%","PTS, REB, 3PM, TO",-1.490,ACTIVE,10,WAIVERS,
+Brook Lopez,Rui Hachimura,0.529,0.278,0.060,1.364,"BLK, FG%, FT%, TO","PTS, REB, STL, 3PM",-2.317,ACTIVE,10,WAIVERS,
+Devin Vassell,Rui Hachimura,1.000,0.111,0.241,1.335,"AST, STL, FT%, TO","PTS, REB, FG%",-1.251,OUT,10,FREEAGENT,OUT: assumed back after week 5 (no date in data)
+Isaiah Stewart,Rui Hachimura,0.348,0.309,0.009,1.276,"BLK, FG%, FT%","PTS, AST, STL, 3PM",-2.723,DAY_TO_DAY,7,FREEAGENT,day-to-day: 75% for rest of this week
+Jordan Goodwin,Rui Hachimura,0.286,0.270,0.057,1.096,"AST, STL, FT%, TO","PTS, REB, BLK, FG%",-1.838,ACTIVE,6,FREEAGENT,
+Christian Braun,Rui Hachimura,0.536,0.090,0.062,0.805,"AST, STL, FG%, FT%, TO","PTS, REB, 3PM",-1.666,ACTIVE,9,FREEAGENT,
+Jalen Smith,Rui Hachimura,0.602,0.064,0.117,0.795,"REB, BLK, FG%, FT%, TO","PTS, STL, 3PM",-2.132,ACTIVE,9,FREEAGENT,
+Cameron Johnson,Rui Hachimura,0.474,0.096,0.074,0.762,"AST, FG%, FT%","PTS, REB",-2.410,ACTIVE,6,FREEAGENT,
+Derrick Jones Jr.,Rui Hachimura,0.511,0.080,0.081,0.750,"STL, BLK, FG%, FT%, TO","PTS, REB, 3PM",-2.239,ACTIVE,9,FREEAGENT,
+Day'Ron Sharpe,Rui Hachimura,0.314,0.088,0.098,0.577,"REB, AST, BLK, FG%","PTS, 3PM, TO",-2.853,ACTIVE,10,FREEAGENT,
+Kevin Huerter,Rui Hachimura,0.349,0.015,0.079,0.394,"AST, BLK, FT%, TO","PTS, REB, 3PM",-3.059,ACTIVE,10,FREEAGENT,
+Tre Jones,Rui Hachimura,0.509,-0.055,0.063,0.344,"AST, STL, FG%, FT%","PTS, REB, BLK, 3PM",-2.619,ACTIVE,9,FREEAGENT,
+Paul Reed,Rui Hachimura,0.192,0.010,0.021,0.220,"REB, AST, BLK, FG%","PTS, 3PM",-2.446,ACTIVE,10,FREEAGENT,
+Jerami Grant,Rui Hachimura,-0.249,0.149,-0.078,0.197,"AST, BLK, FT%","REB, STL, FG%, TO",-3.711,ACTIVE,10,FREEAGENT,
+Oso Ighodaro,Rui Hachimura,-0.366,0.140,-0.039,0.054,"REB, AST, BLK, FG%","PTS, STL, 3PM, FT%, TO",-5.175,ACTIVE,8,FREEAGENT,
+Jamal Shead,Rui Hachimura,-0.573,0.180,-0.108,-0.032,"AST, STL, FT%","PTS, REB, 3PM, FG%, TO",-4.382,ACTIVE,10,FREEAGENT,
+Precious Achiuwa,Rui Hachimura,0.017,-0.030,0.009,-0.071,"REB, STL, BLK, FG%, TO","PTS, 3PM, FT%",-3.044,DAY_TO_DAY,11,FREEAGENT,day-to-day: 75% for rest of this week
+Ryan Kalkbrenner,Rui Hachimura,-0.273,0.058,-0.092,-0.100,"REB, BLK, FG%, FT%","PTS, AST, STL, 3PM",-3.206,ACTIVE,11,FREEAGENT,
+Santi Aldama,Rui Hachimura,-0.658,0.173,-0.201,-0.139,"REB, AST, BLK, FG%","PTS, STL, 3PM, TO",-3.398,ACTIVE,3,FREEAGENT,small sample (3 GP)
+Egor Demin,Rui Hachimura,-0.044,-0.042,0.026,-0.171,"AST, 3PM, FT%","PTS, REB, FG%, TO",-3.272,ACTIVE,4,FREEAGENT,small sample (4 GP)
+Daniss Jenkins,Rui Hachimura,-0.229,0.018,-0.066,-0.176,"AST, FT%","PTS, REB, BLK, 3PM, FG%, TO",-3.853,ACTIVE,10,FREEAGENT,
+Max Strus,Rui Hachimura,-0.109,-0.026,-0.005,-0.188,"AST, FT%, TO","PTS, REB, STL, BLK, FG%",-3.749,ACTIVE,4,FREEAGENT,small sample (4 GP)
+Nikola Vucevic,Rui Hachimura,-0.379,0.053,-0.131,-0.221,"REB, AST, BLK, FG%, FT%, TO","PTS, STL, 3PM",-4.032,ACTIVE,10,FREEAGENT,
+Naji Marshall,Rui Hachimura,-0.665,0.130,-0.199,-0.275,"AST, STL, FG%","PTS, REB, BLK, 3PM, TO",-3.854,ACTIVE,8,FREEAGENT,
+Andrew Wiggins,Rui Hachimura,-0.154,-0.055,-0.081,-0.319,"AST, BLK, FT%","PTS, REB, STL, 3PM",-2.663,ACTIVE,11,FREEAGENT,
+Sandro Mamukelashvili,Rui Hachimura,0.105,-0.184,-0.029,-0.447,"AST, BLK, FG%, FT%, TO","PTS, REB, STL, 3PM",-2.493,ACTIVE,12,FREEAGENT,
+Pelle Larsson,Rui Hachimura,-0.216,-0.078,-0.094,-0.449,"AST, FG%, FT%","PTS, REB, BLK, 3PM, TO",-3.197,ACTIVE,11,FREEAGENT,
+Sam Hauser,Rui Hachimura,-0.302,-0.074,-0.095,-0.524,"3PM, FT%, TO","PTS, REB, STL",-4.143,ACTIVE,11,FREEAGENT,
+Alex Caruso,Rui Hachimura,-0.141,-0.133,-0.047,-0.541,"AST, STL, BLK, FT%, TO","PTS, REB, 3PM",-2.774,ACTIVE,8,FREEAGENT,
+Justin Champagnie,Rui Hachimura,-0.421,-0.050,-0.193,-0.569,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",-2.611,OUT,4,FREEAGENT,OUT: assumed back after week 5 (no date in data); small sample (4 GP)
+Keldon Johnson,Rui Hachimura,-0.002,-0.189,0.001,-0.569,"REB, AST, FG%, FT%","PTS, STL, BLK, 3PM",-4.898,ACTIVE,11,FREEAGENT,
+Dylan Cardwell,Rui Hachimura,-0.595,-0.009,-0.142,-0.623,"REB, BLK, FG%","PTS, STL, 3PM, FT%",-3.221,ACTIVE,4,FREEAGENT,small sample (4 GP)
+Jalen Williams,Rui Hachimura,-0.298,-0.113,-0.099,-0.636,"AST, FG%, FT%, TO","PTS, REB, STL, 3PM",0.123,OUT,3,FREEAGENT,OUT: assumed back after week 5 (no date in data); small sample (3 GP)
+Aday Mara,Rui Hachimura,-0.392,-0.083,-0.100,-0.642,"REB, BLK, FG%","PTS, STL, 3PM, FT%, TO",-4.171,ACTIVE,11,FREEAGENT,
+Meleek Thomas,Rui Hachimura,-0.027,-0.207,-0.092,-0.648,"STL, BLK, 3PM, FT%, TO","PTS, REB, AST",-1.398,ACTIVE,8,FREEAGENT,
+Karlo Matkovic,Rui Hachimura,-0.310,-0.143,-0.101,-0.740,"BLK, FG%, FT%, TO","PTS, REB, AST, STL, 3PM",-3.776,ACTIVE,10,FREEAGENT,
+Jaylen Wells,Rui Hachimura,-0.697,-0.014,-0.202,-0.740,"FT%, TO","PTS, REB, BLK",-3.901,ACTIVE,10,FREEAGENT,
+Draymond Green,Rui Hachimura,-0.656,-0.031,-0.113,-0.748,"AST, BLK, FT%","PTS, REB, 3PM, TO",-3.625,ACTIVE,9,FREEAGENT,
+Isaiah Jackson,Rui Hachimura,-0.493,-0.098,-0.145,-0.789,"REB, BLK, FG%","PTS, 3PM, FT%, TO",-3.687,ACTIVE,9,FREEAGENT,
+Jay Huff,Rui Hachimura,-0.530,-0.089,-0.219,-0.798,"BLK, FG%, FT%, TO","PTS, REB, STL, 3PM",-3.262,ACTIVE,9,FREEAGENT,
+Keaton Wagler,Rui Hachimura,-0.752,-0.053,-0.200,-0.912,"AST, FT%","PTS, REB, BLK, 3PM, FG%, TO",-4.567,ACTIVE,10,FREEAGENT,
+Bilal Coulibaly,Rui Hachimura,-0.331,-0.194,-0.157,-0.912,"AST, STL, BLK, FT%","PTS, REB, 3PM",-3.166,ACTIVE,10,FREEAGENT,
+Jake LaRavia,Rui Hachimura,-0.246,-0.224,-0.078,-0.917,"AST, STL, BLK, FG%","PTS, REB, 3PM, TO",-3.229,ACTIVE,11,FREEAGENT,
+Danny Wolf,Rui Hachimura,-0.474,-0.173,-0.081,-0.994,"REB, AST, BLK, FT%","PTS, STL, 3PM, TO",-4.511,ACTIVE,5,FREEAGENT,
+Royce O'Neale,Rui Hachimura,-0.738,-0.109,-0.163,-1.064,"AST, FT%, TO","PTS, REB, FG%",-4.248,ACTIVE,11,FREEAGENT,
+Leaky Black,Rui Hachimura,-0.455,-0.207,-0.124,-1.075,"STL, BLK, FT%, TO","PTS, REB, 3PM, FG%",-3.026,ACTIVE,7,FREEAGENT,
+Luke Kennard,Rui Hachimura,-0.834,-0.091,-0.247,-1.106,"AST, FG%, FT%, TO","PTS, REB, STL, BLK",-4.569,ACTIVE,9,FREEAGENT,
+Obi Toppin,Rui Hachimura,-0.578,-0.225,-0.218,-1.252,"FG%, FT%, TO","PTS, REB, STL, 3PM",-3.151,ACTIVE,8,FREEAGENT,
+Khaman Maluach,Rui Hachimura,-1.148,-0.063,-0.317,-1.336,"REB, BLK, FG%, FT%","PTS, AST, STL, 3PM",-4.323,ACTIVE,10,FREEAGENT,
+Walter Clayton Jr.,Rui Hachimura,-1.435,0.026,-0.388,-1.356,"AST, FT%","PTS, REB, STL, 3PM, TO",-4.677,ACTIVE,10,FREEAGENT,
+Mitchell Robinson,Rui Hachimura,-1.303,-0.091,-0.336,-1.576,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM, FT%",-3.130,ACTIVE,10,FREEAGENT,
+Jaxson Hayes,Rui Hachimura,-0.822,-0.253,-0.288,-1.581,"BLK, FG%, TO","PTS, REB, STL, 3PM",-3.317,ACTIVE,10,FREEAGENT,
+Ziaire Williams,Rui Hachimura,-0.618,-0.360,-0.214,-1.696,"STL, FT%, TO","PTS, REB, 3PM",-2.041,ACTIVE,9,FREEAGENT,
+Scotty Pippen Jr.,Rui Hachimura,-1.791,0.026,-0.449,-1.714,"AST, STL, FT%","PTS, REB, 3PM, TO",-3.240,OUT,5,FREEAGENT,OUT: assumed back after week 5 (no date in data)
+T.J. McConnell,Rui Hachimura,-1.029,-0.234,-0.308,-1.731,"AST, FG%, FT%","PTS, REB, 3PM, TO",-4.118,ACTIVE,2,FREEAGENT,small sample (2 GP)
+Robert Williams III,Rui Hachimura,-0.807,-0.308,-0.349,-1.732,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",-1.277,ACTIVE,8,FREEAGENT,

@@ -1,0 +1,12 @@
+strategy,moves,exp_cats_per_reg_week,exp_cats_per_playoff_week,matchup_win_pct,punted_cat_win_pct
+Current roster (no moves),,5.399,4.639,0.727,
+Balanced (best 2 waiver moves for all 9 cats),add Collin Gillespie / drop Rui Hachimura; add DeMar DeRozan / drop Jrue Holiday,5.490,4.873,0.752,
+Punt PTS (best 2 waiver moves ignoring PTS),add Kris Dunn / drop Rui Hachimura; add Collin Gillespie / drop Norman Powell,5.409,4.795,0.732,0.331
+Punt REB (best 2 waiver moves ignoring REB),add DeMar DeRozan / drop Rui Hachimura; add Collin Gillespie / drop Jrue Holiday,5.490,4.873,0.752,0.715
+Punt AST (best 2 waiver moves ignoring AST),add Isaiah Stewart / drop Davion Mitchell; add Brook Lopez / drop Rui Hachimura,5.352,4.711,0.713,0.373
+Punt STL (best 2 waiver moves ignoring STL),add Isaiah Stewart / drop Rui Hachimura; add DeMar DeRozan / drop Norman Powell,5.436,4.758,0.722,0.572
+Punt BLK (best 2 waiver moves ignoring BLK),add Collin Gillespie / drop Rui Hachimura; add DeMar DeRozan / drop Kyshawn George,5.446,4.778,0.739,0.446
+Punt 3PM (best 2 waiver moves ignoring 3PM),add DeMar DeRozan / drop Rui Hachimura; add Nic Claxton / drop Jrue Holiday,5.493,4.768,0.753,0.657
+Punt FG% (best 2 waiver moves ignoring FG%),add Collin Gillespie / drop Rui Hachimura; add DeMar DeRozan / drop Jrue Holiday,5.490,4.873,0.752,0.517
+Punt FT% (best 2 waiver moves ignoring FT%),add Nic Claxton / drop Rui Hachimura; add Collin Gillespie / drop Jrue Holiday,5.468,4.809,0.752,0.328
+Punt TO (best 2 waiver moves ignoring TO),add Collin Gillespie / drop Rui Hachimura; add DeMar DeRozan / drop Jrue Holiday,5.490,4.873,0.752,0.573
