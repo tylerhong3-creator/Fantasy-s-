@@ -1,0 +1,125 @@
+team,owner,player,status,mkt_rank,espn,sE,sH,regE,regH,poE,poH,cut,up,avg
+BBB,Bryan,Cooper Flagg,ACTIVE,6,4,15.647,13.316,7.370,5.996,2.759,2.440,Rui Hachimura,"PTS, REB, AST, STL, BLK, FG%, FT%",14.482
+BBB,Bryan,Cade Cunningham,ACTIVE,16,22,10.619,11.715,5.330,5.690,1.763,2.008,Rui Hachimura,"PTS, REB, AST, STL, FT%",11.167
+BBB,Bryan,Anthony Davis,ACTIVE,19,12,11.123,5.795,6.228,2.973,1.632,0.941,Rui Hachimura,"PTS, REB, BLK, FG%",8.459
+BBB,Bryan,Jamal Murray,ACTIVE,10,10,12.330,11.152,6.308,5.461,2.007,1.897,Rui Hachimura,"PTS, AST, STL, 3PM, FG%, FT%",11.741
+BBB,Bryan,Walker Kessler,ACTIVE,14,6,6.620,5.215,3.244,2.162,1.125,1.018,Rui Hachimura,"REB, BLK, FG%",5.918
+BBB,Bryan,Josh Giddey,ACTIVE,142,181,4.959,5.007,2.175,2.287,0.928,0.907,Jrue Holiday,"PTS, REB, AST, BLK",4.983
+BBB,Bryan,Franz Wagner,ACTIVE,49,74,6.132,7.247,2.952,3.326,1.060,1.307,Rui Hachimura,"PTS, REB, AST, STL, FT%",6.689
+BBB,Bryan,Dejounte Murray,ACTIVE,65,94,6.721,6.424,3.368,2.795,1.118,1.209,Rui Hachimura,"PTS, REB, AST, STL, FT%",6.572
+BBB,Bryan,Ayo Dosunmu,ACTIVE,44,19,5.758,4.656,3.034,2.024,0.908,0.877,Rui Hachimura,"PTS, AST, FG%, FT%",5.207
+BBB,Bryan,Rudy Gobert,ACTIVE,223,314,1.687,-0.195,0.032,-0.947,0.552,0.251,Rui Hachimura,"REB, BLK, FG%",0.746
+BBB,Bryan,Ajay Mitchell,OUT,51,41,4.755,5.384,2.222,2.167,0.845,1.073,Rui Hachimura,"PTS, STL, FG%, FT%",5.070
+BBB,Bryan,Kel'el Ware,ACTIVE,192,186,2.332,-0.194,0.821,-0.814,0.504,0.207,Rui Hachimura,REB,1.069
+BBB,Bryan,Keegan Murray,ACTIVE,225,297,3.413,0.785,1.857,-0.178,0.519,0.321,Rui Hachimura,BLK,2.099
+BBB,Bryan,Toumani Camara,ACTIVE,115,118,1.235,2.710,0.912,1.169,0.108,0.514,Rui Hachimura,"STL, 3PM",1.973
+CAL,Calvin,Nikola Jokic,ACTIVE,4,7,20.369,18.004,10.865,9.241,3.168,2.921,Rui Hachimura,"PTS, REB, AST, STL, FG%, FT%",19.186
+CAL,Calvin,Stephen Curry,ACTIVE,6,3,11.876,8.661,5.989,3.773,1.962,1.630,Rui Hachimura,"PTS, AST, 3PM, FT%",10.269
+CAL,Calvin,Derrick White,ACTIVE,60,53,7.997,8.475,3.861,3.924,1.379,1.517,Rui Hachimura,"PTS, AST, STL, BLK, 3PM, FT%",8.236
+CAL,Calvin,Julius Randle,ACTIVE,106,126,4.822,4.715,2.632,2.235,0.730,0.827,Rui Hachimura,"PTS, REB, AST, FT%",4.769
+CAL,Calvin,Damian Lillard,ACTIVE,64,65,4.263,3.866,2.199,1.697,0.688,0.723,Rui Hachimura,"PTS, AST, 3PM, FT%",4.065
+CAL,Calvin,Jalen Duren,OUT,124,290,8.385,6.124,3.744,2.113,1.547,1.337,Rui Hachimura,"PTS, REB, FG%",7.254
+CAL,Calvin,Kon Knueppel,OUT,239,425,7.360,6.873,3.440,2.769,1.307,1.368,Rui Hachimura,"PTS, REB, AST, 3PM, FT%",7.116
+CAL,Calvin,RJ Barrett,ACTIVE,163,190,2.829,3.326,0.977,0.895,0.617,0.810,Rui Hachimura,"PTS, REB, AST",3.077
+CAL,Calvin,Alex Sarr,ACTIVE,192,77,4.747,3.834,2.515,1.868,0.744,0.655,Rui Hachimura,"REB, BLK, FG%",4.291
+CAL,Calvin,Reed Sheppard,ACTIVE,164,201,2.807,3.428,1.793,1.692,0.338,0.579,Rui Hachimura,"STL, BLK, 3PM",3.117
+CAL,Calvin,Daniel Gafford,ACTIVE,100,40,4.129,1.006,1.177,-0.558,0.984,0.521,Rui Hachimura,"REB, BLK, FG%",2.568
+CAL,Calvin,Julian Champagnie,ACTIVE,107,58,4.900,2.830,2.994,1.197,0.636,0.544,Rui Hachimura,"REB, 3PM, FT%, TO",3.865
+CAL,Calvin,Grayson Allen,ACTIVE,73,46,2.542,2.520,1.049,0.689,0.498,0.610,Rui Hachimura,"PTS, 3PM, FT%",2.531
+LS,Sam,Jalen Brunson,ACTIVE,68,85,4.753,7.647,3.058,4.017,0.565,1.210,Rui Hachimura,"PTS, AST, 3PM, FT%",6.200
+LS,Sam,James Harden,ACTIVE,72,92,4.690,3.686,3.304,1.709,0.462,0.659,Rui Hachimura,"PTS, AST, 3PM, FT%",4.188
+LS,Sam,Deni Avdija,ACTIVE,84,128,3.342,4.654,2.400,2.262,0.314,0.797,Rui Hachimura,"PTS, REB, AST",3.998
+LS,Sam,Tyrese Haliburton,OUT,56,140,7.882,8.491,4.413,3.611,1.156,1.627,Rui Hachimura,"PTS, AST, 3PM, FG%, FT%",8.186
+LS,Sam,Kyrie Irving,ACTIVE,27,31,6.757,5.770,3.288,1.875,1.156,1.298,Rui Hachimura,"PTS, AST, FG%, FT%",6.263
+LS,Sam,Ty Jerome,ACTIVE,28,33,9.461,8.460,4.990,3.430,1.490,1.677,Rui Hachimura,"PTS, AST, STL, 3PM, FG%, FT%",8.961
+LS,Sam,Zach LaVine,ACTIVE,43,36,1.406,1.762,1.287,0.397,0.039,0.455,Rui Hachimura,"PTS, 3PM, FG%",1.584
+LS,Sam,Ausar Thompson,ACTIVE,118,153,2.490,4.333,1.523,2.012,0.322,0.774,Rui Hachimura,"REB, STL, BLK, FG%",3.411
+LS,Sam,CJ McCollum,ACTIVE,142,98,1.585,1.466,0.627,-0.210,0.320,0.559,Rui Hachimura,"PTS, BLK",1.526
+LS,Sam,Ivica Zubac,ACTIVE,177,279,1.203,2.417,0.524,0.594,0.227,0.608,Rui Hachimura,"REB, FG%",1.810
+LS,Sam,Wendell Carter Jr.,ACTIVE,58,42,3.251,5.232,1.699,2.136,0.517,1.032,Rui Hachimura,"REB, FG%",4.241
+LS,Sam,Duncan Robinson,ACTIVE,69,35,3.825,4.023,2.642,1.896,0.394,0.709,Rui Hachimura,"PTS, 3PM, FT%",3.924
+LS,Sam,Collin Murray-Boyles,ACTIVE,135,120,0.724,2.062,0.287,0.267,0.146,0.598,Rui Hachimura,"BLK, FG%",1.393
+LS,Sam,Tristan da Silva,DAY_TO_DAY,172,163,0.836,1.237,0.663,0.203,0.057,0.345,Rui Hachimura,"3PM, FT%",1.037
+76Er,Andy,Donovan Mitchell,ACTIVE,23,24,7.568,7.275,5.237,4.686,0.777,0.863,Rui Hachimura,"PTS, AST, STL, 3PM, FT%",7.422
+76Er,Andy,Michael Porter Jr.,ACTIVE,52,59,5.963,4.652,3.940,2.861,0.674,0.597,Rui Hachimura,"PTS, REB, 3PM, FT%",5.307
+76Er,Andy,Zion Williamson,ACTIVE,35,17,5.805,4.302,3.918,2.476,0.629,0.609,Rui Hachimura,"PTS, REB, AST, FG%",5.054
+76Er,Andy,Desmond Bane,ACTIVE,105,150,5.395,4.678,3.296,2.541,0.700,0.712,Rui Hachimura,"PTS, AST, 3PM, FT%",5.036
+76Er,Andy,VJ Edgecombe,ACTIVE,71,49,6.423,5.328,4.084,3.168,0.780,0.720,Rui Hachimura,"PTS, REB, AST, STL",5.876
+76Er,Andy,Immanuel Quickley,ACTIVE,87,105,4.549,5.508,2.282,2.676,0.756,0.944,Rui Hachimura,"PTS, AST, 3PM, FT%",5.029
+76Er,Andy,Andrew Nembhard,ACTIVE,85,88,2.072,1.570,1.283,1.085,0.263,0.161,Rui Hachimura,"PTS, AST",1.821
+76Er,Andy,Anthony Black,ACTIVE,69,90,3.484,2.454,1.984,1.106,0.500,0.449,Rui Hachimura,"PTS, AST, STL",2.969
+76Er,Andy,Jaime Jaquez Jr.,ACTIVE,128,127,1.530,2.112,1.213,1.271,0.106,0.280,Rui Hachimura,"PTS, REB, AST, FG%",1.821
+76Er,Andy,Isaiah Hartenstein,ACTIVE,115,89,1.696,-0.387,1.176,-0.251,0.173,-0.045,Rui Hachimura,"REB, BLK, FG%",0.655
+76Er,Andy,Moussa Diabate,DAY_TO_DAY,80,70,2.668,2.175,1.450,0.938,0.406,0.412,Rui Hachimura,"REB, BLK, FG%",2.422
+76Er,Andy,Jared McCain,ACTIVE,167,134,-1.384,-0.589,-0.451,-0.217,-0.311,-0.124,Rui Hachimura,,-0.987
+76Er,Andy,Klay Thompson,ACTIVE,154,80,-1.473,-2.474,-0.642,-1.613,-0.277,-0.287,Rui Hachimura,3PM,-1.973
+76Er,Andy,Ja'Kobe Walter,ACTIVE,150,164,-0.631,1.427,-0.561,0.284,-0.023,0.381,Rui Hachimura,"STL, TO",0.398
+NYX2,John,Victor Wembanyama,ACTIVE,1,1,18.305,14.975,10.972,8.658,2.445,2.106,Rui Hachimura,"PTS, REB, BLK, FG%, FT%",16.640
+NYX2,John,Devin Booker,ACTIVE,23,21,10.298,8.418,5.635,4.145,1.555,1.424,Rui Hachimura,"PTS, AST, FT%",9.358
+NYX2,John,Trae Young,ACTIVE,46,63,3.590,7.339,1.941,3.984,0.550,1.118,Rui Hachimura,"PTS, AST, FT%",5.465
+NYX2,John,De'Aaron Fox,ACTIVE,52,39,4.454,3.852,2.899,2.129,0.518,0.574,Rui Hachimura,"PTS, AST, STL, FG%",4.153
+NYX2,John,Paolo Banchero,OUT,135,294,1.204,0.547,0.187,-0.507,0.339,0.351,Rui Hachimura,"PTS, REB, FG%",0.876
+NYX2,John,Dylan Harper,ACTIVE,58,43,3.126,3.879,2.133,2.195,0.331,0.561,Rui Hachimura,"PTS, AST, FG%, FT%",3.503
+NYX2,John,AJ Dybantsa,ACTIVE,193,211,2.297,-0.589,1.550,-0.333,0.249,-0.085,Rui Hachimura,PTS,0.854
+NYX2,John,Josh Hart,ACTIVE,120,166,2.131,1.249,1.510,0.561,0.207,0.229,Rui Hachimura,"REB, AST, STL, FG%",1.690
+NYX2,John,Darryn Peterson,ACTIVE,90,51,1.986,0.017,1.204,-0.288,0.261,0.102,Rui Hachimura,"PTS, FT%",1.002
+NYX2,John,Jonathan Kuminga,ACTIVE,165,141,-0.686,-1.086,-0.279,-0.822,-0.136,-0.088,Rui Hachimura,,-0.886
+NYX2,John,Ace Bailey,ACTIVE,94,68,1.588,0.678,1.116,0.200,0.157,0.159,Rui Hachimura,,1.133
+NYX2,John,Jakob Poeltl,ACTIVE,148,144,1.590,-0.017,0.363,-0.671,0.409,0.218,Rui Hachimura,"REB, FG%",0.786
+NYX2,John,Matisse Thybulle,ACTIVE,139,52,-2.906,-4.279,-1.333,-2.427,-0.524,-0.617,Rui Hachimura,"STL, TO",-3.593
+NYK,Juno,Tyrese Maxey,ACTIVE,7,5,15.308,14.649,8.598,8.029,2.237,2.207,Rui Hachimura,"PTS, AST, STL, 3PM, FT%",14.978
+NYK,Juno,Alperen Sengun,ACTIVE,25,29,9.630,8.249,5.362,4.411,1.423,1.279,Rui Hachimura,"PTS, REB, AST, STL, BLK, FG%",8.939
+NYK,Juno,Jalen Johnson,ACTIVE,40,61,10.774,8.898,4.955,3.601,1.940,1.766,Rui Hachimura,"PTS, REB, AST, STL",9.836
+NYK,Juno,LeBron James,DAY_TO_DAY,89,99,6.640,5.613,3.519,2.793,1.040,0.940,Rui Hachimura,"PTS, REB, AST, STL",6.126
+NYK,Juno,Pascal Siakam,ACTIVE,59,73,6.854,7.616,3.457,3.572,1.132,1.348,Rui Hachimura,"PTS, REB, AST, STL, FG%",7.235
+NYK,Juno,Amen Thompson,ACTIVE,72,60,7.845,6.363,4.766,3.548,1.026,0.938,Rui Hachimura,"PTS, REB, AST, STL, BLK, FG%",7.104
+NYK,Juno,Cameron Boozer,ACTIVE,59,75,6.823,6.227,2.702,2.108,1.374,1.373,Rui Hachimura,"PTS, REB, AST",6.525
+NYK,Juno,Mikal Bridges,ACTIVE,233,199,3.134,-0.351,2.113,-0.296,0.340,-0.018,Rui Hachimura,BLK,1.391
+NYK,Juno,Fred VanVleet,ACTIVE,93,103,3.739,3.676,2.468,2.329,0.424,0.449,Rui Hachimura,"AST, STL, BLK, 3PM",3.708
+NYK,Juno,Derik Queen,ACTIVE,91,82,5.372,4.956,2.710,2.188,0.888,0.923,Rui Hachimura,"PTS, REB, AST, STL, BLK",5.164
+NYK,Juno,Myles Turner,OUT,105,95,1.760,0.667,0.090,-0.790,0.557,0.486,Rui Hachimura,BLK,1.213
+NYK,Juno,Aaron Gordon,ACTIVE,163,187,2.006,2.491,1.009,0.918,0.332,0.524,Rui Hachimura,"REB, FT%",2.248
+NYK,Juno,Dillon Brooks,ACTIVE,165,159,2.028,1.866,0.789,0.278,0.413,0.529,Rui Hachimura,"PTS, FT%",1.947
+NYK,Juno,Saddiq Bey,ACTIVE,95,54,4.655,4.686,2.621,2.213,0.678,0.824,Rui Hachimura,"PTS, FT%",4.671
+SS,Simon,Shai Gilgeous-Alexander,ACTIVE,10,8,15.796,16.957,9.501,10.149,2.098,2.269,Rui Hachimura,"PTS, AST, STL, BLK, FG%, FT%",16.376
+SS,Simon,Jaylen Brown,ACTIVE,56,48,6.917,5.324,4.196,2.997,0.907,0.776,Rui Hachimura,"PTS, REB, AST, STL",6.120
+SS,Simon,Bam Adebayo,ACTIVE,28,15,8.066,5.889,4.851,3.166,1.072,0.908,Rui Hachimura,"PTS, REB, STL, BLK",6.977
+SS,Simon,Domantas Sabonis,ACTIVE,37,45,6.320,5.104,3.567,2.504,0.918,0.867,Rui Hachimura,"PTS, REB, AST, FG%",5.712
+SS,Simon,Stephon Castle,ACTIVE,134,121,2.115,1.281,1.329,0.473,0.262,0.269,Rui Hachimura,"PTS, REB, AST",1.698
+SS,Simon,Tyler Herro,DAY_TO_DAY,53,64,4.392,4.813,2.660,2.591,0.577,0.740,Rui Hachimura,"PTS, AST, 3PM, FT%",4.602
+SS,Simon,Jaden McDaniels,ACTIVE,44,30,5.725,4.615,3.922,2.776,0.601,0.613,Rui Hachimura,"PTS, REB, BLK, FG%, FT%",5.170
+SS,Simon,Jarrett Allen,ACTIVE,71,71,4.436,2.595,3.322,1.701,0.371,0.298,Rui Hachimura,"REB, FG%",3.515
+SS,Simon,Jalen Green,ACTIVE,254,262,0.045,-0.143,-0.155,-0.574,0.067,0.144,Rui Hachimura,PTS,-0.049
+SS,Simon,Cedric Coward,ACTIVE,79,78,4.601,3.227,2.293,1.048,0.769,0.726,Rui Hachimura,"REB, FT%",3.914
+SS,Simon,Peyton Watson,ACTIVE,146,161,0.911,0.374,1.030,0.349,-0.040,0.008,Rui Hachimura,BLK,0.642
+SS,Simon,Aaron Wiggins,ACTIVE,110,57,0.409,0.049,0.193,-0.422,0.072,0.157,Rui Hachimura,,0.229
+SS,Simon,Kyle Kuzma,ACTIVE,176,123,-0.640,-2.140,-0.157,-1.376,-0.161,-0.255,Rui Hachimura,FG%,-1.390
+SS,Simon,De'Anthony Melton,ACTIVE,130,91,-1.623,-3.010,-1.086,-2.248,-0.179,-0.254,Rui Hachimura,FT%,-2.316
+BCn,Andrew,Jayson Tatum,ACTIVE,11,13,14.620,12.464,7.917,7.325,2.234,1.713,Rui Hachimura,"PTS, REB, AST, STL, 3PM, FT%",13.542
+BCn,Andrew,LaMelo Ball,ACTIVE,43,50,7.058,6.021,4.060,3.897,0.999,0.708,Rui Hachimura,"PTS, AST, STL, 3PM, FT%",6.539
+BCn,Andrew,Darius Garland,ACTIVE,94,145,3.914,4.034,1.961,2.130,0.651,0.635,Rui Hachimura,"PTS, AST, 3PM, FT%",3.974
+BCn,Andrew,Naz Reid,ACTIVE,111,138,6.946,7.369,3.473,4.423,1.158,0.982,Rui Hachimura,"PTS, REB, BLK, 3PM",7.157
+BCn,Andrew,Darius Acuff Jr.,ACTIVE,79,44,4.889,4.375,2.435,3.056,0.818,0.440,Jrue Holiday,"PTS, AST",4.632
+BCn,Andrew,Keyonte George,DAY_TO_DAY,86,104,5.484,3.527,3.109,2.270,0.792,0.419,Rui Hachimura,"PTS, AST, FT%",4.506
+BCn,Andrew,Brandon Miller,DAY_TO_DAY,87,116,6.643,3.748,3.490,2.279,1.051,0.490,Rui Hachimura,"PTS, REB, 3PM, FT%",5.196
+BCn,Andrew,Lauri Markkanen,OUT,99,112,6.812,1.408,3.631,0.779,1.060,0.210,Rui Hachimura,"PTS, REB, 3PM, FT%",4.110
+BCn,Andrew,Onyeka Okongwu,ACTIVE,54,26,7.998,5.188,3.828,2.607,1.390,0.860,Rui Hachimura,"PTS, REB, BLK, FG%",6.593
+BCn,Andrew,Miles Bridges,ACTIVE,57,32,11.048,6.419,6.063,3.769,1.662,0.883,Rui Hachimura,"PTS, REB, AST, 3PM, FT%",8.734
+BCn,Andrew,John Collins,ACTIVE,127,111,4.946,1.609,2.838,1.100,0.703,0.170,Rui Hachimura,"PTS, REB, BLK, FG%",3.278
+BCn,Andrew,P.J. Washington,ACTIVE,117,96,2.715,1.173,0.700,0.265,0.672,0.303,Rui Hachimura,"REB, BLK",1.944
+BCn,Andrew,Neemias Queta,ACTIVE,134,147,3.457,3.454,1.435,1.710,0.674,0.581,Rui Hachimura,"REB, BLK, FG%",3.455
+BCn,Andrew,Tari Eason,ACTIVE,105,55,1.286,-0.444,1.145,0.112,0.047,-0.185,Rui Hachimura,"REB, STL, BLK",0.421
+TT,Eric,Giannis Antetokounmpo,ACTIVE,13,23,9.500,10.646,4.586,5.012,1.638,1.878,Rui Hachimura,"PTS, REB, AST, BLK, FG%",10.073
+TT,Eric,Kevin Durant,ACTIVE,21,18,10.760,8.961,6.309,4.810,1.484,1.384,Rui Hachimura,"PTS, REB, AST, BLK, FG%, FT%",9.861
+TT,Eric,Austin Reaves,ACTIVE,14,11,8.005,7.969,4.396,3.930,1.203,1.346,Rui Hachimura,"PTS, AST, FG%, FT%",7.987
+TT,Eric,Joel Embiid,DAY_TO_DAY,72,102,6.372,3.628,3.460,1.518,0.971,0.703,Rui Hachimura,"PTS, REB, BLK, FT%",5.000
+TT,Eric,Paul George,OUT,17,14,4.874,3.985,1.957,0.988,0.972,0.999,Rui Hachimura,"PTS, STL, 3PM",4.429
+TT,Eric,Yaxel Lendeborg,ACTIVE,33,25,6.976,7.455,3.417,3.176,1.186,1.426,Rui Hachimura,"PTS, REB, STL, BLK, FG%",7.215
+TT,Eric,Nickeil Alexander-Walker,ACTIVE,33,20,8.757,8.811,3.997,3.666,1.587,1.715,Rui Hachimura,"PTS, STL, BLK, 3PM, FT%",8.784
+TT,Eric,Caleb Wilson,DAY_TO_DAY,97,113,6.589,4.905,3.536,2.288,1.018,0.872,Rui Hachimura,"PTS, REB, STL, BLK",5.747
+TT,Eric,Trey Murphy III,OUT,72,84,7.997,6.029,4.045,2.561,1.317,1.156,Rui Hachimura,"PTS, 3PM, FT%",7.013
+TT,Eric,Matas Buzelis,ACTIVE,144,174,4.404,5.088,2.377,2.417,0.675,0.890,Rui Hachimura,"PTS, REB, BLK, FT%",4.746
+TT,Eric,Jeremiah Fears,ACTIVE,128,106,3.912,3.374,1.869,1.299,0.681,0.691,Rui Hachimura,"PTS, AST, STL",3.643
+TT,Eric,Coby White,ACTIVE,258,451,0.951,5.601,0.064,2.222,0.296,1.126,Rui Hachimura,"PTS, AST, FT%",3.276
+TT,Eric,Ryan Rollins,ACTIVE,157,172,2.131,2.512,0.905,0.809,0.408,0.568,Rui Hachimura,AST,2.321
+TT,Eric,Zach Edey,ACTIVE,119,119,4.097,2.292,1.244,-0.050,0.951,0.781,Rui Hachimura,"REB, BLK, FG%, FT%",3.194
