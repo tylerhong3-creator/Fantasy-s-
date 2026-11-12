@@ -1,0 +1,245 @@
+partner,give,get,mkt_ratio,sE,sH,poE,poH,thE,thH,note,robust
+BBB,Jabari Smith Jr. + Jrue Holiday,Cooper Flagg,1.117,9.052,10.308,2.038,2.153,-0.039,-0.069,I add Collin Gillespie; they drop Rudy Gobert,9.052
+BBB,Jrue Holiday + Dyson Daniels,Cooper Flagg,0.975,8.387,10.178,1.758,1.821,-0.044,-0.108,I add Collin Gillespie; they drop Rudy Gobert,8.387
+NYX2,Davion Mitchell + Jrue Holiday,Devin Booker,1.029,8.262,7.131,1.446,1.139,-0.045,0.024,I add Collin Gillespie; they drop Jonathan Kuminga,7.131
+BBB,Jabari Smith Jr. + Davion Mitchell,Cooper Flagg,1.321,8.536,7.065,1.905,1.560,-0.065,-0.020,I add Collin Gillespie; they drop Rudy Gobert,7.065
+BBB,Jabari Smith Jr. + Payton Pritchard,Cooper Flagg,1.021,6.999,6.898,1.595,1.616,-0.013,0.033,I add Collin Gillespie; they drop Rudy Gobert,6.898
+BBB,Davion Mitchell + OG Anunoby,Cade Cunningham,0.928,7.953,6.888,1.476,1.213,-0.080,-0.035,I add Collin Gillespie; they drop Rudy Gobert,6.888
+BBB,Jabari Smith Jr. + OG Anunoby,Cooper Flagg,1.036,6.849,7.427,1.767,1.907,-0.002,0.052,I add Collin Gillespie; they drop Rudy Gobert,6.849
+BBB,OG Anunoby + Dyson Daniels,Cooper Flagg,0.894,6.601,7.065,1.573,1.471,0.018,0.031,I add Collin Gillespie; they drop Rudy Gobert,6.601
+BBB,Jrue Holiday + Brandin Podziemski,Cade Cunningham,0.959,6.567,9.133,0.956,1.218,0.021,-0.067,I add Collin Gillespie; they drop Rudy Gobert,6.567
+BBB,Dyson Daniels + Payton Pritchard,Cooper Flagg,0.880,6.185,6.834,1.211,1.299,-0.034,-0.029,I add Collin Gillespie; they drop Rudy Gobert,6.185
+NYX2,Jrue Holiday + Brandin Podziemski,Devin Booker,0.936,6.153,7.196,1.000,1.054,0.015,0.053,I add Collin Gillespie; they drop Jonathan Kuminga,6.153
+BBB,Davion Mitchell + Payton Pritchard,Cade Cunningham,0.905,7.585,6.106,1.258,0.950,-0.072,-0.039,I add Collin Gillespie; they drop Rudy Gobert,6.106
+NYK,Jrue Holiday + Rui Hachimura,Cameron Boozer,1.348,6.309,6.087,1.424,1.286,-0.047,-0.005,I add Collin Gillespie; they drop Dillon Brooks,6.087
+BBB,Kyshawn George + Brandin Podziemski,Cade Cunningham,1.262,5.992,10.531,0.999,1.594,-0.034,-0.178,I add Collin Gillespie; they drop Rudy Gobert,5.992
+BBB,Jrue Holiday + Rui Hachimura,Franz Wagner,1.382,5.944,6.211,1.261,1.104,0.025,0.009,I add Collin Gillespie; they drop Rudy Gobert,5.944
+SS,Kyshawn George + Rui Hachimura,Jaylen Brown,1.301,5.551,5.882,0.895,1.003,-0.139,-0.012,I add Collin Gillespie; they drop Jalen Green,5.551
+BBB,Davion Mitchell + Brandin Podziemski,Cade Cunningham,1.279,5.541,5.956,0.670,0.593,-0.001,-0.008,I add Collin Gillespie; they drop Rudy Gobert,5.541
+SS,Jrue Holiday + Rui Hachimura,Tyler Herro,1.077,5.522,5.403,1.047,0.863,-0.020,0.052,I add Collin Gillespie; they drop Jalen Green,5.403
+76Er,Davion Mitchell + Jrue Holiday,Donovan Mitchell,1.109,5.250,5.575,0.629,0.582,-0.006,-0.052,I add Collin Gillespie; they drop Jared McCain,5.250
+NYK,Brandin Podziemski + Rui Hachimura,Jalen Johnson,0.918,6.961,5.151,1.229,0.855,-0.147,-0.024,I add Collin Gillespie; they drop Dillon Brooks,5.151
+NYK,Jrue Holiday + Brandin Podziemski,Jalen Johnson,1.468,5.135,5.807,0.975,0.891,-0.008,-0.017,I add Collin Gillespie; they drop Dillon Brooks,5.135
+NYX2,Davion Mitchell + Rui Hachimura,Trae Young,1.940,5.068,5.523,0.830,0.727,-0.060,-0.050,I add Collin Gillespie; they drop Jonathan Kuminga,5.068
+BBB,Jabari Smith Jr. + Brandin Podziemski,Cooper Flagg,1.260,5.043,6.221,1.195,1.270,0.079,0.080,I add Collin Gillespie; they drop Rudy Gobert,5.043
+NYX2,Jrue Holiday + Rui Hachimura,Trae Young,1.050,5.022,7.332,0.990,1.160,-0.041,-0.092,I add Collin Gillespie; they drop Jonathan Kuminga,5.022
+BBB,Dyson Daniels + Rui Hachimura,Cade Cunningham,1.171,5.013,6.411,0.845,0.942,-0.044,-0.080,I add Collin Gillespie; they drop Rudy Gobert,5.013
+NYX2,Davion Mitchell + OG Anunoby,Devin Booker,0.905,7.053,4.967,1.412,1.099,-0.053,0.118,I add Collin Gillespie; they drop Jonathan Kuminga,4.967
+NYX2,Dyson Daniels + Rui Hachimura,Devin Booker,1.142,4.724,5.539,0.761,0.912,0.022,0.072,I add Collin Gillespie; they drop Jonathan Kuminga,4.724
+NYX2,Davion Mitchell + Payton Pritchard,Devin Booker,0.883,6.591,4.632,1.206,0.907,-0.017,0.123,I add Collin Gillespie; they drop Jonathan Kuminga,4.632
+NYX2,Kyshawn George + Payton Pritchard,Devin Booker,0.866,4.603,7.828,0.848,1.413,-0.077,-0.042,I add Collin Gillespie; they drop Jonathan Kuminga,4.603
+76Er,Jrue Holiday + Rui Hachimura,Immanuel Quickley,0.860,4.522,4.902,1.024,1.016,-0.016,0.003,I add Collin Gillespie; they drop Jared McCain,4.522
+BBB,Jabari Smith Jr. + Davion Mitchell,Cade Cunningham,2.071,4.518,6.106,0.892,1.006,0.052,-0.004,I add Collin Gillespie; they drop Rudy Gobert,4.518
+BBB,Dyson Daniels + Brandin Podziemski,Cooper Flagg,1.118,4.332,6.109,0.942,1.026,0.041,0.005,I add Collin Gillespie; they drop Rudy Gobert,4.332
+LS,Kyshawn George + Jrue Holiday,Kyrie Irving,1.038,4.299,7.952,1.054,1.731,-0.046,-0.092,I add Collin Gillespie; they drop Tristan da Silva,4.299
+NYX2,Davion Mitchell + Brandin Podziemski,Devin Booker,1.247,5.091,4.184,0.875,0.566,0.020,0.112,I add Collin Gillespie; they drop Jonathan Kuminga,4.184
+BBB,Jabari Smith Jr. + Jrue Holiday,Cade Cunningham,1.752,4.182,8.176,1.050,1.511,0.056,-0.090,I add Collin Gillespie; they drop Rudy Gobert,4.182
+NYK,Kyshawn George + Brandin Podziemski,Jalen Johnson,1.930,4.039,7.325,0.905,1.272,-0.047,-0.100,I add Collin Gillespie; they drop Dillon Brooks,4.039
+NYX2,Jabari Smith Jr. + Jrue Holiday,Devin Booker,1.709,4.035,6.989,0.992,1.384,0.043,0.022,I add Collin Gillespie; they drop Jonathan Kuminga,4.035
+NYX2,Jabari Smith Jr. + Davion Mitchell,Devin Booker,2.020,4.002,4.398,0.938,0.900,0.052,0.091,I add Collin Gillespie; they drop Jonathan Kuminga,4.002
+TT,Jabari Smith Jr. + Jrue Holiday,Kevin Durant,1.585,3.994,6.273,0.859,0.996,-0.016,-0.065,I add Collin Gillespie; they drop Coby White,3.994
+TT,Jrue Holiday + Brandin Podziemski,Kevin Durant,0.868,3.975,4.818,0.634,0.590,-0.046,-0.052,I add Collin Gillespie; they drop Coby White,3.975
+CAL,Jabari Smith Jr. + Davion Mitchell,Stephen Curry,1.288,4.732,3.959,1.116,1.035,-0.104,-0.016,I add Collin Gillespie; they drop RJ Barrett,3.959
+BBB,Jrue Holiday + Dyson Daniels,Jamal Murray,1.051,3.959,7.254,0.721,0.989,-0.049,-0.115,I add Collin Gillespie; they drop Rudy Gobert,3.959
+BCn,Kyshawn George + Jrue Holiday,LaMelo Ball,2.091,3.931,7.608,0.857,1.159,0.003,-0.108,I add Collin Gillespie; they drop P.J. Washington,3.931
+NYX2,Kyshawn George + Brandin Podziemski,Devin Booker,1.231,3.928,8.185,0.668,1.395,-0.022,-0.032,I add Collin Gillespie; they drop Jonathan Kuminga,3.928
+SS,Kyshawn George + Jrue Holiday,Jaylen Brown,1.989,3.901,7.696,0.844,1.383,0.026,-0.019,I add Collin Gillespie; they drop Jalen Green,3.901
+NYX2,Jrue Holiday + Dyson Daniels,Devin Booker,1.492,3.853,7.018,0.903,1.102,0.150,0.076,I add Collin Gillespie; they drop Jonathan Kuminga,3.853
+NYK,Jrue Holiday,Cameron Boozer,1.317,3.844,4.739,1.032,1.100,-0.025,-0.086,,3.844
+SS,Jrue Holiday + OG Anunoby,Jaylen Brown,1.165,3.922,3.790,0.987,0.889,0.051,0.169,I add Collin Gillespie; they drop Jalen Green,3.790
+BCn,Davion Mitchell + Jrue Holiday,LaMelo Ball,2.125,3.794,3.781,0.519,0.396,0.007,0.030,I add Collin Gillespie; they drop P.J. Washington,3.781
+NYK,Davion Mitchell + OG Anunoby,Jalen Johnson,1.419,7.275,3.766,1.592,0.862,-0.123,0.006,I add Collin Gillespie; they drop Dillon Brooks,3.766
+BBB,Jrue Holiday + Dyson Daniels,Cade Cunningham,1.530,3.759,8.318,0.663,1.192,0.077,-0.093,I add Collin Gillespie; they drop Rudy Gobert,3.759
+BBB,Jabari Smith Jr. + Payton Pritchard,Jamal Murray,1.101,3.689,4.114,0.911,0.777,-0.048,-0.014,I add Collin Gillespie; they drop Rudy Gobert,3.689
+NYX2,Jabari Smith Jr. + Rui Hachimura,Devin Booker,1.359,3.560,4.426,0.771,1.079,-0.088,0.024,I add Collin Gillespie; they drop Jonathan Kuminga,3.560
+LS,Davion Mitchell + Jrue Holiday,Kyrie Irving,1.055,4.610,3.520,0.944,0.749,-0.072,-0.020,I add Collin Gillespie; they drop Tristan da Silva,3.520
+NYX2,Kyshawn George + OG Anunoby,Devin Booker,0.888,3.487,7.373,0.826,1.587,-0.100,-0.038,I add Collin Gillespie; they drop Jonathan Kuminga,3.487
+NYK,Jrue Holiday + OG Anunoby,Amen Thompson,1.573,4.121,3.484,0.914,0.604,-0.028,0.015,I add Collin Gillespie; they drop Dillon Brooks,3.484
+BBB,Kyshawn George + Davion Mitchell,Anthony Davis,1.006,6.719,3.473,1.111,0.623,-0.182,-0.039,I add Collin Gillespie; they drop Rudy Gobert,3.473
+BBB,Kyshawn George + Jrue Holiday,Dejounte Murray,2.144,3.439,7.343,0.950,1.373,0.043,-0.084,I add Collin Gillespie; they drop Rudy Gobert,3.439
+LS,Davion Mitchell + OG Anunoby,Ty Jerome,0.883,6.264,3.422,1.307,0.927,-0.120,0.037,I add Collin Gillespie; they drop Tristan da Silva,3.422
+TT,Jabari Smith Jr. + Davion Mitchell,Kevin Durant,1.874,3.461,3.414,0.610,0.452,-0.054,-0.029,I add Collin Gillespie; they drop Coby White,3.414
+BBB,Davion Mitchell + Jrue Holiday,Dejounte Murray,2.179,3.738,3.391,0.763,0.596,0.043,0.053,I add Collin Gillespie; they drop Rudy Gobert,3.391
+NYX2,Kyshawn George + Rui Hachimura,De'Aaron Fox,1.039,3.365,3.898,0.539,0.603,-0.066,-0.031,I add Collin Gillespie; they drop Jonathan Kuminga,3.365
+LS,Jabari Smith Jr. + Jrue Holiday,Ty Jerome,1.666,3.310,5.207,0.913,1.305,-0.019,-0.023,I add Collin Gillespie; they drop Tristan da Silva,3.310
+LS,Jabari Smith Jr. + Rui Hachimura,Ty Jerome,1.325,3.939,3.199,1.047,1.028,-0.166,-0.043,I add Collin Gillespie; they drop Tristan da Silva,3.199
+76Er,Davion Mitchell + OG Anunoby,Donovan Mitchell,0.975,4.308,3.183,0.610,0.347,-0.005,0.046,I add Collin Gillespie; they drop Jared McCain,3.183
+BCn,Jrue Holiday + OG Anunoby,LaMelo Ball,1.225,3.173,3.734,0.748,0.681,-0.009,0.024,I add Collin Gillespie; they drop P.J. Washington,3.173
+CAL,Jrue Holiday + Rui Hachimura,Damian Lillard,1.104,5.070,3.161,0.871,0.613,-0.118,-0.008,I add Collin Gillespie; they drop RJ Barrett,3.161
+NYK,Davion Mitchell + Rui Hachimura,Amen Thompson,1.800,6.698,3.146,0.966,0.317,-0.229,-0.046,I add Collin Gillespie; they drop Dillon Brooks,3.146
+BBB,Jabari Smith Jr. + Dyson Daniels,Cooper Flagg,1.623,3.133,6.243,1.160,1.426,0.118,0.038,I add Collin Gillespie; they drop Rudy Gobert,3.133
+76Er,Jrue Holiday + Brandin Podziemski,Donovan Mitchell,1.009,3.064,5.210,0.196,0.325,0.080,0.020,I add Collin Gillespie; they drop Jared McCain,3.064
+LS,Davion Mitchell + Payton Pritchard,Ty Jerome,0.861,5.980,3.045,1.113,0.772,-0.134,-0.003,I add Collin Gillespie; they drop Tristan da Silva,3.045
+SS,Davion Mitchell + Rui Hachimura,Jaylen Brown,1.334,7.102,3.009,1.051,0.496,-0.141,0.099,I add Collin Gillespie; they drop Jalen Green,3.009
+SS,Davion Mitchell + Rui Hachimura,Tyler Herro,1.989,4.754,2.940,0.738,0.360,-0.039,0.089,I add Collin Gillespie; they drop Jalen Green,2.940
+BCn,Davion Mitchell + Rui Hachimura,LaMelo Ball,1.402,6.687,2.919,0.992,0.328,-0.189,-0.038,I add Collin Gillespie; they drop P.J. Washington,2.919
+NYX2,Kyshawn George + Jrue Holiday,De'Aaron Fox,1.588,2.884,6.037,0.668,0.997,0.076,-0.011,I add Collin Gillespie; they drop Jonathan Kuminga,2.884
+BCn,Jrue Holiday + Payton Pritchard,LaMelo Ball,1.179,2.884,3.565,0.569,0.517,0.013,0.016,I add Collin Gillespie; they drop P.J. Washington,2.884
+BBB,Jabari Smith Jr. + Kyshawn George,Cade Cunningham,2.054,2.883,8.527,0.952,1.654,-0.006,-0.205,I add Collin Gillespie; they drop Rudy Gobert,2.883
+SS,Kyshawn George + Rui Hachimura,Tyler Herro,1.941,2.883,5.100,0.760,0.859,-0.036,-0.011,I add Collin Gillespie; they drop Jalen Green,2.883
+NYK,OG Anunoby + Brandin Podziemski,Jalen Johnson,1.273,3.580,2.860,0.912,0.631,0.013,0.098,I add Collin Gillespie; they drop Dillon Brooks,2.860
+CAL,Jrue Holiday + Dyson Daniels,Stephen Curry,0.951,2.843,5.598,0.640,0.955,-0.038,-0.063,I add Collin Gillespie; they drop RJ Barrett,2.843
+SS,Jrue Holiday + Payton Pritchard,Jaylen Brown,1.122,3.103,2.790,0.610,0.679,0.106,0.213,I add Collin Gillespie; they drop Jalen Green,2.790
+BBB,Jabari Smith Jr. + OG Anunoby,Jamal Murray,1.117,2.758,3.638,1.036,0.970,-0.071,-0.031,I add Collin Gillespie; they drop Rudy Gobert,2.758
+LS,Davion Mitchell + Brandin Podziemski,Ty Jerome,1.216,4.799,2.747,0.782,0.430,-0.077,-0.003,I add Collin Gillespie; they drop Tristan da Silva,2.747
+NYX2,Jrue Holiday + Payton Pritchard,Trae Young,1.632,2.743,6.384,0.568,0.939,0.079,-0.032,I add Collin Gillespie; they drop Jonathan Kuminga,2.743
+NYX2,Dyson Daniels,Devin Booker,1.133,2.684,3.815,0.458,0.575,0.023,-0.040,,2.684
+SS,Davion Mitchell + Jrue Holiday,Jaylen Brown,2.021,3.834,2.683,0.689,0.512,0.026,0.120,I add Collin Gillespie; they drop Jalen Green,2.683
+TT,Davion Mitchell + Jrue Holiday,Yaxel Lendeborg,1.137,2.673,4.156,0.736,0.805,0.016,-0.056,I add Collin Gillespie; they drop Coby White,2.673
+LS,Jrue Holiday + Dyson Daniels,Ty Jerome,1.455,2.667,4.781,0.792,0.956,-0.032,-0.071,I add Collin Gillespie; they drop Tristan da Silva,2.667
+SS,Jrue Holiday,Tyler Herro,1.051,2.652,4.394,0.392,0.599,-0.049,-0.133,,2.652
+LS,Jabari Smith Jr. + Davion Mitchell,Ty Jerome,1.970,3.280,2.585,0.848,0.713,-0.008,0.037,I add Collin Gillespie; they drop Tristan da Silva,2.585
+NYK,Jrue Holiday + OG Anunoby,Cameron Boozer,2.177,2.576,3.846,1.088,1.076,0.111,0.105,I add Collin Gillespie; they drop Dillon Brooks,2.576
+BBB,Kyshawn George + Dyson Daniels,Cade Cunningham,1.832,2.554,9.172,0.571,1.418,0.042,-0.196,I add Collin Gillespie; they drop Rudy Gobert,2.554
+BBB,Jrue Holiday + OG Anunoby,Dejounte Murray,1.256,2.538,3.007,0.867,0.784,0.131,0.142,I add Collin Gillespie; they drop Rudy Gobert,2.538
+76Er,Davion Mitchell + Payton Pritchard,Donovan Mitchell,0.951,3.688,2.535,0.427,0.240,0.011,0.048,I add Collin Gillespie; they drop Jared McCain,2.535
+BBB,Jabari Smith Jr. + Kyshawn George,Anthony Davis,1.522,2.736,2.503,0.635,0.633,0.067,0.128,I add Collin Gillespie; they drop Rudy Gobert,2.503
+NYK,Davion Mitchell + Brandin Podziemski,Jalen Johnson,1.956,4.489,2.500,0.837,0.325,-0.058,0.012,I add Collin Gillespie; they drop Dillon Brooks,2.500
+TT,Kyshawn George + Jrue Holiday,Yaxel Lendeborg,1.119,2.498,8.398,0.898,1.664,0.026,-0.197,I add Collin Gillespie; they drop Coby White,2.498
+BBB,Kyshawn George + Brandin Podziemski,Anthony Davis,0.935,4.002,2.489,0.572,0.265,0.004,0.104,I add Collin Gillespie; they drop Rudy Gobert,2.489
+NYK,OG Anunoby + Rui Hachimura,Cameron Boozer,0.892,4.387,2.484,1.199,0.904,-0.023,0.095,I add Collin Gillespie; they drop Dillon Brooks,2.484
+BBB,Jabari Smith Jr. + Payton Pritchard,Cade Cunningham,1.602,2.471,5.125,0.683,1.063,0.101,0.030,I add Collin Gillespie; they drop Rudy Gobert,2.471
+BBB,Davion Mitchell + Dyson Daniels,Cade Cunningham,1.849,2.442,5.244,0.320,0.629,0.041,-0.038,I add Collin Gillespie; they drop Rudy Gobert,2.442
+CAL,Jabari Smith Jr. + Brandin Podziemski,Stephen Curry,1.229,2.424,3.016,0.674,0.763,-0.045,0.016,I add Collin Gillespie; they drop RJ Barrett,2.424
+76Er,Davion Mitchell + Rui Hachimura,Immanuel Quickley,1.589,4.863,2.418,0.923,0.514,-0.043,0.061,I add Collin Gillespie; they drop Jared McCain,2.418
+NYK,Davion Mitchell + Payton Pritchard,Jalen Johnson,1.384,5.883,2.407,1.226,0.589,-0.146,-0.035,I add Collin Gillespie; they drop Dillon Brooks,2.407
+SS,Brandin Podziemski + Rui Hachimura,Jaylen Brown,1.150,4.146,2.400,0.453,0.242,-0.031,0.193,I add Collin Gillespie; they drop Jalen Green,2.400
+SS,Kyshawn George + OG Anunoby,Jaylen Brown,1.745,2.390,4.442,0.684,1.052,0.030,0.087,I add Collin Gillespie; they drop Jalen Green,2.390
+BBB,OG Anunoby + Rui Hachimura,Franz Wagner,0.915,2.932,2.350,0.843,0.726,0.032,0.107,I add Collin Gillespie; they drop Rudy Gobert,2.350
+BBB,Jabari Smith Jr. + Brandin Podziemski,Jamal Murray,1.358,2.344,3.843,0.643,0.680,0.021,0.015,I add Collin Gillespie; they drop Rudy Gobert,2.344
+BCn,Dyson Daniels + Brandin Podziemski,Jayson Tatum,1.400,2.343,6.589,0.231,0.562,-0.014,-0.150,I add Collin Gillespie; they drop P.J. Washington,2.343
+76Er,Jabari Smith Jr. + Rui Hachimura,Donovan Mitchell,1.464,2.332,3.018,0.515,0.524,-0.058,-0.023,I add Collin Gillespie; they drop Jared McCain,2.332
+76Er,Kyshawn George + Payton Pritchard,Donovan Mitchell,0.933,2.323,5.928,0.402,0.829,-0.045,-0.157,I add Collin Gillespie; they drop Jared McCain,2.323
+BBB,Jrue Holiday + Payton Pritchard,Dejounte Murray,1.209,2.488,2.263,0.657,0.498,0.130,0.136,I add Collin Gillespie; they drop Rudy Gobert,2.263
+NYK,Jrue Holiday + Payton Pritchard,Amen Thompson,1.514,2.690,2.247,0.493,0.341,0.001,0.029,I add Collin Gillespie; they drop Dillon Brooks,2.247
+LS,Jrue Holiday + Brandin Podziemski,Kyrie Irving,0.959,2.232,2.937,0.527,0.514,0.052,0.073,I add Collin Gillespie; they drop Tristan da Silva,2.232
+76Er,Kyshawn George + OG Anunoby,Donovan Mitchell,0.958,2.224,5.863,0.564,0.980,-0.027,-0.126,I add Collin Gillespie; they drop Jared McCain,2.224
+NYX2,Jrue Holiday + OG Anunoby,De'Aaron Fox,0.931,2.223,2.548,0.607,0.515,0.108,0.163,I add Collin Gillespie; they drop Jonathan Kuminga,2.223
+76Er,Davion Mitchell + Brandin Podziemski,Donovan Mitchell,1.344,2.187,2.448,-0.073,-0.107,0.075,0.077,I add Collin Gillespie; they drop Jared McCain,2.187
+TT,Jabari Smith Jr. + Kyshawn George,Kevin Durant,1.859,2.129,6.604,0.576,1.212,-0.050,-0.178,I add Collin Gillespie; they drop Coby White,2.129
+NYX2,Kyshawn George + Rui Hachimura,Dylan Harper,1.148,2.121,4.072,0.351,0.601,-0.004,-0.029,I add Collin Gillespie; they drop Jonathan Kuminga,2.121
+TT,Davion Mitchell + Brandin Podziemski,Kevin Durant,1.157,2.655,2.103,0.327,0.147,-0.089,-0.023,I add Collin Gillespie; they drop Coby White,2.103
+NYK,OG Anunoby + Dyson Daniels,Jalen Johnson,2.145,2.102,3.259,0.689,0.699,0.036,0.021,I add Collin Gillespie; they drop Dillon Brooks,2.102
+NYX2,Davion Mitchell + Dyson Daniels,Devin Booker,1.803,2.099,3.658,0.604,0.606,0.178,0.151,I add Collin Gillespie; they drop Jonathan Kuminga,2.099
+BBB,Jrue Holiday + Payton Pritchard,Franz Wagner,2.148,2.089,3.574,0.610,0.746,0.135,0.033,I add Collin Gillespie; they drop Rudy Gobert,2.089
+NYX2,Jrue Holiday + Payton Pritchard,De'Aaron Fox,0.896,2.223,1.978,0.447,0.302,0.154,0.193,I add Collin Gillespie; they drop Jonathan Kuminga,1.978
+SS,Jrue Holiday + Brandin Podziemski,Jaylen Brown,1.838,1.958,2.895,0.275,0.345,0.144,0.205,I add Collin Gillespie; they drop Jalen Green,1.958
+76Er,Kyshawn George + Brandin Podziemski,Donovan Mitchell,1.327,1.939,5.876,0.236,0.621,0.022,-0.117,I add Collin Gillespie; they drop Jared McCain,1.939
+TT,Davion Mitchell + OG Anunoby,Yaxel Lendeborg,1.000,2.532,1.936,0.738,0.492,0.014,0.023,I add Collin Gillespie; they drop Coby White,1.936
+76Er,Dyson Daniels + Rui Hachimura,Donovan Mitchell,1.231,1.923,3.339,0.135,0.166,-0.018,-0.034,I add Collin Gillespie; they drop Jared McCain,1.923
+BBB,Dyson Daniels + Payton Pritchard,Jamal Murray,0.948,1.837,4.032,0.360,0.493,-0.028,-0.022,I add Collin Gillespie; they drop Rudy Gobert,1.837
+LS,Davion Mitchell + Dyson Daniels,Ty Jerome,1.759,1.815,2.089,0.493,0.475,-0.064,-0.046,I add Collin Gillespie; they drop Tristan da Silva,1.815
+CAL,Jabari Smith Jr. + Payton Pritchard,Stephen Curry,0.996,1.779,1.822,0.722,0.695,-0.139,-0.049,I add Collin Gillespie; they drop RJ Barrett,1.779
+BBB,Davion Mitchell + Rui Hachimura,Dejounte Murray,1.437,5.685,1.771,0.990,0.318,-0.040,0.114,I add Collin Gillespie; they drop Rudy Gobert,1.771
+NYK,Brandin Podziemski + Rui Hachimura,Cameron Boozer,2.149,2.356,1.751,0.595,0.388,0.091,0.144,I add Collin Gillespie; they drop Dillon Brooks,1.751
+BCn,Brandin Podziemski + Rui Hachimura,LaMelo Ball,1.209,3.004,1.700,0.415,0.089,-0.098,0.029,I add Collin Gillespie; they drop P.J. Washington,1.700
+BBB,OG Anunoby + Dyson Daniels,Jamal Murray,0.964,1.684,3.347,0.519,0.618,-0.039,-0.030,I add Collin Gillespie; they drop Rudy Gobert,1.684
+SS,Brandin Podziemski + Rui Hachimura,Tyler Herro,1.716,1.909,1.675,0.349,0.118,0.079,0.176,I add Collin Gillespie; they drop Jalen Green,1.675
+NYK,Brandin Podziemski + Rui Hachimura,Amen Thompson,1.553,3.624,1.658,0.449,-0.055,-0.059,0.083,I add Collin Gillespie; they drop Dillon Brooks,1.658
+76Er,Kyshawn George + Rui Hachimura,Immanuel Quickley,1.550,1.652,4.574,0.382,0.837,-0.044,-0.088,I add Collin Gillespie; they drop Jared McCain,1.652
+NYK,Brandin Podziemski + Payton Pritchard,Jalen Johnson,1.238,2.854,1.628,0.579,0.338,0.024,0.089,I add Collin Gillespie; they drop Dillon Brooks,1.628
+NYX2,Brandin Podziemski + Rui Hachimura,Trae Young,1.673,1.617,3.818,0.335,0.456,0.045,0.017,I add Collin Gillespie; they drop Jonathan Kuminga,1.617
+TT,Jabari Smith Jr. + Payton Pritchard,Kevin Durant,1.449,1.585,2.540,0.246,0.352,-0.007,0.003,I add Collin Gillespie; they drop Coby White,1.585
+BCn,Kyshawn George + Rui Hachimura,Darius Acuff Jr.,1.177,1.584,1.624,0.485,0.222,-0.072,-0.003,I add Collin Gillespie; they drop P.J. Washington,1.584
+BBB,Dyson Daniels + Payton Pritchard,Cade Cunningham,1.379,1.566,4.947,0.295,0.703,0.127,0.021,I add Collin Gillespie; they drop Rudy Gobert,1.566
+BCn,Davion Mitchell + Jrue Holiday,Darius Acuff Jr.,1.829,2.418,1.548,0.489,0.196,0.098,0.150,I add Collin Gillespie; they drop P.J. Washington,1.548
+LS,Kyshawn George + Payton Pritchard,Kyrie Irving,0.888,1.533,3.706,0.344,0.933,-0.008,0.015,I add Collin Gillespie; they drop Tristan da Silva,1.533
+NYK,OG Anunoby,Cameron Boozer,0.861,2.490,1.506,0.870,0.678,0.021,0.052,,1.506
+SS,Kyshawn George + Payton Pritchard,Jaylen Brown,1.701,1.489,3.456,0.319,0.677,0.090,0.129,I add Collin Gillespie; they drop Jalen Green,1.489
+76Er,OG Anunoby + Brandin Podziemski,Donovan Mitchell,0.875,1.475,2.391,0.163,0.113,0.107,0.128,I add Collin Gillespie; they drop Jared McCain,1.475
+CAL,Jrue Holiday + OG Anunoby,Damian Lillard,1.783,1.482,1.472,0.451,0.459,0.038,0.119,I add Collin Gillespie; they drop RJ Barrett,1.472
+NYX2,Dyson Daniels + Payton Pritchard,Devin Booker,1.345,1.465,4.030,0.373,0.639,0.182,0.165,I add Collin Gillespie; they drop Jonathan Kuminga,1.465
+CAL,Davion Mitchell + Dyson Daniels,Stephen Curry,1.150,1.463,2.921,0.314,0.535,-0.007,0.014,I add Collin Gillespie; they drop RJ Barrett,1.463
+76Er,Brandin Podziemski + Payton Pritchard,Donovan Mitchell,0.851,1.449,2.010,0.002,-0.039,0.092,0.113,I add Collin Gillespie; they drop Jared McCain,1.449
+SS,Jrue Holiday + Payton Pritchard,Tyler Herro,1.673,1.448,3.099,0.473,0.554,0.196,0.181,I add Collin Gillespie; they drop Jalen Green,1.448
+SS,Brandin Podziemski,Jaylen Brown,1.133,2.241,1.437,0.131,0.051,-0.048,-0.003,,1.437
+BCn,Kyshawn George + Jrue Holiday,Darius Acuff Jr.,1.799,1.426,5.349,0.607,1.041,0.107,0.019,I add Collin Gillespie; they drop P.J. Washington,1.426
+BCn,Jrue Holiday + Brandin Podziemski,LaMelo Ball,1.932,1.421,3.716,0.151,0.314,0.081,0.076,I add Collin Gillespie; they drop P.J. Washington,1.421
+NYX2,Jrue Holiday + OG Anunoby,Trae Young,1.696,1.418,5.705,0.652,1.075,0.099,0.012,I add Collin Gillespie; they drop Jonathan Kuminga,1.418
+76Er,Jabari Smith Jr. + Jrue Holiday,Donovan Mitchell,1.842,1.409,4.707,0.378,0.628,0.095,-0.025,I add Collin Gillespie; they drop Jared McCain,1.409
+NYX2,Kyshawn George + Dyson Daniels,Devin Booker,1.787,1.400,7.332,0.431,1.279,0.133,0.013,I add Collin Gillespie; they drop Jonathan Kuminga,1.400
+NYX2,Kyshawn George + Davion Mitchell,De'Aaron Fox,2.077,1.396,2.796,0.400,0.488,0.087,0.059,I add Collin Gillespie; they drop Jonathan Kuminga,1.396
+NYX2,Davion Mitchell + Rui Hachimura,De'Aaron Fox,1.065,4.879,1.391,0.711,0.117,-0.027,0.137,I add Collin Gillespie; they drop Jonathan Kuminga,1.391
+TT,Kyshawn George + OG Anunoby,Yaxel Lendeborg,0.982,1.390,5.669,0.712,1.330,0.023,-0.129,I add Collin Gillespie; they drop Coby White,1.390
+NYX2,Kyshawn George + Jrue Holiday,Dylan Harper,1.755,1.380,5.989,0.468,0.983,0.146,-0.003,I add Collin Gillespie; they drop Jonathan Kuminga,1.380
+BBB,Kyshawn George + Dyson Daniels,Anthony Davis,1.357,1.354,1.941,0.235,0.241,0.020,0.067,I add Collin Gillespie; they drop Rudy Gobert,1.354
+NYX2,Davion Mitchell + Rui Hachimura,Dylan Harper,1.177,3.324,1.348,0.512,0.115,0.050,0.147,I add Collin Gillespie; they drop Jonathan Kuminga,1.348
+NYX2,Davion Mitchell + Jrue Holiday,De'Aaron Fox,1.614,1.943,1.333,0.227,0.055,0.141,0.161,I add Collin Gillespie; they drop Jonathan Kuminga,1.333
+CAL,Jabari Smith Jr. + OG Anunoby,Stephen Curry,1.010,1.622,1.326,0.862,0.697,-0.115,0.006,I add Collin Gillespie; they drop RJ Barrett,1.326
+BBB,OG Anunoby,Franz Wagner,0.882,1.313,1.964,0.479,0.527,-0.046,-0.069,,1.313
+BCn,Jabari Smith Jr. + Dyson Daniels,Jayson Tatum,2.033,1.312,6.762,0.528,0.910,0.008,-0.172,I add Collin Gillespie; they drop P.J. Washington,1.312
+NYK,Dyson Daniels + Payton Pritchard,Jalen Johnson,2.110,1.290,2.795,0.354,0.514,0.044,0.023,I add Collin Gillespie; they drop Dillon Brooks,1.290
+SS,Jrue Holiday + OG Anunoby,Tyler Herro,1.739,1.276,3.085,0.649,0.728,0.151,0.152,I add Collin Gillespie; they drop Jalen Green,1.276
+TT,Jabari Smith Jr. + OG Anunoby,Kevin Durant,1.470,1.272,2.518,0.464,0.601,-0.029,-0.008,I add Collin Gillespie; they drop Coby White,1.272
+76Er,Jrue Holiday + Rui Hachimura,Andrew Nembhard,1.132,2.481,1.218,0.712,0.366,0.062,0.187,I add Collin Gillespie; they drop Jared McCain,1.218
+LS,Dyson Daniels + Rui Hachimura,Kyrie Irving,1.171,1.320,1.217,0.485,0.412,-0.032,0.042,I add Collin Gillespie; they drop Tristan da Silva,1.217
+BCn,Davion Mitchell + OG Anunoby,LaMelo Ball,1.868,2.850,1.205,0.545,0.196,-0.012,0.072,I add Collin Gillespie; they drop P.J. Washington,1.205
+BBB,OG Anunoby + Dyson Daniels,Cade Cunningham,1.402,1.204,4.526,0.449,0.815,0.100,-0.002,I add Collin Gillespie; they drop Rudy Gobert,1.204
+TT,Kyshawn George + Davion Mitchell,Yaxel Lendeborg,1.463,1.177,4.951,0.581,1.088,0.008,-0.148,I add Collin Gillespie; they drop Coby White,1.177
+BBB,Davion Mitchell,Dejounte Murray,1.419,2.684,1.175,0.338,0.200,-0.092,-0.044,,1.175
+LS,Kyshawn George + Brandin Podziemski,Kyrie Irving,1.262,1.161,4.341,0.371,0.936,0.037,0.005,I add Collin Gillespie; they drop Tristan da Silva,1.161
+76Er,Jabari Smith Jr. + Davion Mitchell,Donovan Mitchell,2.178,1.158,2.394,0.149,0.144,0.086,0.025,I add Collin Gillespie; they drop Jared McCain,1.158
+CAL,Kyshawn George + Dyson Daniels,Stephen Curry,1.139,1.154,5.961,0.413,1.148,-0.047,-0.125,I add Collin Gillespie; they drop RJ Barrett,1.154
+NYK,Jrue Holiday + Payton Pritchard,Cameron Boozer,2.095,1.140,2.480,0.683,0.829,0.104,0.066,I add Collin Gillespie; they drop Dillon Brooks,1.140
+TT,Jrue Holiday + Dyson Daniels,Kevin Durant,1.384,1.137,5.036,0.170,0.527,0.000,-0.087,I add Collin Gillespie; they drop Coby White,1.137
+BBB,Jabari Smith Jr. + Jrue Holiday,Anthony Davis,1.298,3.748,1.126,0.774,0.289,0.098,0.210,I add Collin Gillespie; they drop Rudy Gobert,1.126
+NYX2,Jabari Smith Jr. + Payton Pritchard,Devin Booker,1.562,1.108,3.431,0.436,0.825,0.070,0.118,I add Collin Gillespie; they drop Jonathan Kuminga,1.108
+BBB,Jrue Holiday + Dyson Daniels,Anthony Davis,1.133,2.406,1.068,0.383,0.095,0.015,0.119,I add Collin Gillespie; they drop Rudy Gobert,1.068
+LS,Jabari Smith Jr. + Kyshawn George,Ty Jerome,1.954,0.976,5.533,0.811,1.548,-0.036,-0.114,I add Collin Gillespie; they drop Tristan da Silva,0.976
+SS,Davion Mitchell + OG Anunoby,Jaylen Brown,1.777,3.739,0.949,0.819,0.381,0.016,0.207,I add Collin Gillespie; they drop Jalen Green,0.949
+LS,Jabari Smith Jr. + Rui Hachimura,Kyrie Irving,1.393,1.511,0.936,0.560,0.675,-0.020,0.087,I add Collin Gillespie; they drop Tristan da Silva,0.936
+LS,Kyshawn George + OG Anunoby,Kyrie Irving,0.911,0.928,3.699,0.530,1.226,-0.015,0.022,I add Collin Gillespie; they drop Tristan da Silva,0.928
+LS,Jabari Smith Jr. + Payton Pritchard,Ty Jerome,1.524,0.883,1.558,0.551,0.664,0.024,0.086,I add Collin Gillespie; they drop Tristan da Silva,0.883
+BBB,Jabari Smith Jr. + OG Anunoby,Cade Cunningham,1.625,0.883,3.407,0.704,0.950,0.067,0.012,I add Collin Gillespie; they drop Rudy Gobert,0.883
+LS,Davion Mitchell + Payton Pritchard,Kyrie Irving,0.905,3.280,0.874,0.722,0.409,-0.025,0.109,I add Collin Gillespie; they drop Tristan da Silva,0.874
+NYX2,OG Anunoby + Dyson Daniels,Devin Booker,1.368,0.860,3.321,0.351,0.775,0.156,0.176,I add Collin Gillespie; they drop Jonathan Kuminga,0.860
+NYX2,Jrue Holiday + OG Anunoby,Dylan Harper,1.028,0.859,2.521,0.417,0.492,0.175,0.173,I add Collin Gillespie; they drop Jonathan Kuminga,0.859
+CAL,Jrue Holiday + Payton Pritchard,Damian Lillard,1.716,0.853,0.932,0.223,0.217,0.018,0.102,I add Collin Gillespie; they drop RJ Barrett,0.853
+76Er,Jrue Holiday + OG Anunoby,Immanuel Quickley,1.388,0.845,3.203,0.640,0.896,0.179,0.131,I add Collin Gillespie; they drop Jared McCain,0.845
+76Er,Jrue Holiday + Payton Pritchard,Immanuel Quickley,1.336,0.844,2.872,0.485,0.698,0.196,0.145,I add Collin Gillespie; they drop Jared McCain,0.844
+BCn,Jrue Holiday + Payton Pritchard,Darius Acuff Jr.,1.015,0.802,1.271,0.312,0.353,0.099,0.114,I add Collin Gillespie; they drop P.J. Washington,0.802
+NYX2,Jabari Smith Jr. + Kyshawn George,Devin Booker,2.004,0.745,7.007,0.522,1.524,-0.008,-0.068,I add Collin Gillespie; they drop Jonathan Kuminga,0.745
+CAL,OG Anunoby + Dyson Daniels,Stephen Curry,0.872,0.745,2.230,0.357,0.600,-0.010,0.056,I add Collin Gillespie; they drop RJ Barrett,0.745
+NYX2,Jrue Holiday + Payton Pritchard,Dylan Harper,0.990,0.712,1.887,0.244,0.283,0.233,0.205,I add Collin Gillespie; they drop Jonathan Kuminga,0.712
+BCn,Davion Mitchell + Rui Hachimura,Darius Acuff Jr.,1.207,4.567,0.695,0.715,0.164,-0.083,0.099,I add Collin Gillespie; they drop P.J. Washington,0.695
+BBB,Jabari Smith Jr. + Brandin Podziemski,Cade Cunningham,1.976,0.677,4.576,0.245,0.672,0.167,0.056,I add Collin Gillespie; they drop Rudy Gobert,0.677
+BBB,Jrue Holiday + Brandin Podziemski,Dejounte Murray,1.981,0.672,2.579,0.224,0.328,0.200,0.160,I add Collin Gillespie; they drop Rudy Gobert,0.672
+76Er,Kyshawn George + Jrue Holiday,Anthony Black,1.237,0.662,3.834,0.594,0.854,0.186,0.073,I add Collin Gillespie; they drop Jared McCain,0.662
+BCn,Jrue Holiday + OG Anunoby,Darius Acuff Jr.,1.054,0.625,1.892,0.481,0.541,0.089,0.141,I add Collin Gillespie; they drop P.J. Washington,0.625
+TT,Jabari Smith Jr. + Rui Hachimura,Yaxel Lendeborg,1.501,0.616,2.424,0.552,0.697,-0.003,-0.063,I add Collin Gillespie; they drop Coby White,0.616
+BCn,Brandin Podziemski,LaMelo Ball,1.191,0.608,1.239,-0.221,-0.168,-0.071,-0.047,,0.608
+TT,Davion Mitchell + Brandin Podziemski,Austin Reaves,0.971,0.597,1.577,-0.048,-0.043,0.001,0.006,I add Collin Gillespie; they drop Coby White,0.597
+LS,Kyshawn George + Dyson Daniels,Ty Jerome,1.743,0.569,5.363,0.509,1.187,-0.033,-0.130,I add Collin Gillespie; they drop Tristan da Silva,0.569
+76Er,Jrue Holiday,Andrew Nembhard,1.105,0.554,0.814,0.135,0.152,0.029,0.038,,0.554
+BCn,Kyshawn George + OG Anunoby,LaMelo Ball,1.834,0.538,3.643,0.508,0.674,-0.006,-0.036,I add Collin Gillespie; they drop P.J. Washington,0.538
+TT,Davion Mitchell + Payton Pritchard,Yaxel Lendeborg,0.975,0.530,0.532,0.284,0.310,0.035,0.037,I add Collin Gillespie; they drop Coby White,0.530
+76Er,Brandin Podziemski + Rui Hachimura,Immanuel Quickley,1.370,0.528,1.153,0.159,0.279,0.106,0.174,I add Collin Gillespie; they drop Jared McCain,0.528
+NYX2,Brandin Podziemski + Rui Hachimura,Dylan Harper,1.015,0.685,0.522,0.121,-0.134,0.127,0.178,I add Collin Gillespie; they drop Jonathan Kuminga,0.522
+LS,Davion Mitchell + OG Anunoby,Kyrie Irving,0.928,3.266,0.511,0.907,0.526,0.009,0.166,I add Collin Gillespie; they drop Tristan da Silva,0.511
+CAL,Dyson Daniels + Payton Pritchard,Stephen Curry,0.858,0.506,2.251,0.166,0.519,-0.044,0.038,I add Collin Gillespie; they drop RJ Barrett,0.506
+76Er,Davion Mitchell + OG Anunoby,Immanuel Quickley,2.117,0.968,0.501,0.515,0.372,0.137,0.191,I add Collin Gillespie; they drop Jared McCain,0.501
+76Er,Kyshawn George + Rui Hachimura,Andrew Nembhard,2.040,0.488,1.295,0.458,0.508,0.032,0.054,I add Collin Gillespie; they drop Jared McCain,0.488
+BCn,Kyshawn George + Payton Pritchard,LaMelo Ball,1.788,0.458,3.292,0.307,0.500,0.019,-0.059,I add Collin Gillespie; they drop P.J. Washington,0.458
+LS,Jabari Smith Jr. + Jrue Holiday,Kyrie Irving,1.752,0.423,2.555,0.550,0.907,0.126,0.113,I add Collin Gillespie; they drop Tristan da Silva,0.423
+SS,OG Anunoby + Brandin Podziemski,Jaylen Brown,1.594,0.762,0.415,0.236,0.127,0.138,0.288,I add Collin Gillespie; they drop Jalen Green,0.415
+TT,Jrue Holiday + Brandin Podziemski,Yaxel Lendeborg,1.034,0.400,3.974,0.378,0.635,0.142,0.033,I add Collin Gillespie; they drop Coby White,0.400
+TT,Jabari Smith Jr. + Davion Mitchell,Austin Reaves,1.573,0.393,2.293,0.155,0.340,-0.049,-0.092,I add Collin Gillespie; they drop Coby White,0.393
+TT,Jabari Smith Jr. + Jrue Holiday,Austin Reaves,1.331,0.388,4.409,0.364,0.877,0.012,-0.126,I add Collin Gillespie; they drop Coby White,0.388
+BBB,Brandin Podziemski + Rui Hachimura,Dejounte Murray,1.240,1.740,0.379,0.292,0.064,0.089,0.194,I add Collin Gillespie; they drop Rudy Gobert,0.379
+NYK,Brandin Podziemski,Amen Thompson,1.530,0.880,0.371,-0.214,-0.261,0.014,0.025,,0.371
+NYX2,Brandin Podziemski + Rui Hachimura,De'Aaron Fox,0.918,1.957,0.358,0.296,-0.127,0.058,0.175,I add Collin Gillespie; they drop Jonathan Kuminga,0.358
+BCn,Davion Mitchell + Payton Pritchard,LaMelo Ball,1.822,1.827,0.317,0.276,0.038,0.020,0.073,I add Collin Gillespie; they drop P.J. Washington,0.317
+LS,Davion Mitchell + Brandin Podziemski,Kyrie Irving,1.279,1.918,0.239,0.398,0.075,-0.006,0.072,I add Collin Gillespie; they drop Tristan da Silva,0.239
+TT,Kyshawn George + Payton Pritchard,Yaxel Lendeborg,0.957,0.230,3.884,0.321,0.739,0.021,-0.129,I add Collin Gillespie; they drop Coby White,0.230
+NYX2,Davion Mitchell,De'Aaron Fox,1.051,1.736,0.213,0.044,-0.067,-0.051,0.002,,0.213
+LS,Dyson Daniels + Payton Pritchard,Ty Jerome,1.312,0.207,1.535,0.269,0.477,0.004,0.036,I add Collin Gillespie; they drop Tristan da Silva,0.207
+NYX2,Davion Mitchell + Jrue Holiday,Dylan Harper,1.784,0.190,1.253,0.006,0.067,0.217,0.164,I add Collin Gillespie; they drop Jonathan Kuminga,0.190
+LS,Jabari Smith Jr.,Kyrie Irving,1.384,0.133,0.351,0.446,0.517,0.009,0.041,,0.133
+NYX2,Jabari Smith Jr. + Brandin Podziemski,Devin Booker,1.927,0.130,3.329,0.129,0.639,0.132,0.138,I add Collin Gillespie; they drop Jonathan Kuminga,0.130
+SS,OG Anunoby + Payton Pritchard,Jaylen Brown,0.878,1.686,0.110,0.452,0.321,0.104,0.303,I add Collin Gillespie; they drop Jalen Green,0.110
+NYX2,Jrue Holiday + Brandin Podziemski,De'Aaron Fox,1.468,0.106,1.231,-0.052,-0.067,0.202,0.188,I add Collin Gillespie; they drop Jonathan Kuminga,0.106
+LS,Jabari Smith Jr. + Brandin Podziemski,Ty Jerome,1.879,0.092,1.392,0.254,0.468,0.079,0.096,I add Collin Gillespie; they drop Tristan da Silva,0.092
+76Er,Jrue Holiday + Dyson Daniels,Donovan Mitchell,1.608,0.088,4.665,-0.065,0.371,0.170,-0.003,I add Collin Gillespie; they drop Jared McCain,0.088
+BBB,Jabari Smith Jr. + Rui Hachimura,Anthony Davis,1.032,5.365,0.084,1.021,0.192,-0.038,0.212,I add Collin Gillespie; they drop Rudy Gobert,0.084
+76Er,Davion Mitchell + Payton Pritchard,Immanuel Quickley,2.065,0.511,0.062,0.338,0.223,0.172,0.217,I add Collin Gillespie; they drop Jared McCain,0.062
+76Er,Kyshawn George + Davion Mitchell,Anthony Black,1.617,0.062,0.879,0.311,0.368,0.183,0.138,I add Collin Gillespie; they drop Jared McCain,0.062

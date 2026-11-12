@@ -23,3 +23,4 @@ Hashtag Basketball cross-check (optional):
 - Put the HBB supplement at `analysis/hbb/HBB_supplement_Lukawhi_<date>.xlsx` (not committed).
 - `python3 analysis/run_analysis.py --hbb analysis/hbb/<file>.xlsx --out analysis/hbb_run` runs the whole model with HBB's projections.
 - `python3 analysis/hbb_crosscheck.py <export folder> analysis/hbb/<file>.xlsx` scores every move under both projections and writes `analysis/moves_report.md`.
+- `python3 analysis/team_breakdown.py` (after hbb_crosscheck.py) writes `analysis/team_breakdown.md`: player ratings out of 10, sell-high trade search, category rank breakdown.
