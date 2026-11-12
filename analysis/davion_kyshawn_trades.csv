@@ -1,0 +1,239 @@
+give,get,team,espn_rank,hbb_season,hbb_ros,sE,sH,poE,poH,thE,thH,up,dn,note,pts,ast,reb,blk,tpm,ft,robust,ok_them
+Davion + Kyshawn,Cade Cunningham,BBB,22,26.000,14.000,8.890,11.128,1.558,1.792,-0.154,-0.243,"PTS, REB, AST, STL, FT%",TO,I add Collin Gillespie; they drop Rudy Gobert,23.414,8.822,5.405,0.854,1.944,0.808,8.890,False
+Davion + Kyshawn,Franz Wagner,BBB,74,81.000,30.000,2.083,5.438,0.647,1.049,0.040,-0.113,"PTS, REB, STL, FT%, TO",AST,I add Collin Gillespie; they drop Rudy Gobert,21.906,6.026,5.920,0.201,1.322,0.825,2.083,True
+Davion,Franz Wagner,BBB,74,81.000,30.000,1.728,2.494,0.270,0.451,-0.113,-0.177,"PTS, REB, FT%","AST, FG%",,21.906,6.026,5.920,0.201,1.322,0.825,1.728,False
+Kyshawn,Franz Wagner,BBB,74,81.000,30.000,2.407,6.263,0.606,1.135,-0.117,-0.270,"PTS, REB, AST, FT%","BLK, 3PM, TO",,21.906,6.026,5.920,0.201,1.322,0.825,2.407,False
+Davion + Kyshawn,Dejounte Murray,BBB,94,51.000,54.000,2.604,4.245,0.680,0.795,-0.011,-0.040,"REB, STL, FT%",BLK,I add Collin Gillespie; they drop Rudy Gobert,17.198,5.634,5.184,0.417,1.520,0.865,2.604,True
+Davion,Dejounte Murray,BBB,94,51.000,54.000,2.684,1.175,0.338,0.200,-0.092,-0.044,"PTS, REB, STL, FT%","AST, FG%, TO",,17.198,5.634,5.184,0.417,1.520,0.865,1.175,True
+Kyshawn,Dejounte Murray,BBB,94,51.000,54.000,3.220,5.411,0.641,1.015,-0.156,-0.239,"PTS, REB, AST, STL, FT%","BLK, 3PM",,17.198,5.634,5.184,0.417,1.520,0.865,3.220,False
+Davion + Kyshawn,Ayo Dosunmu,BBB,19,32.000,69.000,1.505,2.784,0.437,0.563,-0.033,-0.045,"REB, STL, FT%, TO","PTS, AST",I add Collin Gillespie; they drop Rudy Gobert,16.522,3.888,4.191,0.367,1.859,0.879,1.505,True
+Davion + Kyshawn,Toumani Camara,BBB,118,135.000,98.000,-3.678,1.104,-0.309,0.439,0.052,-0.081,"REB, STL, 3PM, TO","PTS, AST",I add Collin Gillespie; they drop Rudy Gobert,12.327,1.780,4.257,0.350,2.535,0.713,-3.678,True
+Davion,Toumani Camara,BBB,118,135.000,98.000,-2.920,-1.478,-0.477,-0.127,-0.039,-0.093,"REB, 3PM, TO","AST, FG%",,12.327,1.780,4.257,0.350,2.535,0.713,-2.920,True
+Kyshawn,Toumani Camara,BBB,118,135.000,98.000,-3.587,1.206,-0.474,0.284,-0.029,-0.192,"STL, 3PM, FG%, TO","AST, BLK, FT%",,12.327,1.780,4.257,0.350,2.535,0.713,-3.587,True
+Davion + Kyshawn,Derrick White,CAL,53,100.000,45.000,4.639,6.457,0.915,1.091,-0.016,-0.091,"REB, STL, FT%, TO",AST,I add Collin Gillespie; they drop RJ Barrett,14.444,5.216,3.808,0.857,2.243,0.921,4.639,True
+Davion,Derrick White,CAL,53,100.000,45.000,4.557,3.601,0.627,0.536,-0.147,-0.139,"PTS, REB, STL, BLK, 3PM, FT%","AST, FG%",,14.444,5.216,3.808,0.857,2.243,0.921,3.601,False
+Kyshawn,Derrick White,CAL,53,100.000,45.000,4.479,7.425,0.848,1.298,-0.178,-0.314,"AST, STL, 3PM, FT%, TO",,,14.444,5.216,3.808,0.857,2.243,0.921,4.479,False
+Davion + Kyshawn,Julius Randle,CAL,126,140.000,115.000,0.431,2.966,0.206,0.583,0.142,0.066,"PTS, REB, STL, FT%","AST, BLK, TO",I add Collin Gillespie; they drop RJ Barrett,20.908,5.008,7.165,0.204,1.496,0.794,0.431,True
+Davion,Julius Randle,CAL,126,140.000,115.000,0.662,-0.083,0.058,0.010,0.032,0.035,"PTS, REB, FT%","AST, STL, FG%, TO",,20.908,5.008,7.165,0.204,1.496,0.794,-0.083,True
+Kyshawn,Julius Randle,CAL,126,140.000,115.000,0.704,3.456,0.203,0.606,-0.028,-0.153,"PTS, REB, AST","BLK, 3PM, TO",,20.908,5.008,7.165,0.204,1.496,0.794,0.704,True
+Davion + Kyshawn,Damian Lillard,CAL,65,70.000,56.000,0.392,1.949,0.190,0.482,0.032,0.015,"STL, FT%, TO","AST, BLK",I add Collin Gillespie; they drop RJ Barrett,20.713,5.281,3.601,0.153,2.862,0.887,0.392,True
+Davion,Damian Lillard,CAL,65,70.000,56.000,0.652,-0.626,0.004,-0.090,-0.079,-0.030,"PTS, 3PM, FT%","AST, STL, BLK, FG%",,20.713,5.281,3.601,0.153,2.862,0.887,-0.626,True
+Kyshawn,Damian Lillard,CAL,65,70.000,56.000,-0.048,1.912,0.115,0.442,-0.136,-0.216,"PTS, 3PM, FT%, TO","REB, BLK",,20.713,5.281,3.601,0.153,2.862,0.887,-0.048,False
+Davion + Kyshawn,RJ Barrett,CAL,190,159.000,175.000,-2.221,1.201,0.048,0.427,0.146,0.181,"PTS, REB, STL, TO","AST, BLK, FT%",I add Collin Gillespie; they drop Julius Randle,20.346,3.680,5.619,0.399,1.605,0.655,-2.221,True
+Davion,RJ Barrett,CAL,190,159.000,175.000,-2.284,-2.067,-0.286,-0.173,0.169,0.159,"PTS, REB","AST, STL, FG%, FT%",,20.346,3.680,5.619,0.399,1.605,0.655,-2.284,True
+Kyshawn,RJ Barrett,CAL,190,159.000,175.000,-1.661,2.121,0.048,0.592,0.080,-0.042,"PTS, REB, FG%","STL, BLK, FT%",,20.346,3.680,5.619,0.399,1.605,0.655,-1.661,True
+Davion + Kyshawn,Alex Sarr,CAL,77,,,0.141,1.391,0.096,0.264,0.138,0.089,"REB, STL, BLK, TO","PTS, AST, 3PM",I add Collin Gillespie; they drop RJ Barrett,13.459,2.326,7.376,1.541,0.897,0.713,0.141,True
+Davion,Alex Sarr,CAL,77,,,-0.354,-1.633,-0.198,-0.224,0.034,0.068,"REB, BLK, TO","AST, STL, 3PM, FG%",,13.459,2.326,7.376,1.541,0.897,0.713,-1.633,True
+Kyshawn,Alex Sarr,CAL,77,,,0.306,2.285,0.001,0.334,-0.008,-0.104,"REB, BLK, FG%, TO","AST, 3PM, FT%",,13.459,2.326,7.376,1.541,0.897,0.713,0.306,True
+Davion + Kyshawn,Daniel Gafford,CAL,40,69.000,164.000,-0.164,-0.378,0.400,0.371,0.177,0.194,"REB, STL, BLK, FG%, TO","PTS, AST, 3PM, FT%",I add Collin Gillespie; they drop RJ Barrett,9.944,1.582,6.310,1.665,0.043,0.690,-0.378,True
+Davion,Daniel Gafford,CAL,40,69.000,164.000,-0.110,-3.604,0.252,-0.192,0.091,0.219,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM, FT%",,9.944,1.582,6.310,1.665,0.043,0.690,-3.604,True
+Kyshawn,Daniel Gafford,CAL,40,69.000,164.000,-0.455,-0.599,0.256,0.221,0.047,0.056,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM, FT%",,9.944,1.582,6.310,1.665,0.043,0.690,-0.599,True
+Davion + Kyshawn,Julian Champagnie,CAL,58,97.000,141.000,-0.827,1.012,-0.035,0.255,0.136,0.110,"REB, STL, 3PM, FT%, TO","PTS, AST",I add Collin Gillespie; they drop RJ Barrett,10.519,1.445,4.808,0.514,2.569,0.856,-0.827,True
+Davion,Julian Champagnie,CAL,58,97.000,141.000,-0.257,-1.500,-0.255,-0.250,0.031,0.076,"REB, BLK, 3PM, FT%, TO","AST, STL, FG%",,10.519,1.445,4.808,0.514,2.569,0.856,-1.500,True
+Kyshawn,Julian Champagnie,CAL,58,97.000,141.000,-0.572,1.370,-0.126,0.231,0.006,-0.072,"REB, 3PM, FT%, TO","AST, BLK",,10.519,1.445,4.808,0.514,2.569,0.856,-0.572,True
+Davion + Kyshawn,Grayson Allen,CAL,46,74.000,96.000,-2.359,0.642,-0.110,0.264,0.259,0.174,"STL, 3PM, FT%, TO","PTS, AST, BLK",I add Collin Gillespie; they drop RJ Barrett,15.143,3.236,2.891,0.322,3.157,0.879,-2.359,True
+Davion,Grayson Allen,CAL,46,74.000,96.000,-2.141,-2.121,-0.410,-0.264,0.136,0.136,"3PM, FT%, TO","AST, STL, FG%",,15.143,3.236,2.891,0.322,3.157,0.879,-2.141,True
+Kyshawn,Grayson Allen,CAL,46,74.000,96.000,-2.259,1.008,-0.190,0.306,0.107,-0.022,"3PM, FT%, TO","REB, AST, BLK",,15.143,3.236,2.891,0.322,3.157,0.879,-2.259,True
+Davion + Kyshawn,Jalen Brunson,LS,85,92.000,33.000,2.439,6.711,0.447,1.083,-0.074,-0.208,"PTS, STL, FT%, TO","REB, BLK",I add Collin Gillespie; they drop Tristan da Silva,26.263,6.106,3.219,0.192,2.611,0.807,2.439,False
+Davion,Jalen Brunson,LS,85,92.000,33.000,2.566,3.628,0.240,0.433,-0.140,-0.168,"PTS, 3PM, FT%","AST, STL, BLK, FG%",,26.263,6.106,3.219,0.192,2.611,0.807,2.566,False
+Kyshawn,Jalen Brunson,LS,85,92.000,33.000,1.898,6.517,0.292,1.035,-0.199,-0.343,"PTS, AST, 3PM, FT%","REB, STL, BLK",,26.263,6.106,3.219,0.192,2.611,0.807,1.898,False
+Davion + Kyshawn,James Harden,LS,92,131.000,92.000,2.401,2.416,0.414,0.303,-0.030,-0.033,"REB, AST, STL, FT%","BLK, FG%, TO",I add Collin Gillespie; they drop Tristan da Silva,18.671,6.934,4.871,0.533,2.694,0.866,2.401,True
+Davion,James Harden,LS,92,131.000,92.000,2.068,-0.791,0.049,-0.305,-0.113,-0.013,"PTS, REB, BLK, 3PM, FT%","STL, FG%, TO",,18.671,6.934,4.871,0.533,2.694,0.866,-0.791,True
+Kyshawn,James Harden,LS,92,131.000,92.000,2.076,2.902,0.262,0.483,-0.179,-0.196,"PTS, AST, 3PM, FT%","BLK, FG%, TO",,18.671,6.934,4.871,0.533,2.694,0.866,2.076,False
+Davion + Kyshawn,Deni Avdija,LS,128,123.000,86.000,0.358,3.264,0.218,0.605,0.076,-0.066,"PTS, REB, STL","AST, TO",I add Collin Gillespie; they drop Tristan da Silva,23.046,6.479,6.764,0.376,1.795,0.723,0.358,True
+Davion,Deni Avdija,LS,128,123.000,86.000,0.597,-0.055,0.039,-0.016,0.012,-0.021,"PTS, REB","AST, STL, FG%, TO",,23.046,6.479,6.764,0.376,1.795,0.723,-0.055,True
+Kyshawn,Deni Avdija,LS,128,123.000,86.000,0.345,3.417,0.100,0.612,-0.064,-0.206,"PTS, REB, AST, FG%","BLK, TO",,23.046,6.479,6.764,0.376,1.795,0.723,0.345,False
+Davion + Kyshawn,Kyrie Irving,LS,31,22.000,21.000,3.894,5.069,0.942,1.195,-0.062,-0.055,"STL, FT%, TO","AST, BLK",I add Collin Gillespie; they drop Tristan da Silva,23.853,4.598,4.122,0.433,3.056,0.906,3.894,False
+Davion + Kyshawn,Ty Jerome,LS,33,20.000,23.000,6.780,7.350,1.355,1.553,-0.167,-0.167,"PTS, STL, 3PM, FT%, TO","AST, BLK",I add Collin Gillespie; they drop Tristan da Silva,23.959,5.671,3.534,0.218,2.935,0.882,6.780,False
+Davion + Kyshawn,Zach LaVine,LS,36,49.000,63.000,-2.105,1.173,-0.089,0.445,0.089,0.021,"STL, 3PM, FT%, TO","REB, AST, BLK",I add Collin Gillespie; they drop Tristan da Silva,21.079,2.759,3.337,0.289,2.740,0.863,-2.105,True
+Davion,Zach LaVine,LS,36,49.000,63.000,-1.798,-1.869,-0.280,-0.133,0.033,0.063,"PTS, 3PM, FG%, FT%","AST, STL",,21.079,2.759,3.337,0.289,2.740,0.863,-1.869,True
+Kyshawn,Zach LaVine,LS,36,49.000,63.000,-2.415,0.756,-0.264,0.306,0.027,-0.062,"PTS, 3PM, FG%, FT%","REB, AST, STL, BLK",,21.079,2.759,3.337,0.289,2.740,0.863,-2.415,True
+Davion + Kyshawn,Ausar Thompson,LS,153,152.000,67.000,-1.325,2.408,0.104,0.464,0.175,-0.003,"REB, STL, TO","PTS, AST, 3PM, FT%",I add Collin Gillespie; they drop Tristan da Silva,9.823,3.682,6.985,0.797,0.058,0.610,-1.325,True
+Davion,Ausar Thompson,LS,153,152.000,67.000,-1.271,-0.576,-0.211,-0.058,0.131,0.047,"REB, STL, BLK, FG%","PTS, AST, 3PM, FT%",,9.823,3.682,6.985,0.797,0.058,0.610,-1.271,True
+Kyshawn,Ausar Thompson,LS,153,152.000,67.000,-0.782,3.379,0.002,0.590,0.079,-0.109,"REB, STL, FG%","3PM, FT%",,9.823,3.682,6.985,0.797,0.058,0.610,-0.782,True
+Davion + Kyshawn,CJ McCollum,LS,98,156.000,188.000,-1.718,0.751,0.108,0.450,0.133,0.065,"STL, FT%, TO","AST, BLK",I add Collin Gillespie; they drop Tristan da Silva,16.272,3.901,3.099,0.494,2.212,0.791,-1.718,True
+Davion,CJ McCollum,LS,98,156.000,188.000,-1.264,-2.641,-0.000,-0.146,0.073,0.107,"PTS, BLK, 3PM, FT%","AST, STL, FG%",,16.272,3.901,3.099,0.494,2.212,0.791,-2.641,True
+Kyshawn,CJ McCollum,LS,98,156.000,188.000,-1.741,0.662,-0.010,0.387,0.019,-0.057,TO,"REB, BLK",,16.272,3.901,3.099,0.494,2.212,0.791,-1.741,True
+Davion + Kyshawn,Wendell Carter Jr.,LS,42,45.000,57.000,0.231,3.838,0.324,0.833,0.067,-0.097,"REB, STL, FT%, TO","PTS, AST",I add Collin Gillespie; they drop Tristan da Silva,12.252,1.476,8.214,0.710,0.965,0.757,0.231,True
+Davion,Wendell Carter Jr.,LS,42,45.000,57.000,-0.249,0.944,-0.017,0.294,0.031,-0.040,"REB, BLK, FG%, FT%, TO","AST, STL, 3PM",,12.252,1.476,8.214,0.710,0.965,0.757,-0.249,True
+Kyshawn,Wendell Carter Jr.,LS,42,45.000,57.000,0.045,4.329,0.190,0.859,0.012,-0.164,"REB, FG%, TO","AST, 3PM",,12.252,1.476,8.214,0.710,0.965,0.757,0.045,True
+Davion + Kyshawn,Duncan Robinson,LS,35,33.000,118.000,0.012,3.209,0.152,0.558,-0.002,-0.057,"STL, 3PM, FT%, TO","AST, BLK",I add Collin Gillespie; they drop Tristan da Silva,14.943,2.185,2.217,0.218,3.424,0.789,0.012,True
+Davion,Duncan Robinson,LS,35,33.000,118.000,0.143,-0.216,-0.143,-0.001,-0.069,-0.020,"PTS, 3PM, FT%, TO","AST, FG%",,14.943,2.185,2.217,0.218,3.424,0.789,-0.216,True
+Kyshawn,Duncan Robinson,LS,35,33.000,118.000,0.342,3.383,0.062,0.579,-0.076,-0.150,"PTS, 3PM, TO","REB, AST, BLK",,14.943,2.185,2.217,0.218,3.424,0.789,0.342,False
+Davion + Kyshawn,Collin Murray-Boyles,LS,120,130.000,120.000,-2.938,0.696,-0.075,0.359,0.163,0.063,"REB, STL, TO","PTS, AST, 3PM",I add Collin Gillespie; they drop Tristan da Silva,9.660,1.646,5.068,0.793,0.410,0.719,-2.938,True
+Davion,Collin Murray-Boyles,LS,120,130.000,120.000,-2.725,-2.442,-0.359,-0.192,0.118,0.111,"REB, BLK, FG%, TO","PTS, AST, 3PM",,9.660,1.646,5.068,0.793,0.410,0.719,-2.725,True
+Kyshawn,Collin Murray-Boyles,LS,120,130.000,120.000,-2.941,1.199,-0.226,0.456,0.074,-0.051,"FG%, TO","PTS, AST, 3PM, FT%",,9.660,1.646,5.068,0.793,0.410,0.719,-2.941,True
+Davion + Kyshawn,Tristan da Silva,LS,163,151.000,181.000,-2.928,0.214,-0.175,0.198,0.077,0.064,"REB, STL, FT%, TO","PTS, AST, BLK",I add Collin Gillespie; they drop Deni Avdija,11.597,1.563,3.510,0.319,2.334,0.846,-2.928,True
+Davion,Tristan da Silva,LS,163,151.000,181.000,-2.929,-3.115,-0.453,-0.374,0.090,0.092,"REB, 3PM, FT%, TO","AST, STL, FG%",,11.597,1.563,3.510,0.319,2.334,0.846,-3.115,True
+Kyshawn,Tristan da Silva,LS,163,151.000,181.000,-2.861,0.389,-0.314,0.171,0.086,-0.020,"3PM, TO","AST, BLK",,11.597,1.563,3.510,0.319,2.334,0.846,-2.861,True
+Davion + Kyshawn,Donovan Mitchell,76Er,24,34.000,13.000,4.479,6.644,0.657,0.851,-0.057,-0.179,"PTS, REB, STL, 3PM, FT%","AST, BLK",I add Collin Gillespie; they drop Jared McCain,25.119,5.581,4.750,0.370,3.013,0.817,4.479,False
+Davion + Kyshawn,Michael Porter Jr.,76Er,59,61.000,44.000,1.569,4.250,0.435,0.784,0.082,-0.024,"PTS, REB, STL, 3PM, FT%, TO","AST, BLK",I add Collin Gillespie; they drop Jared McCain,22.749,2.112,7.397,0.336,3.416,0.794,1.569,True
+Davion,Michael Porter Jr.,76Er,59,61.000,44.000,2.433,1.211,0.349,0.257,-0.041,-0.047,"PTS, REB, 3PM, FT%","AST, FG%",,22.749,2.112,7.397,0.336,3.416,0.794,1.211,True
+Kyshawn,Michael Porter Jr.,76Er,59,61.000,44.000,2.267,4.180,0.310,0.613,-0.124,-0.233,"PTS, REB, 3PM","AST, BLK",,22.749,2.112,7.397,0.336,3.416,0.794,2.267,False
+Davion + Kyshawn,Desmond Bane,76Er,150,134.000,74.000,1.692,3.558,0.524,0.692,0.130,0.023,"PTS, REB, STL, 3PM, FT%, TO",AST,I add Collin Gillespie; they drop Jared McCain,19.062,3.637,4.352,0.560,2.804,0.869,1.692,True
+Davion,Desmond Bane,76Er,150,134.000,74.000,1.566,0.583,0.192,0.159,-0.018,-0.004,"PTS, REB, BLK, 3PM, FT%","AST, STL, FG%, TO",,19.062,3.637,4.352,0.560,2.804,0.869,0.583,True
+Kyshawn,Desmond Bane,76Er,150,134.000,74.000,2.163,4.327,0.413,0.728,-0.104,-0.203,"PTS, 3PM, FT%",BLK,,19.062,3.637,4.352,0.560,2.804,0.869,2.163,False
+Davion + Kyshawn,VJ Edgecombe,76Er,49,67.000,73.000,1.823,4.089,0.521,0.804,0.042,-0.035,"REB, STL, FT%, TO",AST,I add Collin Gillespie; they drop Jared McCain,14.349,3.607,5.868,0.482,1.867,0.799,1.823,True
+Davion,VJ Edgecombe,76Er,49,67.000,73.000,2.944,1.200,0.436,0.271,-0.082,-0.052,"PTS, REB, STL, BLK, 3PM, FT%","AST, FG%",,14.349,3.607,5.868,0.482,1.867,0.799,1.200,False
+Kyshawn,VJ Edgecombe,76Er,49,67.000,73.000,2.612,4.727,0.402,0.712,-0.165,-0.254,"REB, STL",BLK,,14.349,3.607,5.868,0.482,1.867,0.799,2.612,False
+Davion + Kyshawn,Immanuel Quickley,76Er,105,55.000,52.000,1.009,4.155,0.549,0.868,0.100,-0.021,"STL, 3PM, FT%, TO","PTS, AST, BLK",I add Collin Gillespie; they drop Jared McCain,17.029,5.811,3.807,0.056,2.602,0.837,1.009,True
+Davion,Immanuel Quickley,76Er,105,55.000,52.000,1.711,1.406,0.276,0.286,-0.058,-0.068,"PTS, REB, 3PM, FT%, TO","AST, BLK, FG%",,17.029,5.811,3.807,0.056,2.602,0.837,1.406,False
+Kyshawn,Immanuel Quickley,76Er,105,55.000,52.000,1.259,4.916,0.446,0.943,-0.098,-0.235,"AST, 3PM, FT%, TO","REB, BLK",,17.029,5.811,3.807,0.056,2.602,0.837,1.259,False
+Davion + Kyshawn,Andrew Nembhard,76Er,88,66.000,129.000,-0.658,0.293,0.176,0.232,0.131,0.119,"STL, FT%, TO","PTS, AST, BLK",I add Collin Gillespie; they drop Jared McCain,15.524,7.014,2.575,0.161,1.844,0.840,-0.658,True
+Davion,Andrew Nembhard,76Er,88,66.000,129.000,-0.551,-2.281,-0.192,-0.333,-0.011,0.085,"PTS, FT%","AST, FG%, TO",,15.524,7.014,2.575,0.161,1.844,0.840,-2.281,True
+Kyshawn,Andrew Nembhard,76Er,88,66.000,129.000,-0.950,1.068,0.026,0.287,-0.035,-0.094,"AST, FT%","REB, BLK, 3PM",,15.524,7.014,2.575,0.161,1.844,0.840,-0.950,True
+Davion + Kyshawn,Anthony Black,76Er,90,29.000,112.000,0.062,0.879,0.311,0.368,0.183,0.138,"REB, STL","PTS, AST",I add Collin Gillespie; they drop Jared McCain,15.341,4.155,4.522,0.704,1.659,0.755,0.062,True
+Davion + Kyshawn,Jaime Jaquez Jr.,76Er,127,164.000,153.000,-2.975,0.632,-0.093,0.225,0.302,0.163,"REB, STL, FT%, TO","PTS, AST, BLK",I add Collin Gillespie; they drop Jared McCain,15.007,3.629,5.318,0.195,1.224,0.756,-2.975,True
+Davion,Jaime Jaquez Jr.,76Er,127,164.000,153.000,-2.383,-2.112,-0.430,-0.332,0.147,0.123,"PTS, REB, FT%","AST, STL, 3PM",,15.007,3.629,5.318,0.195,1.224,0.756,-2.383,True
+Kyshawn,Jaime Jaquez Jr.,76Er,127,164.000,153.000,-2.475,1.385,-0.239,0.261,0.088,-0.060,"REB, FG%","BLK, 3PM",,15.007,3.629,5.318,0.195,1.224,0.756,-2.475,True
+Davion + Kyshawn,Isaiah Hartenstein,76Er,89,116.000,161.000,-3.275,-2.208,-0.039,0.031,0.279,0.255,"REB, STL, TO","PTS, AST, 3PM",I add Collin Gillespie; they drop Jared McCain,8.187,3.485,9.753,0.583,0.000,0.664,-3.275,True
+Davion,Isaiah Hartenstein,76Er,89,116.000,161.000,-2.399,-5.055,-0.220,-0.511,0.163,0.233,"REB, BLK, TO","PTS, AST, STL, 3PM",,8.187,3.485,9.753,0.583,0.000,0.664,-5.055,True
+Kyshawn,Isaiah Hartenstein,76Er,89,116.000,161.000,-2.670,-1.611,-0.191,-0.087,0.097,0.038,"REB, FG%, TO","PTS, AST, BLK, 3PM, FT%",,8.187,3.485,9.753,0.583,0.000,0.664,-2.670,True
+Davion + Kyshawn,Moussa Diabate,76Er,70,56.000,97.000,-2.184,0.192,0.192,0.367,0.272,0.171,"REB, STL, TO","PTS, AST, 3PM",I add Collin Gillespie; they drop Jared McCain,8.181,1.881,8.739,0.915,0.003,0.675,-2.184,True
+Davion,Moussa Diabate,76Er,70,56.000,97.000,-1.813,-2.454,-0.142,-0.118,0.175,0.167,"REB, BLK, FG%, TO","PTS, AST, 3PM",,8.181,1.881,8.739,0.915,0.003,0.675,-2.454,True
+Kyshawn,Moussa Diabate,76Er,70,56.000,97.000,-1.445,0.941,0.057,0.376,0.082,-0.044,"REB, FG%, TO","PTS, AST, 3PM, FT%",,8.181,1.881,8.739,0.915,0.003,0.675,-1.445,True
+Davion + Kyshawn,Jared McCain,76Er,134,171.000,187.000,-6.053,-1.642,-0.523,0.062,0.354,0.236,"STL, FT%, TO","PTS, AST, BLK",I add Collin Gillespie; they drop Klay Thompson,12.458,1.840,3.038,0.178,2.220,0.861,-6.053,True
+Davion,Jared McCain,76Er,134,171.000,187.000,-5.202,-4.291,-0.694,-0.467,0.226,0.198,"3PM, FT%, TO","AST, STL, FG%",,12.458,1.840,3.038,0.178,2.220,0.861,-5.202,True
+Kyshawn,Jared McCain,76Er,134,171.000,187.000,-5.741,-1.540,-0.677,-0.104,0.176,0.027,"FT%, TO","REB, AST, BLK",,12.458,1.840,3.038,0.178,2.220,0.861,-5.741,True
+Davion + Kyshawn,Klay Thompson,76Er,80,117.000,222.000,-6.149,-2.807,-0.520,-0.093,0.352,0.240,"STL, 3PM, FT%, TO","PTS, REB, AST, BLK, FG%",I add Collin Gillespie; they drop Jared McCain,13.201,1.673,1.892,0.508,3.367,0.825,-6.149,True
+Davion,Klay Thompson,76Er,80,117.000,222.000,-4.992,-5.578,-0.663,-0.610,0.206,0.247,"BLK, 3PM, FT%, TO","AST, STL, FG%",,13.201,1.673,1.892,0.508,3.367,0.825,-5.578,True
+Kyshawn,Klay Thompson,76Er,80,117.000,222.000,-5.677,-3.050,-0.658,-0.262,0.131,0.051,"3PM, TO","REB, AST, STL, BLK",,13.201,1.673,1.892,0.508,3.367,0.825,-5.677,True
+Davion + Kyshawn,Devin Booker,NYX2,21,23.000,31.000,7.355,8.730,1.470,1.593,-0.080,-0.053,"PTS, STL, FT%",BLK,I add Collin Gillespie; they drop Jonathan Kuminga,25.755,5.689,3.445,0.298,2.048,0.909,7.355,False
+Davion + Kyshawn,Trae Young,NYX2,63,85.000,29.000,3.036,8.049,0.595,1.115,0.048,-0.115,"PTS, AST, STL, 3PM, FT%","BLK, FG%, TO",I add Collin Gillespie; they drop Jonathan Kuminga,20.688,9.518,2.900,0.183,2.312,0.836,3.036,True
+Davion,Trae Young,NYX2,63,85.000,29.000,2.681,4.694,0.230,0.485,-0.086,-0.172,"PTS, AST, 3PM, FT%","FG%, TO",,20.688,9.518,2.900,0.183,2.312,0.836,2.681,False
+Kyshawn,Trae Young,NYX2,63,85.000,29.000,2.391,7.853,0.436,1.168,-0.106,-0.293,"PTS, AST, 3PM, FT%","REB, BLK, TO",,20.688,9.518,2.900,0.183,2.312,0.836,2.391,False
+Davion + Kyshawn,De'Aaron Fox,NYX2,39,58.000,72.000,1.396,2.796,0.400,0.488,0.087,0.059,"REB, STL, FT%, TO","AST, BLK",I add Collin Gillespie; they drop Jonathan Kuminga,16.984,5.871,4.122,0.409,1.488,0.793,1.396,True
+Davion,De'Aaron Fox,NYX2,39,58.000,72.000,1.736,0.213,0.044,-0.067,-0.051,0.002,"PTS, REB, FT%","AST, TO",,16.984,5.871,4.122,0.409,1.488,0.793,0.213,True
+Kyshawn,De'Aaron Fox,NYX2,39,58.000,72.000,1.898,3.793,0.268,0.564,-0.119,-0.183,"PTS, AST, STL, FG%","REB, BLK, 3PM",,16.984,5.871,4.122,0.409,1.488,0.793,1.898,False
+Davion + Kyshawn,Dylan Harper,NYX2,43,62.000,80.000,-0.339,2.725,0.188,0.491,0.161,0.067,"REB, STL, FT%, TO",AST,I add Collin Gillespie; they drop Jonathan Kuminga,15.789,4.457,4.651,0.273,1.089,0.805,-0.339,True
+Davion,Dylan Harper,NYX2,43,62.000,80.000,-0.130,0.136,-0.191,-0.049,0.028,0.010,"PTS, REB, FT%","AST, STL, 3PM",,15.789,4.457,4.651,0.273,1.089,0.805,-0.130,True
+Kyshawn,Dylan Harper,NYX2,43,62.000,80.000,0.218,3.734,0.036,0.550,-0.052,-0.176,FG%,"BLK, 3PM",,15.789,4.457,4.651,0.273,1.089,0.805,0.218,False
+Davion + Kyshawn,Josh Hart,NYX2,166,99.000,83.000,-1.626,0.175,0.044,0.288,0.177,0.144,"REB, STL, TO","PTS, AST, BLK",I add Collin Gillespie; they drop Jonathan Kuminga,10.815,4.529,7.465,0.282,1.613,0.719,-1.626,True
+Davion,Josh Hart,NYX2,166,99.000,83.000,-0.872,-2.439,-0.144,-0.260,0.032,0.076,"REB, TO","PTS, AST, 3PM",,10.815,4.529,7.465,0.282,1.613,0.719,-2.439,True
+Kyshawn,Josh Hart,NYX2,166,99.000,83.000,-1.032,0.809,-0.091,0.181,-0.034,-0.096,"REB, STL, FG%, TO","PTS, BLK, 3PM, FT%",,10.815,4.529,7.465,0.282,1.613,0.719,-1.032,True
+Davion + Kyshawn,Darryn Peterson,NYX2,51,79.000,176.000,-1.948,-0.337,0.031,0.270,0.208,0.193,"STL, FT%, TO",AST,I add Collin Gillespie; they drop Jonathan Kuminga,17.663,3.328,3.893,0.505,1.479,0.837,-1.948,True
+Davion,Darryn Peterson,NYX2,51,79.000,176.000,-0.987,-3.284,-0.069,-0.258,0.082,0.142,"PTS, BLK, FT%","AST, FG%",,17.663,3.328,3.893,0.505,1.479,0.837,-3.284,True
+Kyshawn,Darryn Peterson,NYX2,51,79.000,176.000,-1.258,-0.049,-0.102,0.113,0.016,-0.023,"PTS, FT%","REB, AST, BLK",,17.663,3.328,3.893,0.505,1.479,0.837,-1.258,True
+Davion + Kyshawn,Jonathan Kuminga,NYX2,141,142.000,233.000,-5.231,-2.400,-0.380,-0.082,0.246,0.287,"REB, STL, TO","PTS, AST, FT%",I add Collin Gillespie; they drop AJ Dybantsa,13.180,2.602,5.683,0.582,1.420,0.645,-5.231,True
+Davion,Jonathan Kuminga,NYX2,141,142.000,233.000,-4.786,-5.157,-0.679,-0.608,0.207,0.232,"REB, BLK, TO","AST, STL, 3PM, FG%, FT%",,13.180,2.602,5.683,0.582,1.420,0.645,-5.157,True
+Kyshawn,Jonathan Kuminga,NYX2,141,142.000,233.000,-4.376,-1.501,-0.506,-0.096,0.143,0.073,"REB, TO","AST, BLK, 3PM, FT%",,13.180,2.602,5.683,0.582,1.420,0.645,-4.376,True
+Davion + Kyshawn,Ace Bailey,NYX2,68,107.000,130.000,-2.724,0.241,-0.071,0.359,0.232,0.149,"REB, STL, FT%, TO","PTS, AST",I add Collin Gillespie; they drop Jonathan Kuminga,13.630,1.888,5.354,0.925,1.701,0.749,-2.724,True
+Davion,Ace Bailey,NYX2,68,107.000,130.000,-1.973,-2.650,-0.176,-0.154,0.119,0.101,"PTS, REB, BLK, FT%, TO","AST, STL, FG%",,13.630,1.888,5.354,0.925,1.701,0.749,-2.650,True
+Kyshawn,Ace Bailey,NYX2,68,107.000,130.000,-1.949,0.475,-0.221,0.171,0.055,-0.045,TO,"AST, BLK",,13.630,1.888,5.354,0.925,1.701,0.749,-1.949,True
+Davion + Kyshawn,Jakob Poeltl,NYX2,144,126.000,155.000,-2.152,-1.224,0.187,0.208,0.238,0.239,"REB, STL, FG%, TO","PTS, AST, 3PM, FT%",I add Collin Gillespie; they drop Jonathan Kuminga,10.309,1.847,7.357,0.915,0.000,0.607,-2.152,True
+Davion,Jakob Poeltl,NYX2,144,126.000,155.000,-1.854,-3.813,-0.116,-0.297,0.107,0.186,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",,10.309,1.847,7.357,0.915,0.000,0.607,-3.813,True
+Kyshawn,Jakob Poeltl,NYX2,144,126.000,155.000,-1.787,-0.458,0.033,0.194,0.033,0.015,"REB, FG%, TO","PTS, AST, BLK, 3PM, FT%",,10.309,1.847,7.357,0.915,0.000,0.607,-1.787,True
+Davion + Kyshawn,Matisse Thybulle,NYX2,52,112.000,193.000,-7.578,-4.856,-0.842,-0.450,0.358,0.333,"STL, FT%, TO","PTS, REB, AST, BLK",I add Collin Gillespie; they drop Jonathan Kuminga,6.421,1.093,1.854,0.703,1.457,0.814,-7.578,True
+Davion,Matisse Thybulle,NYX2,52,112.000,193.000,-6.385,-7.433,-0.894,-0.916,0.228,0.288,"STL, BLK, FT%, TO","PTS, REB, AST, 3PM, FG%",,6.421,1.093,1.854,0.703,1.457,0.814,-7.433,True
+Kyshawn,Matisse Thybulle,NYX2,52,112.000,193.000,-6.932,-4.502,-1.009,-0.606,0.189,0.138,"STL, TO","PTS, REB, AST, BLK, 3PM",,6.421,1.093,1.854,0.703,1.457,0.814,-6.932,True
+Davion + Kyshawn,Alperen Sengun,NYK,29,19.000,39.000,5.686,6.279,0.956,0.953,-0.189,-0.173,"PTS, REB, STL","3PM, FT%",I add Collin Gillespie; they drop Dillon Brooks,20.663,6.698,9.163,1.063,0.713,0.714,5.686,False
+Davion + Kyshawn,Jalen Johnson,NYK,61,39.000,38.000,7.183,7.559,1.537,1.478,-0.195,-0.190,"PTS, REB, AST, STL, FT%",TO,I add Collin Gillespie; they drop Dillon Brooks,21.265,7.602,9.649,0.508,1.338,0.802,7.183,False
+Davion,Jalen Johnson,NYK,61,39.000,38.000,7.700,3.983,1.417,0.869,-0.273,-0.186,"PTS, REB, AST, BLK, FT%","3PM, FG%, TO",,21.265,7.602,9.649,0.508,1.338,0.802,3.983,False
+Kyshawn,Jalen Johnson,NYK,61,39.000,38.000,7.422,7.974,1.473,1.557,-0.255,-0.299,"PTS, REB, AST, STL","BLK, 3PM, TO",,21.265,7.602,9.649,0.508,1.338,0.802,7.422,False
+Davion + Kyshawn,LeBron James,NYK,99,105.000,114.000,2.339,3.748,0.509,0.579,0.006,0.035,"REB, STL",,I add Collin Gillespie; they drop Dillon Brooks,18.319,6.816,6.657,0.609,1.221,0.728,2.339,True
+Davion,LeBron James,NYK,99,105.000,114.000,3.165,0.310,0.390,0.009,-0.050,0.053,"PTS, REB, BLK","3PM, FG%, FT%, TO",,18.319,6.816,6.657,0.609,1.221,0.728,0.310,True
+Kyshawn,LeBron James,NYK,99,105.000,114.000,2.625,4.172,0.413,0.634,-0.022,-0.055,"PTS, REB, AST, STL, FG%","BLK, 3PM, FT%",,18.319,6.816,6.657,0.609,1.221,0.728,2.625,True
+Davion + Kyshawn,Pascal Siakam,NYK,73,77.000,49.000,2.658,6.093,0.681,1.006,-0.119,-0.225,"PTS, REB, STL, TO","AST, FT%",I add Collin Gillespie; they drop Dillon Brooks,22.778,4.094,6.925,0.297,1.651,0.692,2.658,False
+Davion,Pascal Siakam,NYK,73,77.000,49.000,2.343,3.144,0.324,0.520,-0.158,-0.214,"PTS, REB, FG%","AST, FT%",,22.778,4.094,6.925,0.297,1.651,0.692,2.343,False
+Kyshawn,Pascal Siakam,NYK,73,77.000,49.000,2.590,6.569,0.552,1.124,-0.106,-0.269,"PTS, REB, FG%","BLK, FT%",,22.778,4.094,6.925,0.297,1.651,0.692,2.590,False
+Davion + Kyshawn,Amen Thompson,NYK,60,102.000,61.000,3.100,4.605,0.548,0.696,-0.150,-0.140,"REB, STL, FT%, TO","AST, 3PM",I add Collin Gillespie; they drop Dillon Brooks,16.485,4.142,7.251,0.608,0.249,0.779,3.100,False
+Davion,Amen Thompson,NYK,60,102.000,61.000,3.804,2.000,0.364,0.229,-0.191,-0.143,"PTS, REB, STL, BLK, FG%, FT%","AST, 3PM",,16.485,4.142,7.251,0.608,0.249,0.779,2.000,False
+Kyshawn,Amen Thompson,NYK,60,102.000,61.000,2.989,4.645,0.379,0.660,-0.123,-0.188,"PTS, REB, STL, FG%","BLK, 3PM",,16.485,4.142,7.251,0.608,0.249,0.779,2.989,False
+Davion + Kyshawn,Cameron Boozer,NYK,75,73.000,59.000,2.025,4.880,0.887,1.180,-0.035,-0.087,"PTS, REB, STL, FT%",AST,I add Collin Gillespie; they drop Dillon Brooks,17.462,4.189,8.720,0.712,1.000,0.851,2.025,True
+Davion,Cameron Boozer,NYK,75,73.000,59.000,2.522,1.960,0.731,0.652,-0.082,-0.081,"PTS, REB, BLK, FT%","AST, 3PM, TO",,17.462,4.189,8.720,0.712,1.000,0.851,1.960,False
+Kyshawn,Cameron Boozer,NYK,75,73.000,59.000,2.169,5.020,0.766,1.148,-0.030,-0.135,"PTS, REB, FT%","BLK, 3PM, TO",,17.462,4.189,8.720,0.712,1.000,0.851,2.169,True
+Davion + Kyshawn,Fred VanVleet,NYK,103,84.000,94.000,-0.897,1.734,-0.119,0.152,0.008,0.009,"STL, FT%, TO","PTS, AST, BLK, FG%",I add Collin Gillespie; they drop Dillon Brooks,13.650,5.810,3.322,0.381,2.644,0.837,-0.897,True
+Davion,Fred VanVleet,NYK,103,84.000,94.000,0.394,-0.971,-0.237,-0.364,-0.048,0.007,"STL, 3PM, FT%, TO","AST, FG%",,13.650,5.810,3.322,0.381,2.644,0.837,-0.971,True
+Kyshawn,Fred VanVleet,NYK,103,84.000,94.000,-0.674,1.873,-0.203,0.153,-0.028,-0.103,"AST, STL, 3PM, FT%, TO","PTS, REB, BLK, FG%",,13.650,5.810,3.322,0.381,2.644,0.837,-0.674,True
+Davion + Kyshawn,Derik Queen,NYK,82,124.000,110.000,0.626,2.745,0.440,0.521,0.001,-0.021,"REB, STL, FT%","PTS, AST, 3PM",I add Collin Gillespie; they drop Dillon Brooks,12.341,3.204,7.093,0.895,0.313,0.823,0.626,True
+Davion,Derik Queen,NYK,82,124.000,110.000,0.717,-0.364,0.082,0.006,-0.057,-0.025,"PTS, REB, BLK, FT%","AST, 3PM, FG%, TO",,12.341,3.204,7.093,0.895,0.313,0.823,-0.364,True
+Kyshawn,Derik Queen,NYK,82,124.000,110.000,0.792,3.492,0.287,0.670,0.017,-0.075,"REB, STL, FG%",3PM,,12.341,3.204,7.093,0.895,0.313,0.823,0.792,True
+Davion + Kyshawn,Dillon Brooks,NYK,159,177.000,172.000,-2.870,1.428,-0.046,0.483,0.039,0.003,"REB, STL, 3PM, FT%, TO","AST, BLK",I add Collin Gillespie; they drop Aaron Gordon,17.260,1.941,3.740,0.192,2.103,0.808,-2.870,True
+Davion,Dillon Brooks,NYK,159,177.000,172.000,-1.825,-1.439,-0.136,0.024,0.017,0.009,"PTS, REB, 3PM, FT%, TO","AST, STL, FG%",,17.260,1.941,3.740,0.192,2.103,0.808,-1.825,True
+Kyshawn,Dillon Brooks,NYK,159,177.000,172.000,-2.994,0.796,-0.203,0.347,0.084,-0.030,"PTS, 3PM, TO","REB, AST, BLK",,17.260,1.941,3.740,0.192,2.103,0.808,-2.994,True
+Davion + Kyshawn,Saddiq Bey,NYK,54,94.000,100.000,-0.187,3.132,0.216,0.511,-0.022,-0.065,"REB, STL, FT%, TO","AST, BLK",I add Collin Gillespie; they drop Dillon Brooks,15.687,2.315,4.433,0.138,1.815,0.866,-0.187,True
+Davion,Saddiq Bey,NYK,54,94.000,100.000,0.294,0.392,-0.100,0.060,-0.080,-0.077,"PTS, REB, 3PM, FT%, TO","AST, STL, BLK, FG%",,15.687,2.315,4.433,0.138,1.815,0.866,0.294,False
+Kyshawn,Saddiq Bey,NYK,54,94.000,100.000,-0.217,3.361,0.047,0.600,0.003,-0.109,"FT%, TO","AST, BLK",,15.687,2.315,4.433,0.138,1.815,0.866,-0.217,True
+Davion + Kyshawn,Jaylen Brown,SS,48,64.000,71.000,3.382,4.701,0.699,0.905,-0.008,0.025,"PTS, REB, STL",AST,I add Collin Gillespie; they drop Jalen Green,23.742,4.241,6.424,0.420,1.915,0.746,3.382,True
+Davion,Jaylen Brown,SS,48,64.000,71.000,3.999,1.753,0.575,0.369,-0.172,-0.089,"PTS, REB, BLK, 3PM","AST, TO",,23.742,4.241,6.424,0.420,1.915,0.746,1.753,False
+Kyshawn,Jaylen Brown,SS,48,64.000,71.000,3.733,5.092,0.580,0.778,-0.172,-0.225,"PTS, REB, STL, FG%","BLK, FT%, TO",,23.742,4.241,6.424,0.420,1.915,0.746,3.733,False
+Davion + Kyshawn,Domantas Sabonis,SS,45,48.000,28.000,2.721,3.581,0.815,0.883,-0.030,-0.027,"REB, STL, FG%","PTS, AST, BLK, 3PM, FT%",I add Collin Gillespie; they drop Jalen Green,16.198,6.036,13.168,0.283,0.372,0.717,2.721,True
+Davion,Domantas Sabonis,SS,45,48.000,28.000,2.794,0.619,0.558,0.309,-0.187,-0.143,"PTS, REB, FG%","AST, STL, 3PM, TO",,16.198,6.036,13.168,0.283,0.372,0.717,0.619,False
+Kyshawn,Domantas Sabonis,SS,45,48.000,28.000,2.826,4.171,0.667,0.800,-0.183,-0.279,"REB, AST, FG%","BLK, 3PM, FT%, TO",,16.198,6.036,13.168,0.283,0.372,0.717,2.826,False
+Davion + Kyshawn,Stephon Castle,SS,121,147.000,197.000,-0.698,0.398,0.145,0.181,0.149,0.196,"REB, STL","AST, BLK",I add Collin Gillespie; they drop Jalen Green,15.975,6.397,5.773,0.284,1.618,0.729,-0.698,True
+Davion,Stephon Castle,SS,121,147.000,197.000,-0.489,-2.383,-0.208,-0.396,0.003,0.082,"PTS, REB","AST, FG%, TO",,15.975,6.397,5.773,0.284,1.618,0.729,-2.383,True
+Kyshawn,Stephon Castle,SS,121,147.000,197.000,-0.741,0.979,0.021,0.250,0.007,-0.039,"PTS, REB, AST, STL","BLK, 3PM, FT%",,15.975,6.397,5.773,0.284,1.618,0.729,-0.741,True
+Davion + Kyshawn,Tyler Herro,SS,64,71.000,32.000,1.319,4.344,0.415,0.726,0.097,0.023,"PTS, REB, STL, 3PM, FT%, TO","AST, BLK",I add Collin Gillespie; they drop Jalen Green,21.629,4.407,4.814,0.221,2.921,0.855,1.319,True
+Davion,Tyler Herro,SS,64,71.000,32.000,1.452,1.645,0.046,0.159,-0.055,-0.081,"PTS, REB, 3PM, FT%","AST, STL, FG%",,21.629,4.407,4.814,0.221,2.921,0.855,1.452,False
+Kyshawn,Tyler Herro,SS,64,71.000,32.000,1.263,4.678,0.285,0.756,-0.071,-0.224,"PTS, 3PM, FT%",BLK,,21.629,4.407,4.814,0.221,2.921,0.855,1.263,False
+Davion + Kyshawn,Jaden McDaniels,SS,30,44.000,47.000,2.048,3.493,0.425,0.601,0.024,0.014,"REB, STL, FT%, TO",AST,I add Collin Gillespie; they drop Jalen Green,15.667,3.091,5.222,0.913,1.422,0.826,2.048,True
+Davion,Jaden McDaniels,SS,30,44.000,47.000,2.116,0.765,0.068,0.096,-0.112,-0.083,"PTS, REB, BLK, FG%, FT%",AST,,15.667,3.091,5.222,0.913,1.422,0.826,0.765,False
+Kyshawn,Jaden McDaniels,SS,30,44.000,47.000,2.351,4.413,0.283,0.619,-0.128,-0.242,"PTS, REB, FG%, FT%","AST, 3PM",,15.667,3.091,5.222,0.913,1.422,0.826,2.351,False
+Davion + Kyshawn,Jarrett Allen,SS,71,59.000,42.000,0.398,0.900,0.201,0.279,0.106,0.160,"REB, STL, FG%, TO","PTS, AST, 3PM, FT%",I add Collin Gillespie; they drop Jalen Green,14.538,1.685,8.657,1.154,0.147,0.703,0.398,True
+Davion,Jarrett Allen,SS,71,59.000,42.000,0.028,-1.608,-0.170,-0.192,-0.045,0.035,"REB, BLK, FG%, TO","AST, STL, 3PM, FT%",,14.538,1.685,8.657,1.154,0.147,0.703,-1.608,True
+Kyshawn,Jarrett Allen,SS,71,59.000,42.000,0.880,1.965,0.037,0.271,-0.043,-0.118,"REB, FG%, TO","AST, 3PM, FT%",,14.538,1.685,8.657,1.154,0.147,0.703,0.880,True
+Davion + Kyshawn,Cedric Coward,SS,78,53.000,95.000,0.227,2.510,0.525,0.858,0.146,0.141,"REB, STL, FT%, TO","PTS, AST",I add Collin Gillespie; they drop Jalen Green,13.756,2.754,7.192,0.369,1.972,0.834,0.227,True
+Davion,Cedric Coward,SS,78,53.000,95.000,1.045,-0.420,0.416,0.305,0.008,0.035,"PTS, REB, FT%, TO","AST, FG%",,13.756,2.754,7.192,0.369,1.972,0.834,-0.420,True
+Kyshawn,Cedric Coward,SS,78,53.000,95.000,0.828,2.888,0.397,0.726,-0.006,-0.119,"REB, FG%, FT%","AST, BLK",,13.756,2.754,7.192,0.369,1.972,0.834,0.828,True
+Davion + Kyshawn,Peyton Watson,SS,161,155.000,128.000,-3.015,-0.839,-0.226,0.031,0.265,0.250,"REB, STL, TO","PTS, AST",I add Collin Gillespie; they drop Jalen Green,13.127,2.332,4.784,1.322,1.216,0.722,-3.015,True
+Davion,Peyton Watson,SS,161,155.000,128.000,-3.064,-3.653,-0.559,-0.456,0.111,0.133,"REB, BLK, TO","AST, STL, 3PM",,13.127,2.332,4.784,1.322,1.216,0.722,-3.653,True
+Kyshawn,Peyton Watson,SS,161,155.000,128.000,-2.570,0.072,-0.369,0.013,0.103,-0.026,"BLK, TO","AST, 3PM, FT%",,13.127,2.332,4.784,1.322,1.216,0.722,-2.570,True
+Davion + Kyshawn,Aaron Wiggins,SS,57,110.000,150.000,-3.761,-0.551,-0.162,0.315,0.282,0.269,"REB, STL, FT%, TO","PTS, AST, BLK",I add Collin Gillespie; they drop Jalen Green,12.380,1.994,3.437,0.311,2.225,0.761,-3.761,True
+Davion,Aaron Wiggins,SS,57,110.000,150.000,-3.020,-3.291,-0.285,-0.180,0.132,0.149,"REB, FT%, TO","AST, FG%",,12.380,1.994,3.437,0.311,2.225,0.761,-3.291,True
+Kyshawn,Aaron Wiggins,SS,57,110.000,150.000,-3.347,-0.254,-0.291,0.163,0.118,-0.010,TO,"REB, AST, BLK",,12.380,1.994,3.437,0.311,2.225,0.761,-3.347,True
+Davion + Kyshawn,Kyle Kuzma,SS,123,153.000,259.000,-4.913,-3.206,-0.374,-0.228,0.375,0.316,"REB, STL, TO","PTS, AST, BLK",I add Collin Gillespie; they drop Jalen Green,12.050,2.676,5.127,0.339,1.416,0.695,-4.913,True
+Davion,Kyle Kuzma,SS,123,153.000,259.000,-4.389,-6.042,-0.689,-0.766,0.217,0.285,"REB, TO","AST, STL, FG%",,12.050,2.676,5.127,0.339,1.416,0.695,-6.042,True
+Kyshawn,Kyle Kuzma,SS,123,153.000,259.000,-4.537,-2.647,-0.521,-0.259,0.214,0.137,"FG%, TO","AST, BLK, FT%",,12.050,2.676,5.127,0.339,1.416,0.695,-4.537,True
+Davion + Kyshawn,De'Anthony Melton,SS,91,115.000,194.000,-6.107,-3.883,-0.414,-0.120,0.338,0.369,"STL, FT%, TO","PTS, AST, BLK",I add Collin Gillespie; they drop Jalen Green,11.151,2.390,3.718,0.384,1.817,0.824,-6.107,True
+Davion,De'Anthony Melton,SS,91,115.000,194.000,-5.156,-6.523,-0.549,-0.616,0.185,0.249,"FT%, TO","PTS, AST, 3PM, FG%",,11.151,2.390,3.718,0.384,1.817,0.824,-6.523,True
+Kyshawn,De'Anthony Melton,SS,91,115.000,194.000,-5.615,-3.439,-0.547,-0.244,0.178,0.103,TO,"PTS, REB, AST, BLK, 3PM",,11.151,2.390,3.718,0.384,1.817,0.824,-5.615,True
+Davion + Kyshawn,LaMelo Ball,BCn,50,75.000,48.000,3.118,4.997,0.589,0.678,-0.010,-0.070,"PTS, REB, STL, 3PM, FT%","BLK, FG%, TO",I add Collin Gillespie; they drop P.J. Washington,20.404,6.956,4.325,0.188,3.764,0.860,3.118,True
+Davion,LaMelo Ball,BCn,50,75.000,48.000,3.485,2.024,0.293,0.090,-0.153,-0.084,"PTS, REB, 3PM, FT%","FG%, TO",,20.404,6.956,4.325,0.188,3.764,0.860,2.024,False
+Kyshawn,LaMelo Ball,BCn,50,75.000,48.000,3.295,5.487,0.529,0.732,-0.167,-0.226,"PTS, AST, STL, 3PM, FT%","REB, BLK, TO",,20.404,6.956,4.325,0.188,3.764,0.860,3.295,False
+Davion + Kyshawn,Darius Garland,BCn,145,169.000,91.000,-0.176,2.810,0.328,0.623,0.160,0.039,"PTS, STL, 3PM, FT%","REB, BLK, TO",I add Collin Gillespie; they drop P.J. Washington,20.446,7.019,2.319,0.105,2.641,0.845,-0.176,True
+Davion,Darius Garland,BCn,145,169.000,91.000,-0.071,-0.191,-0.013,0.013,0.025,0.024,"PTS, 3PM, FT%","STL, FG%, TO",,20.446,7.019,2.319,0.105,2.641,0.845,-0.191,True
+Kyshawn,Darius Garland,BCn,145,169.000,91.000,-0.253,3.345,0.237,0.671,0.009,-0.115,"PTS, AST, 3PM, FT%","REB, BLK, TO",,20.446,7.019,2.319,0.105,2.641,0.845,-0.253,True
+Davion + Kyshawn,Naz Reid,BCn,138,160.000,51.000,1.204,5.810,0.519,0.950,0.090,-0.079,"PTS, REB, STL, 3PM, TO",AST,I add Collin Gillespie; they drop P.J. Washington,16.333,2.276,7.695,0.804,2.416,0.707,1.204,True
+Davion,Naz Reid,BCn,138,160.000,51.000,1.432,2.860,0.240,0.439,-0.042,-0.110,"PTS, REB, BLK, 3PM","AST, STL, FG%",,16.333,2.276,7.695,0.804,2.416,0.707,1.432,True
+Kyshawn,Naz Reid,BCn,138,160.000,51.000,1.685,6.423,0.467,0.990,-0.031,-0.241,"PTS, REB, 3PM",AST,,16.333,2.276,7.695,0.804,2.416,0.707,1.685,True
+Davion + Kyshawn,Darius Acuff Jr.,BCn,44,57.000,160.000,0.971,2.339,0.347,0.527,0.103,0.078,"PTS, STL, FT%","AST, BLK",I add Collin Gillespie; they drop P.J. Washington,21.341,6.559,3.549,0.201,1.929,0.844,0.971,True
+Davion,Darius Acuff Jr.,BCn,44,57.000,160.000,1.720,-0.349,0.227,-0.060,-0.045,0.056,"PTS, FT%","AST, FG%",,21.341,6.559,3.549,0.201,1.929,0.844,-0.349,True
+Kyshawn,Darius Acuff Jr.,BCn,44,57.000,160.000,0.748,2.414,0.262,0.388,-0.051,-0.083,"PTS, AST, FT%","REB, BLK",,21.341,6.559,3.549,0.201,1.929,0.844,0.748,False
+Davion + Kyshawn,Keyonte George,BCn,104,113.000,99.000,0.690,2.455,0.329,0.561,0.082,0.042,"PTS, REB, STL, FT%","AST, BLK, TO",I add Collin Gillespie; they drop P.J. Washington,22.029,6.248,3.971,0.215,2.192,0.835,0.690,True
+Davion,Keyonte George,BCn,104,113.000,99.000,1.633,-0.461,0.215,-0.039,-0.076,-0.014,"PTS, REB, 3PM, FT%","AST, STL, FG%, TO",,22.029,6.248,3.971,0.215,2.192,0.835,-0.461,True
+Kyshawn,Keyonte George,BCn,104,113.000,99.000,0.901,2.521,0.226,0.432,-0.049,-0.112,"PTS, AST, FT%","REB, BLK, TO",,22.029,6.248,3.971,0.215,2.192,0.835,0.901,True
+Davion + Kyshawn,Brandon Miller,BCn,116,83.000,77.000,0.890,2.886,0.403,0.539,0.100,0.045,"PTS, REB, STL, 3PM, FT%","AST, FG%",I add Collin Gillespie; they drop P.J. Washington,21.056,2.941,5.110,0.697,3.057,0.880,0.890,True
+Davion,Brandon Miller,BCn,116,83.000,77.000,1.486,0.078,0.166,0.038,-0.073,-0.006,"PTS, REB, BLK, 3PM, FT%","AST, FG%, TO",,21.056,2.941,5.110,0.697,3.057,0.880,0.078,True
+Kyshawn,Brandon Miller,BCn,116,83.000,77.000,1.240,3.121,0.306,0.536,-0.033,-0.105,"PTS, 3PM, FT%","AST, BLK, FG%",,21.056,2.941,5.110,0.697,3.057,0.880,1.240,True
+Davion + Kyshawn,Onyeka Okongwu,BCn,26,50.000,50.000,2.194,3.941,0.720,0.962,0.045,-0.030,"REB, STL, TO","PTS, AST",I add Collin Gillespie; they drop P.J. Washington,14.356,2.941,7.902,0.889,1.664,0.749,2.194,True
+Davion + Kyshawn,Miles Bridges,BCn,32,31.000,89.000,4.343,5.420,0.947,1.014,0.011,-0.020,"PTS, REB, STL, 3PM, FT%, TO",AST,I add Collin Gillespie; they drop P.J. Washington,16.806,3.217,6.833,0.626,1.970,0.840,4.343,True
+Davion,Miles Bridges,BCn,32,31.000,89.000,5.489,1.963,0.927,0.450,-0.142,-0.032,"PTS, REB, BLK, 3PM, FT%, TO","AST, STL, FG%",,16.806,3.217,6.833,0.626,1.970,0.840,1.963,True
+Kyshawn,Miles Bridges,BCn,32,31.000,89.000,5.095,5.382,0.873,0.884,-0.142,-0.179,"PTS, REB, 3PM, FT%, TO",BLK,,16.806,3.217,6.833,0.626,1.970,0.840,5.095,False
+Davion + Kyshawn,John Collins,BCn,111,128.000,138.000,-0.676,0.655,0.144,0.214,0.205,0.086,"REB, STL, TO","PTS, AST",I add Collin Gillespie; they drop P.J. Washington,13.177,1.009,6.455,0.909,1.208,0.770,-0.676,True
+Davion,John Collins,BCn,111,128.000,138.000,-0.816,-2.989,-0.157,-0.291,0.084,0.162,"REB, BLK, FT%, TO","AST, STL, 3PM",,13.177,1.009,6.455,0.909,1.208,0.770,-2.989,True
+Kyshawn,John Collins,BCn,111,128.000,138.000,-0.631,0.516,-0.020,0.177,0.098,0.033,"REB, FG%, TO","AST, 3PM",,13.177,1.009,6.455,0.909,1.208,0.770,-0.631,True
+Davion + Kyshawn,P.J. Washington,BCn,96,119.000,146.000,-2.966,0.020,0.025,0.424,0.206,0.205,"REB, STL, TO","PTS, AST, FT%",I add Collin Gillespie; they drop Neemias Queta,14.084,1.464,7.141,1.015,1.829,0.703,-2.966,True
+Davion,P.J. Washington,BCn,96,119.000,146.000,-2.329,-3.168,-0.037,-0.078,0.142,0.190,"REB, BLK, TO","AST, STL, FG%, FT%",,14.084,1.464,7.141,1.015,1.829,0.703,-3.168,True
+Kyshawn,P.J. Washington,BCn,96,119.000,146.000,-2.713,-0.017,-0.081,0.293,0.155,0.067,"REB, TO","AST, 3PM, FT%",,14.084,1.464,7.141,1.015,1.829,0.703,-2.713,True
+Davion + Kyshawn,Neemias Queta,BCn,147,187.000,60.000,-1.544,2.068,0.084,0.560,0.211,0.071,"REB, STL, BLK, FG%, TO","PTS, AST, 3PM",I add Collin Gillespie; they drop P.J. Washington,9.400,1.642,7.112,1.214,0.094,0.674,-1.544,True
+Davion,Neemias Queta,BCn,147,187.000,60.000,-1.672,-0.755,-0.222,0.071,0.110,0.052,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",,9.400,1.642,7.112,1.214,0.094,0.674,-1.672,True
+Kyshawn,Neemias Queta,BCn,147,187.000,60.000,-1.675,2.355,-0.067,0.558,0.107,-0.085,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM, FT%",,9.400,1.642,7.112,1.214,0.094,0.674,-1.675,True
+Davion + Kyshawn,Tari Eason,BCn,55,95.000,127.000,-4.416,-1.561,-0.519,-0.041,0.254,0.208,"REB, STL, FT%, TO","PTS, AST",I add Collin Gillespie; they drop P.J. Washington,10.039,1.402,6.042,0.819,1.204,0.806,-4.416,True
+Davion,Tari Eason,BCn,55,95.000,127.000,-3.375,-3.806,-0.625,-0.499,0.134,0.177,"REB, BLK, FT%, TO","PTS, AST, 3PM, FG%",,10.039,1.402,6.042,0.819,1.204,0.806,-3.806,True
+Kyshawn,Tari Eason,BCn,55,95.000,127.000,-4.571,-1.859,-0.718,-0.219,0.159,0.056,"REB, STL, TO","PTS, AST, BLK, 3PM",,10.039,1.402,6.042,0.819,1.204,0.806,-4.571,True
+Davion + Kyshawn,Giannis Antetokounmpo,TT,23,18.000,5.000,4.113,8.480,1.021,1.566,-0.096,-0.263,"PTS, REB, STL, FG%","3PM, FT%, TO",I add Collin Gillespie; they drop Coby White,29.112,5.597,11.675,0.872,0.503,0.629,4.113,False
+Davion + Kyshawn,Kevin Durant,TT,18,30.000,20.000,5.092,6.836,0.874,1.132,-0.199,-0.226,"PTS, REB, STL, FT%","AST, TO",I add Collin Gillespie; they drop Coby White,23.286,4.026,5.892,1.155,1.859,0.864,5.092,False
+Davion + Kyshawn,Joel Embiid,TT,102,98.000,55.000,-0.037,1.083,0.268,0.445,0.103,0.076,"REB, STL, FT%","AST, 3PM",I add Collin Gillespie; they drop Coby White,22.881,3.966,8.598,0.976,0.934,0.876,-0.037,True
+Davion,Joel Embiid,TT,102,98.000,55.000,0.954,-2.073,0.167,-0.114,0.010,0.119,"PTS, REB, BLK, FT%","AST, STL, 3PM, FG%, TO",,22.881,3.966,8.598,0.976,0.934,0.876,-2.073,True
+Kyshawn,Joel Embiid,TT,102,98.000,55.000,0.598,1.316,0.152,0.318,-0.001,-0.037,"PTS, REB, FT%","AST, STL, 3PM",,22.881,3.966,8.598,0.976,0.934,0.876,0.598,True
+Davion + Kyshawn,Yaxel Lendeborg,TT,25,40.000,36.000,1.177,4.951,0.581,1.088,0.008,-0.148,"PTS, REB, STL, FT%, TO",AST,I add Collin Gillespie; they drop Coby White,18.264,4.103,7.138,0.767,1.446,0.773,1.177,True
+Davion + Kyshawn,Nickeil Alexander-Walker,TT,20,42.000,26.000,2.632,6.989,0.887,1.513,-0.092,-0.221,"PTS, STL, 3PM, FT%, TO",AST,I add Collin Gillespie; they drop Coby White,20.868,3.077,3.334,0.426,3.510,0.884,2.632,False
+Davion + Kyshawn,Caleb Wilson,TT,113,96.000,102.000,-0.095,2.293,0.237,0.556,0.056,0.009,"PTS, REB, STL, TO",AST,I add Collin Gillespie; they drop Coby White,18.523,1.991,7.342,1.225,1.419,0.747,-0.095,True
+Davion,Caleb Wilson,TT,113,96.000,102.000,1.480,-0.386,0.229,0.060,-0.034,0.058,"PTS, REB, BLK","AST, 3PM, FG%",,18.523,1.991,7.342,1.225,1.419,0.747,-0.386,True
+Kyshawn,Caleb Wilson,TT,113,96.000,102.000,0.802,2.508,0.167,0.472,-0.045,-0.107,"PTS, REB, STL, BLK, TO","AST, 3PM, FT%",,18.523,1.991,7.342,1.225,1.419,0.747,0.802,True
+Davion + Kyshawn,Jeremiah Fears,TT,106,136.000,191.000,-1.542,0.381,0.122,0.224,0.151,0.059,"REB, STL, FT%","AST, BLK",I add Collin Gillespie; they drop Coby White,15.047,4.156,4.129,0.420,1.202,0.795,-1.542,True
+Davion,Jeremiah Fears,TT,106,136.000,191.000,-0.710,-2.500,-0.178,-0.326,0.048,0.117,"PTS, REB, STL, BLK, FT%","AST, FG%, TO",,15.047,4.156,4.129,0.420,1.202,0.795,-2.500,True
+Kyshawn,Jeremiah Fears,TT,106,136.000,191.000,-0.587,1.599,0.088,0.394,0.014,-0.060,"PTS, AST, STL","BLK, 3PM",,15.047,4.156,4.129,0.420,1.202,0.795,-0.587,True
+Davion + Kyshawn,Zach Edey,TT,119,125.000,79.000,-2.379,-0.217,0.261,0.580,0.218,0.122,"REB, BLK, FG%, FT%, TO","PTS, AST, 3PM",I add Collin Gillespie; they drop Coby White,10.876,1.102,9.629,1.613,0.157,0.792,-2.379,True
+Davion,Zach Edey,TT,119,125.000,79.000,-1.315,-2.484,0.191,0.090,0.093,0.141,"REB, BLK, FG%, FT%, TO","PTS, AST, STL, 3PM",,10.876,1.102,9.629,1.613,0.157,0.792,-2.484,True
+Kyshawn,Zach Edey,TT,119,125.000,79.000,-2.042,-0.237,0.140,0.413,0.088,0.006,"REB, BLK, FG%, TO","PTS, AST, STL, 3PM",,10.876,1.102,9.629,1.613,0.157,0.792,-2.042,True
