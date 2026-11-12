@@ -18,3 +18,8 @@ Files:
 - `free_agent_moves_evaluated.csv`, `punt_vs_balanced.csv`, `stats_to_target.csv`, `my_category_identity.csv`,
   `playoff_odds_baseline.csv`, `data_checks.csv`: supporting tables.
 - `rotowire/`: put the RotoWire rankings file here as `overall-rankings_4.xlsx` (reference column only; not committed).
+
+Hashtag Basketball cross-check (optional):
+- Put the HBB supplement at `analysis/hbb/HBB_supplement_Lukawhi_<date>.xlsx` (not committed).
+- `python3 analysis/run_analysis.py --hbb analysis/hbb/<file>.xlsx --out analysis/hbb_run` runs the whole model with HBB's projections.
+- `python3 analysis/hbb_crosscheck.py <export folder> analysis/hbb/<file>.xlsx` scores every move under both projections and writes `analysis/moves_report.md`.

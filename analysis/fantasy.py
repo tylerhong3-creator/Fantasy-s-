@@ -430,3 +430,47 @@ def calibrate(d, model):
         rows.append(dict(category=c, empirical_to_model_sd_ratio=round(k, 2)))
         out[c] = float(np.clip(k, 1.0, 1.8))
     return out, pd.DataFrame(rows)
+
+
+# --------------------------------------------------------------------------- Hashtag Basketball (optional)
+def norm_name(n):
+    import re
+    import unicodedata
+    n = unicodedata.normalize('NFKD', str(n)).encode('ascii', 'ignore').decode()
+    n = n.lower().replace('.', '').replace("'", '').replace('-', ' ')
+    n = re.sub(r'\b(jr|sr|ii|iii|iv)\b', '', n)
+    return ' '.join(n.split())
+
+
+def load_hbb_sheet(path, sheet):
+    import openpyxl
+    ws = openpyxl.load_workbook(path, read_only=True, data_only=True)[sheet]
+    rows = list(ws.iter_rows(values_only=True))
+    hdr = rows[0]
+    return pd.DataFrame([r for r in rows[1:] if r and r[0] is not None], columns=hdr)
+
+
+def apply_hbb_rates(rates, path):
+    """Replace per-game rates with Hashtag Basketball's rest-of-season projection where the
+    player is matched by name. Availability/injury handling is unchanged."""
+    P = load_hbb_sheet(path, 'Proj_ROS')
+    P['key'] = P.Player.map(norm_name)
+    P = P.drop_duplicates('key').set_index('key')
+    R = rates.copy()
+    R['rate_src'] = 'model'
+    hit = 0
+    for i, r in R.iterrows():
+        k = norm_name(r['name'])
+        if k not in P.index:
+            continue
+        h = P.loc[k]
+        if any(h[c] is None for c in ['FGM', 'FGA', 'FTM', 'FTA', '3PM', 'PTS', 'REB', 'AST', 'STL', 'BLK', 'TO']):
+            continue
+        for s in STATS:
+            R.at[i, 'r_' + s] = float(h[s])
+        if h['MPG'] is not None:
+            R.at[i, 'r_MIN'] = float(h['MPG'])
+        R.at[i, 'rate_src'] = 'HBB'
+        hit += 1
+    R.attrs['hbb_matched'] = hit
+    return R

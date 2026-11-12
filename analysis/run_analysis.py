@@ -21,8 +21,15 @@ from fantasy import (CATS, COUNT_CATS, SI, STATS, MY_TEAM_ID, PLAYOFF_PERIODS, P
 from season import Season
 
 T0 = time.time()
-FOLDER = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(HERE), 'espn_fantasy_2026-27_2026-11-11')
+args = sys.argv[1:]
+HBB = None
 OUT = HERE
+if '--hbb' in args:                       # use Hashtag Basketball ROS projections as the per-game rates
+    i = args.index('--hbb'); HBB = args[i + 1]; del args[i:i + 2]
+if '--out' in args:
+    i = args.index('--out'); OUT = args[i + 1]; del args[i:i + 2]
+os.makedirs(OUT, exist_ok=True)
+FOLDER = args[0] if args else os.path.join(os.path.dirname(HERE), 'espn_fantasy_2026-27_2026-11-11')
 LUKA = 'Luka Doncic'
 
 
@@ -63,6 +70,10 @@ n_bad = int((~checks.ok).sum())
 log('log-vs-matchup mismatches:', n_bad)
 
 rates = blend_rates(d)
+if HBB:
+    from fantasy import apply_hbb_rates
+    rates = apply_hbb_rates(rates, HBB)
+    log('HBB rates applied to', rates.attrs['hbb_matched'], 'players')
 Z = zscores(rates)
 m = Model(d, Z)
 m.disp = estimate_dispersion(d, m)
@@ -479,7 +490,9 @@ R = []
 w = R.append
 w('# Lukawhi: rest-of-season analysis')
 w(f"\nBuilt from the ESPN export dated {d.league['current_date']} (scoring period {d.cur_sp}, week {d.cur_mp} in progress). "
-  f"Re-run with `python3 analysis/run_analysis.py <export folder>`. All numbers come from the export only.\n")
+  f"Re-run with `python3 analysis/run_analysis.py <export folder>`. All numbers come from the export only.\n"
+  + (f"\n**Rate source for this run: Hashtag Basketball rest-of-season projections** ({rates.attrs['hbb_matched']} players matched; "
+     "the rest use the blended ESPN rates). Injuries, schedule, lineups and variance are handled exactly as in the main run.\n" if HBB else ''))
 
 # ---- Data checks
 w('## Data checks\n')

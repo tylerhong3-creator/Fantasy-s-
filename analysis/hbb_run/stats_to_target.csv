@@ -1,0 +1,10 @@
+category,boost,extra_cats_per_reg_week,extra_cats_per_playoff_week,extra_matchup_wins_ros,score_gain
+AST,+7.1 AST per week,0.120,0.110,0.408,2.793
+PTS,+18.9 PTS per week,0.100,0.099,0.369,2.388
+BLK,+1.8 BLK per week,0.074,0.072,0.263,1.754
+TO,-2.7 TO per week,0.072,0.055,0.220,1.570
+FT%,+1.0 extra made FT on the same attempts per week,0.065,0.061,0.192,1.533
+REB,+8.2 REB per week,0.058,0.072,0.242,1.523
+FG%,+2.1 extra made FG on the same attempts per week,0.056,0.056,0.180,1.349
+3PM,+3.4 3PM per week,0.049,0.054,0.213,1.224
+STL,+1.2 STL per week,0.040,0.038,0.148,0.944

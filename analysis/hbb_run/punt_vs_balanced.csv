@@ -1,0 +1,12 @@
+strategy,moves,exp_cats_per_reg_week,exp_cats_per_playoff_week,matchup_win_pct,punted_cat_win_pct
+Current roster (no moves),,5.456,4.757,0.743,
+Balanced (best 2 waiver moves for all 9 cats),add Kris Dunn / drop Kyshawn George; add Cam Spencer / drop Jrue Holiday,5.528,5.177,0.756,
+Punt PTS (best 2 waiver moves ignoring PTS),add Kris Dunn / drop Norman Powell; add Cam Spencer / drop Jrue Holiday,5.480,5.020,0.745,0.383
+Punt REB (best 2 waiver moves ignoring REB),add Cam Spencer / drop Kyshawn George; add Kris Dunn / drop Jrue Holiday,5.528,5.177,0.756,0.801
+Punt AST (best 2 waiver moves ignoring AST),add Karlo Matkovic / drop Davion Mitchell; add Christian Braun / drop Kyshawn George,5.396,4.757,0.732,0.197
+Punt STL (best 2 waiver moves ignoring STL),add Cam Spencer / drop Kyshawn George; add Christian Braun / drop Jrue Holiday,5.523,5.071,0.753,0.670
+Punt BLK (best 2 waiver moves ignoring BLK),add Cam Spencer / drop Kyshawn George; add Kris Dunn / drop Jrue Holiday,5.528,5.177,0.756,0.555
+Punt 3PM (best 2 waiver moves ignoring 3PM),add Kris Dunn / drop Kyshawn George; add Nic Claxton / drop Jrue Holiday,5.542,5.011,0.768,0.728
+Punt FG% (best 2 waiver moves ignoring FG%),add Cam Spencer / drop Jrue Holiday; add Kris Dunn / drop Kyshawn George,5.528,5.177,0.756,0.584
+Punt FT% (best 2 waiver moves ignoring FT%),add Kris Dunn / drop Jrue Holiday; add Nic Claxton / drop Kyshawn George,5.542,5.011,0.768,0.230
+Punt TO (best 2 waiver moves ignoring TO),add Kris Dunn / drop Rui Hachimura; add Cam Spencer / drop Jrue Holiday,5.496,5.054,0.753,0.657
